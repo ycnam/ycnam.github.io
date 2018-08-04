@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               limitist-log
+title:               ycnam
 tagline:             UX, Design, IT, 조직에 대한 잡설
-url:                 https://limitist-log.github.io
+url:                 https://ycnam.github.io
 paginate:            1
 baseurl:             ""
 
