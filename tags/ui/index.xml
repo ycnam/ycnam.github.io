@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ui on ycnam</title>
+    <link>https://ycnam.github.io/tags/ui/</link>
+    <description>Recent content in Ui on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 27 Jan 2013 13:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>냉장고 정리의 문제</title>
+      <link>https://ycnam.github.io/2013-01/2013-01-27--/</link>
+      <pubDate>Sun, 27 Jan 2013 13:25:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-01/2013-01-27--/</guid>
+      <description>어머니는 이모의 집에 다녀올 때 마다 이모의 냉장고에 대해 푸념을 늘어놓으신다. 냉장고가 꽉 찼고, 그 중 반 이상은 버려야 할 것들이라는 것이다. 반면 어머니는 냉장고 관리가 매우 철저하신 편이다. 항상 반 이상의 공간을 남겨두시고, 냉장고를 열면 왠만하면 뭐가 있는지 쉽게 파악할 수 있게 정리해두신다. 따라서 상해서 버리는 음식도 거의 없다.
+냉장고 정리에 어려움을 겪는 사람은 사실 한둘이 아니다. &#39;냉장고를 정리해주는&#39; 업체가 있을 정도이니, 상당히 보편적인 문제라고 할 수 있겠다. 실제로 이모도 이러한 업체의 도움을 받은 적이 있다.</description>
+    </item>
+    
+    <item>
+      <title>iOS의 Virtual Keyboard에 대한 의문</title>
+      <link>https://ycnam.github.io/2012-11/2012-11-10-ios-virtual-keyboard-/</link>
+      <pubDate>Sat, 10 Nov 2012 15:46:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-11/2012-11-10-ios-virtual-keyboard-/</guid>
+      <description>iOS의 Virtual Keyboard는 왜 대소문자 구분을 해주지 않을까?
+언젠간 꼭 하리라 예상했는데. 특별한 이유가 있는 것일까... &amp;#13; &amp;#13; </description>
+    </item>
+    
+    <item>
+      <title>UI설계와 책상 정리의 공통점</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-04-ui-/</link>
+      <pubDate>Thu, 04 Oct 2012 15:16:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-04-ui-/</guid>
+      <description>UI를 설계하는 것은 몇 가지 점에서 &#39;책상 정리&#39;를 하는 것과 비슷하다.
+&amp;#13; 제한된 공간을 어떻게 쓰는가에 대한 문제다.&amp;#13; 뭘 새로 넣기는 쉬운데 뭔가를 버리기가 무척 힘들다. 혹시 나중에 써야할지도 모른다는 생각에...&amp;#13; 그래서 점점 복잡하고 지저분해진다.&amp;#13; 너무 복잡한 것 같아서 확 정리하면 어쩐지 전보다 필요한걸 찾기가 더 힘들어진다.&amp;#13; 깔끔한 것 보다는 나한테 익숙한 상태가 쓰기 쉽다.&amp;#13; 같은 책상이라도 누가 정리하는가에 따라 전혀 다른 책상같아보인다.&amp;#13; 항상 &#39;책상이 조금만 더 넓었으면...&#39;하고 생각하지만 막상 큰 책상을 주면 감당이 안된다.</description>
+    </item>
+    
+    <item>
+      <title>아이폰을 사기가 망설여지는 가장 큰 이유</title>
+      <link>https://ycnam.github.io/2012-07/2012-07-19--/</link>
+      <pubDate>Thu, 19 Jul 2012 01:48:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-07/2012-07-19--/</guid>
+      <description>아이폰을 사기가 망설여지는 가장 큰 이유는 안드로이드의 이 &amp;lsquo;공유&amp;rsquo; 인터페이스를 더 이상 쓸 수 없게된다는 것&amp;hellip; iOS만 써본 사람은 의외로 잘 모르더라는&amp;hellip;
+이 인터페이스로 인해서 안드로이드 유저와 iOS 유저의 &amp;lsquo;멘탈 모델&amp;rsquo;은 상당히 달라졌다. (이걸 멘탈 모델이라고 표현하는게 맞는지는 모르겠지만&amp;hellip;) 어떤 파일을 업로드 할 때, iOS 유저는 항상 &amp;lsquo;어떤 서비스에 올릴지&amp;rsquo;를 떠올리고, 안드로이드 유저는 &amp;lsquo;어떤 파일을 올릴지&amp;rsquo;를 떠올린다.
+사진을 페이스북에 올리는 상황이라면, iOS는 반드시 &amp;lsquo;페이스북&amp;rsquo;을 켜야하지만, 안드로이드는 &amp;lsquo;갤러리&amp;rsquo;를 켜서 사진을 먼저 고를 수 있다.</description>
+    </item>
+    
+    <item>
+      <title>잘만들었네잉</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-25-/</link>
+      <pubDate>Wed, 25 Jan 2012 07:16:34 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-25-/</guid>
+      <description>잘만들었네잉</description>
+    </item>
+    
+    <item>
+      <title>chrome web store 리뉴얼한 것이나 android market 리뉴얼한 것을</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-13-chrome-web-store-android-market-/</link>
+      <pubDate>Sun, 13 Nov 2011 12:03:28 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-13-chrome-web-store-android-market-/</guid>
+      <description>Chrome Web Store 리뉴얼한 것이나,
+Android Market 리뉴얼한 것을 보면
+확실히 구글이 그동안 스스로의 서비스가 상대적으로 못생겼었다는 것을 인정하기 시작한 듯 하다.</description>
+    </item>
+    
+    <item>
+      <title>개인적으로 유저스토리북이라는 서비스를 참 좋아한다 평소에 책을 많이 읽는 건 아니지만</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-15--/</link>
+      <pubDate>Mon, 15 Aug 2011 18:55:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-15--/</guid>
+      <description>개인적으로 유저스토리북이라는 서비스를 참 좋아한다.
+평소에 책을 많이 읽는 건 아니지만, 뭔가 읽은 책이나 산 책을 기록하기에 좋은 서비스이기 때문이기도 하고, 디자인도 마음에 들고. (안드로이드용 앱을 좀처럼 내놓지 않는다는게 제일 불만&amp;hellip;)
+그리고 소소한데서 감동을 주는면이 없지않아서 더 좋다.
+피드백도 잘 주고받고.
+그러는 중, 뭔가 레이블링 센스가 돋보이는 부분이 있어서 캡쳐해본다.
+&amp;lsquo;책장정리&amp;rsquo;라는 기능에서 &amp;lsquo;선택한 것들&amp;rsquo;처리하는 부분인데
+이런데서는 보통 &amp;lsquo;삭제&amp;rsquo;, &amp;lsquo;이동&amp;rsquo;과 같이 짤막한 단어를 쓰는게 보통인데,
+&amp;lsquo;어떻게 할까요?&amp;rsquo; 부터 시작해서 상당히 따뜻하게 풀어서 써놓았다.</description>
+    </item>
+    
+    <item>
+      <title>ui를 위한 스케치</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-03-ui-/</link>
+      <pubDate>Wed, 03 Aug 2011 18:34:20 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-03-ui-/</guid>
+      <description>UI를 위한 스케치.</description>
+    </item>
+    
+  </channel>
+</rss>

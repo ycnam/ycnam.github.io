@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014-03s on ycnam</title>
+    <link>https://ycnam.github.io/2014-03/</link>
+    <description>Recent content in 2014-03s on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 29 Mar 2014 15:03:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/2014-03/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2014-03/2014-03-29-link-post/</link>
+      <pubDate>Sat, 29 Mar 2014 15:03:32 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-03/2014-03-29-link-post/</guid>
+      <description>http://biz.chosun.com/site/data/html_dir/2014/03/28/2014032801016.html?right_photo
+디자인 어워드 수상에 관한 기사를 볼 때마다 드는 한 가지 의문.
+&amp;lsquo;왜 진짜 세상을 바꾸고 사람들이 살아가는 방식에 영향을 준 것들은 수상자 리스트에서 볼 수 없는걸까?&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>UX책 좀 추천해줘</title>
+      <link>https://ycnam.github.io/2014-03/2014-03-10-ux-/</link>
+      <pubDate>Mon, 10 Mar 2014 15:19:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-03/2014-03-10-ux-/</guid>
+      <description>참 미천한 경력이지만, &#39;UX&#39;라는 단어가 들어간 팀에서 일하다보니 종종 &#39;UX책 좀 추천해줘&#39;라는 부탁을 받는다. 듣자마자 머리가 좀 깜깜해지는 부탁이다.
+일단 나도 UX가 당췌 뭔지 별로 확신이 없는 것이 첫 번째 문제. 더 큰 문제는, UX라는 말이 붙은 (혹은 연관된) 책들 중 상당수가 대책없이 지루하다는 것이다.
+그래서 저런 질문을 받으면 난 반사적으로 이런 저런 질문을 던진다.
+&#34;왜요?&#34;
+리스트를 팍 던지면 대여섯권 한 번에 산 후, 가장 제너럴한 제목을 가진 책을 100페이지 이하 읽고 나머지 읽기도 포기할 것 같아서이다.</description>
+    </item>
+    
+    <item>
+      <title>첫 시도를 다루는 방식</title>
+      <link>https://ycnam.github.io/2014-03/2014-03-09--/</link>
+      <pubDate>Sun, 09 Mar 2014 11:22:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-03/2014-03-09--/</guid>
+      <description>뭔가 많이 아쉬운, 혹은 욕나오는 제품들을 만나는 순간이 있다. 그럴 때 마다 그 이유에 대해 생각해본다.
+ 그걸 만든 개인/조직의 능력이 형편없어서 윗분들이 무자비하게 밀어붙인 말도 안되는 일정때문에  전자의 경우는 사실 흔치는 않다. 유독 뛰어난 천재나 낙하산으로 떨어진 바보가 있을 수 있긴 하지만, 대체로 조직은 &amp;lsquo;충분히 잘 하는&amp;rsquo; 사람으로 꾸려진다. (특히 크고 안정적인 기업의 경우 더욱 그런 경향을 보인다)
+후자의 경우는 비일비재 하지만, 핵심적인 문제라고 보기는 좀 어렵다. 일정이 무자비하지 않은 프로젝트 자체를 찾아보기 힘들고, 널널한 일정이 프로젝트의 성공을 보장하는 것도 아니기 때문이다.</description>
+    </item>
+    
+  </channel>
+</rss>

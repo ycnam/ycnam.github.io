@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on ycnam</title>
+    <link>https://ycnam.github.io/tags/music/</link>
+    <description>Recent content in Music on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 01 Dec 2011 01:57:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>google music 너 진짜 좋은데 한글 곡명 깨지는게 해결되기 전까지 넌 메인이</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-01-google-music-/</link>
+      <pubDate>Thu, 01 Dec 2011 01:57:18 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-01-google-music-/</guid>
+      <description>Google Music 너, 진짜 좋은데.
+한글 곡명 깨지는게 해결되기 전까지
+넌 메인이 될 수 없어. </description>
+    </item>
+    
+    <item>
+      <title>2010 Music Website Heatmap</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-10-2010-music-website-heatmap/</link>
+      <pubDate>Thu, 10 Nov 2011 01:25:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-10-2010-music-website-heatmap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

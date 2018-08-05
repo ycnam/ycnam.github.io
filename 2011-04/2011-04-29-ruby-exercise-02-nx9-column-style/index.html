@@ -1,0 +1,59 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Document</title>
+</head>
+<body>
+     <div style="text-align: center; height: 75px; padding:1px;   text-transform:capitalize; background-color:#42a5f5; color:white">
+     <h1 style="margin-bottom:-10px; "><a style="text-decoration: none; color:white;"href="/">Single Template - page</a></h1>
+</div>
+
+     <div style="margin:25px;">
+          <h1>Ruby Exercise 02. Nx9 (Column style)</h1>
+          <div style="color:grey; font-size:16px;">Friday, Apr 29, 2011</div>
+          <div style="color:grey; font-size:16px;"></div>
+          <div style="font-size:18px;"><p><pre><code class="ruby">&#13;
+count = 0&#13;
+num = 0&#13;
+print "\nInput number 1 : "&#13;
+num1 = gets.to_i&#13;
+print "Input number 2 : "&#13;
+num2 = gets.to_i&#13;
+print "How many columns do you want? : "&#13;
+column = gets.to_i&#13;
+print "\n"&#13;
+&#13;
+if num1 &gt; num2&#13;
+    num = num1; num1 = num2; num2 = num&#13;
+end&#13;
+&#13;
+for i in num1..num2&#13;
+    if count == column&#13;
+        count = 0&#13;
+    elsif count != 0&#13;
+        count += 1&#13;
+        next&#13;
+    end&#13;
+    for j in 1..9&#13;
+        for k in 0..(column-1)&#13;
+            if i+k &lt;= num2&#13;
+                print i+k, " x ", j, " = ", i*j, "\t"&#13;
+            end&#13;
+        end&#13;
+        print "\n"&#13;
+    end&#13;
+    print "\n"&#13;
+    count += 1&#13;
+end&#13;
+</code></pre> </p>
+</div>
+     </div>
+     <div style="height:35px;"></div>
+<div style=" position:fixed; color: white; height:35px; background-color:#757575; bottom:0px; text-align:center; width:99%">
+     <p style="margin:10px; "><a style="color: white; " target="_blank" href="http://www.giraffeacademy.com/">Giraffe Academy</a> - Hugo Theme</p>
+</div>
+
+</body>
+</html>

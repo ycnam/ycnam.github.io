@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on ycnam</title>
+    <link>https://ycnam.github.io/tags/web/</link>
+    <description>Recent content in Web on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 24 Oct 2012 06:49:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>웹용 에디터를 리서치하면서 이것저것 써본 결과 일단 google docs</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-24--google-docs/</link>
+      <pubDate>Wed, 24 Oct 2012 06:49:11 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-24--google-docs/</guid>
+      <description>웹용 에디터를 리서치하면서 이것저것 써본 결과,
+일단 Google Docs - Document의 에디터가 제일 뛰어난 것으로 잠정 결론.
+일관된 톤 유지와 유연한 구조, 작은 부분까지 신경쓴 세심함
+눈으로는 보이지 않는 경쾌한 &amp;lsquo;손맛&amp;rsquo;이 뛰어나다.
+마우스 인터랙션과 관련된 경쾌한 손맛은 &amp;rsquo;절제의 미덕&amp;rsquo;에서 오는 듯 하다. 기능을 적절히 줄여서 쓸데없는 것은 물어보지 않는 것. 그래서 클릭을 하면 바로 본문에 무언가가 액션이 일어나도록 하는 것. 너무 많은 선택권을 주면 입력 속도가 떨어진다.
+키보드 인터랙션과 관련된 경쾌한 손맛은 &amp;lsquo;네이티브 어플리케이션의 충실한 재현&amp;rsquo;에서 오는 듯 하다.</description>
+    </item>
+    
+    <item>
+      <title>웹월드 컨퍼런스 2011와 2006 주제 비교 (서비스/전략 부문)</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-15--2011-2006-/</link>
+      <pubDate>Tue, 15 Nov 2011 11:50:45 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-15--2011-2006-/</guid>
+      <description>웹월드 컨퍼런스 2011 &amp;lsquo;서비스 전략&amp;rsquo;을 주제로 한 첫 날.
+&amp;#13; 10시부터 6시까지, 8개의 세션을 같은 자리에 앉아 쭉 듣는 것이
+얼마나 힘든지 다시 한번 느낀 날&amp;hellip;
+&amp;#13; -커머스
+-소셜
+-미디어
+-스마트폰
+-스마트패드
+-스마트TV
+-신기술
+&amp;#13; 의 관점에서 2011년의 동향과 2012년 예측을 하는 자리였다.
+&amp;#13; 어떤 세션은 상당히 좋았고, (특히 커머스 세션. 지금 e-commerce를 둘러싼 현황을 말끔하게 정리하고 그것으로 자신들의 새로운 서비스를 어떻게 만들어냈는지에 대한 멋진 사례로 마무리) 어떤 세션은 정말 심하게 무성의했다.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-04-link-post/</link>
+      <pubDate>Mon, 04 Jul 2011 02:03:54 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-04-link-post/</guid>
+      <description>http://www.20thingsilearned.com/en-US/home</description>
+    </item>
+    
+    <item>
+      <title>Quote post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-16-quote-post/</link>
+      <pubDate>Wed, 16 Mar 2011 01:07:22 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-16-quote-post/</guid>
+      <description>웹 폼 디자인 - 루크 로블르스키 지음 / 인사이트 - p.98
+ 빨간 글자는 오류를 위해서만 쓰는 것이 좋다.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

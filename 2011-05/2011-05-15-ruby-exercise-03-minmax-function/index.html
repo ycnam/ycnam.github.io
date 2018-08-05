@@ -1,0 +1,75 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Document</title>
+</head>
+<body>
+     <div style="text-align: center; height: 75px; padding:1px;   text-transform:capitalize; background-color:#42a5f5; color:white">
+     <h1 style="margin-bottom:-10px; "><a style="text-decoration: none; color:white;"href="/">Single Template - page</a></h1>
+</div>
+
+     <div style="margin:25px;">
+          <h1>Ruby Exercise 03. min/max function</h1>
+          <div style="color:grey; font-size:16px;">Sunday, May 15, 2011</div>
+          <div style="color:grey; font-size:16px;"></div>
+          <div style="font-size:18px;"><p><p>1. 배열 안에 다섯개의 정수를 입력받은 input()함수<br /> 2. 정수 배열 안에서 최대값과 최소값을 Return해주는 함수 min(), max()<br /> 3. 그 값을 받아 출력해주는 output()함수</p>&#13;
+&#13;
+<pre><code class="ruby">&#13;
+$num = Array.new&#13;
+&#13;
+def input()&#13;
+    for i in 0..4&#13;
+        print &ldquo;\n비교를 원하는 수를 5개를 입력하세요. (현재 &ldquo;, 5-i, &ldquo;개 남음) : &ldquo;&#13;
+        inp = gets.to_i&#13;
+        $num.push(inp)&#13;
+    end&#13;
+    print &ldquo;\n입력이 완료되었습니다. 입력된 수는 &ldquo;&#13;
+    for i in 0..4&#13;
+        if i == 4&#13;
+            print $num[i]&#13;
+        else&#13;
+            print $num[i], &ldquo;, &ldquo;&#13;
+        end&#13;
+    end&#13;
+    puts &ldquo;입니다.&rdquo;&#13;
+end&#13;
+&#13;
+def max(num)&#13;
+    maxNum = num[0]&#13;
+    for i in 1..num.size-1&#13;
+        if maxNum &lt; num[i]&#13;
+            maxNum = num[i]&#13;
+        end&#13;
+    end&#13;
+    return maxNum&#13;
+end&#13;
+&#13;
+def min(num)&#13;
+    minNum = num[0]&#13;
+    for i in 1..num.size-1&#13;
+        if minNum &gt; num[i]&#13;
+            minNum = num[i]&#13;
+        end&#13;
+    end&#13;
+    return minNum&#13;
+end&#13;
+&#13;
+def output(op, attr = &ldquo;원하는 값&rdquo;)&#13;
+    print &ldquo;\n&rdquo;, attr, &ldquo;은(는) &ldquo;, op, &ldquo;입니다.&rdquo;&#13;
+end&#13;
+&#13;
+input()&#13;
+output(max($num), &ldquo;최대값&rdquo;)&#13;
+output(min($num), &ldquo;최소값&rdquo;)&#13;
+</code></pre></p>
+</div>
+     </div>
+     <div style="height:35px;"></div>
+<div style=" position:fixed; color: white; height:35px; background-color:#757575; bottom:0px; text-align:center; width:99%">
+     <p style="margin:10px; "><a style="color: white; " target="_blank" href="http://www.giraffeacademy.com/">Giraffe Academy</a> - Hugo Theme</p>
+</div>
+
+</body>
+</html>

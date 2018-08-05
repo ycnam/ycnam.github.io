@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on ycnam</title>
+    <link>https://ycnam.github.io/tags/wordpress/</link>
+    <description>Recent content in Wordpress on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 10 Nov 2011 17:34:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wordpress를 쓰다가 Tumblr를 쓰는데</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-10-wordpress-tumblr-/</link>
+      <pubDate>Thu, 10 Nov 2011 17:34:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-10-wordpress-tumblr-/</guid>
+      <description>Wordpress의 테마를 주무를 수 있을 때 까지 임시로 쓰려고
+Tumblr에 잡설을 쓰기 시작했는데
+날이 갈수록 워드프레스로 돌아가야 하는 이유가 불분명해지고 있다. </description>
+    </item>
+    
+  </channel>
+</rss>

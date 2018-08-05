@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Path on ycnam</title>
+    <link>https://ycnam.github.io/tags/path/</link>
+    <description>Recent content in Path on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 14 Mar 2012 17:15:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/path/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>이거 참 묘한 검색결과다 페북과의 결별을 위해 탄생한 서비스가 페북을 마침내 연결하다</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-14--/</link>
+      <pubDate>Wed, 14 Mar 2012 17:15:13 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-14--/</guid>
+      <description>이거 참 묘한 검색결과다.
+페북과의 결별을 위해 탄생한 서비스가 페북을 마침내 연결하다.
+결국 모두 패배를 인정한 셈인가&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-08-link-post/</link>
+      <pubDate>Thu, 08 Dec 2011 10:37:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-08-link-post/</guid>
+      <description>http://www.elezea.com/2011/12/google-path-ui-design/
+좋은 UI 디자인 만으로 근본적인 문제를 해결할 수 없음을, Google+의 Circle UI와 Path 2.0의 극강 디테일 UI의 예를 들어 설명한 포스팅.
+구글+의 Circle UI는 직관적인데다가 구글의 UI디자인에서는 좀처럼 찾아보기 힘든 따뜻함(Warmth)까지 지니고 있지만, 친구가 100명쯤 넘어가면 내가 어느 친구를 어느 써클에 넣었는지, 어떤 써클에 누가 있는지를 기억해 낼 수 없기 때문에 문제가 발생한다.
+패스2.0은 (필자의 경험에 의하면) 시계가 움직이는 애니메이션을 보기 위해 그냥 스크롤링을 하고 있을 정도로 Fantastic한 디자인을 가지고 있고 이는 실제 성과로도 나타나 Path App은 드디어 App Store Top 25내에 진입하였다.</description>
+    </item>
+    
+    <item>
+      <title>Path 2.0에 대한 단상</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-01-path-20-/</link>
+      <pubDate>Thu, 01 Dec 2011 06:33:12 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-01-path-20-/</guid>
+      <description>디자이너들이 Path 2.0에 열광하는걸로 봐서
+이 서비스 잘 안될거같다.
+&amp;#13; &amp;#13; ㅋ</description>
+    </item>
+    
+  </channel>
+</rss>

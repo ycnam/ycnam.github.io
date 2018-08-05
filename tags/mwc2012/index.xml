@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mwc2012 on ycnam</title>
+    <link>https://ycnam.github.io/tags/mwc2012/</link>
+    <description>Recent content in Mwc2012 on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 27 Feb 2012 16:33:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/mwc2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>오늘 줏어들은 MWC 2012 소식 (day 1)</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-27--mwc-2012-day-1/</link>
+      <pubDate>Mon, 27 Feb 2012 16:33:57 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-27--mwc-2012-day-1/</guid>
+      <description>뭐 죄다 안드로이드 폰들 뿐이었네
+일단 포문을 연 것은 HTC의 One 삼형제
+&amp;#13; &amp;#13; HTC One X, S, V 그리고 Sense 4.0
+&amp;#13;  X가 최상급 모델, S가 중간 모델, V는 저가형 모델이라고 함.
+X랑 S는 대략 Thunderbolt / Sensation 디자인 계보를 이은 듯 하고, V는 HTC 레거시 중 전설의 레전드인 Legend의 디자인을 이어 받았다. (개인적으로는 V쪽 디자인이 끌린다. 하지만 쉽게 질릴 스타일이려나...)
+요 새로운 라인업과 함께 HTC Sensu UI 4.</description>
+    </item>
+    
+  </channel>
+</rss>

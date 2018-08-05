@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on ycnam</title>
+    <link>https://ycnam.github.io/tags/project/</link>
+    <description>Recent content in Project on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 30 Jan 2012 16:28:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>product backlog release backlog sprint</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-30-product-backlog-release-backlog-sprint/</link>
+      <pubDate>Mon, 30 Jan 2012 16:28:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-30-product-backlog-release-backlog-sprint/</guid>
+      <description>Product Backlog - Release Backlog - Sprint - Burnout chart &amp;amp; Daily Scrum Meeting 스프린트 검색하다 발견.
+이런 날티나면서 핵심을 잘 설명하는 비디오가 좋다.
+그리고 이런 프로세스도 나름 재미가 있군.
+http://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%9F%BC_(%EC%95%A0%EC%9E%90%EC%9D%BC_%EA%B0%9C%EB%B0%9C_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projectmanagement on ycnam</title>
+    <link>https://ycnam.github.io/tags/projectmanagement/</link>
+    <description>Recent content in Projectmanagement on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 31 Oct 2012 15:25:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/projectmanagement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#39;이거 돼요?&#39;라는 질문을 함부로 하면 안되는 이유</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-31--/</link>
+      <pubDate>Wed, 31 Oct 2012 15:25:30 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-31--/</guid>
+      <description>개발 조직과 협업할 때, 설계서를 제시하면서 &#39;이거 돼요?&#39; 라는 질문을 함부로 해선 안되겠다는 생각이 들었다. 가장 큰 이유는...
+&amp;#13; 그게 되는지 아니면 어려운지, 한다면 얼마나 걸리는지를 판단하는 그 자체도 시간이 걸리기 때문이 아닐까 싶다. (정확한 답변을 주는데는 생각보다 꽤 많은 시간이 걸리는 것 같다)
+&amp;#13; 저 질문을 남발하면, 개발 조직에는 개발 가능성 및 일정 산정에 시간을 쓰게 되고, 이는 전부 &#39;비용&#39;이 되는데, 이게 눈에는 잘 안보여서 남발하기 딱 좋은게 아닐까. &#39;정확한 일정 산정&#39;은 어쩌면 구현 자체보다 더 어려운 것일지도 모르겠다.</description>
+    </item>
+    
+  </channel>
+</rss>

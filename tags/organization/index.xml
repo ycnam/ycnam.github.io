@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organization on ycnam</title>
+    <link>https://ycnam.github.io/tags/organization/</link>
+    <description>Recent content in Organization on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 06 Jun 2012 08:37:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>망하는 회의 step by step</title>
+      <link>https://ycnam.github.io/2012-06/2012-06-06--step-by-step/</link>
+      <pubDate>Wed, 06 Jun 2012 08:37:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-06/2012-06-06--step-by-step/</guid>
+      <description>01. 기본 세팅 - 회의 참가자가 8명이 넘는다
+02. 가면 PPT가 틀어져있거나 PPT를 출력한 문서가 놓여있다
+03. 지금 처음 본 문서인데, 그래프와 모호한 문장으로 꽉꽉 채운 PPT의 가독성이 심각하다
+&amp;#13; (모호한 문장 예시 : Customer Needs를 바탕으로 한 UX개편을 통해 Market Portion을 증대시키고 성공적인 Monetization 기반 확보 -&amp;gt; 요런건 20포인트 넘는 크기로 쓰고 이탤릭으로 쓰는게 핵심)&amp;#13; 04. 회의를 주최한 사람이 PPT를 한장한장 넘겨가며 읽는다
+05. 당연히 참가한 사람들은 뭔말 하는지 &#39;잘은&#39; 모르지만 모른다고 하진 않는다</description>
+    </item>
+    
+  </channel>
+</rss>

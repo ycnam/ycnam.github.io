@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on ycnam</title>
+    <link>https://ycnam.github.io/tags/apple/</link>
+    <description>Recent content in Apple on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 19 Sep 2012 16:16:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>다음 혁신은 언제 올까?</title>
+      <link>https://ycnam.github.io/2012-09/2012-09-19--/</link>
+      <pubDate>Wed, 19 Sep 2012 16:16:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-09/2012-09-19--/</guid>
+      <description>&#39;아이폰 5에 혁신은 없었다&#39;며 사람들이 실망하고, 역시 잡스가 없어서 애플은 끝났다느니 하는 이야기가 도는 한편, &#39;매 아이폰마다 혁신이 없었음&#39;을 증명하는 이런 그림도 등장한지 이제 일주일쯤 지난 것 같다.
+&amp;#13; 슬슬 아이폰 5 실물을 받고 리뷰도 나오기 시작하는데, 분위기를 슥 보고 내가 나름 내린 결론은 &#39;역시 애플은 죽지 않았어&#39;이다. 아이폰 5에 대한 리뷰는 찬사 일색이다. &#39;바꾸지 않을 이유가 전혀 없다&#39;, &#39;최고의 스마트폰이다&#39;, &#39;완벽한 마무리 빈틈없는 디자인이다&#39;...
+&amp;#13; 역시. &#39;완벽에 가까운 디테일&#39;은 애플이라는 회사 깊숙히 스며있는 문화이고, CEO 한 명이 없어졌다고 1년만에 없어질만한 것이 아닐테지.</description>
+    </item>
+    
+    <item>
+      <title>Skeuomorphism에 관한 논쟁, Apple과 Microsoft의 디자인 방향</title>
+      <link>https://ycnam.github.io/2012-09/2012-09-15-skeuomorphism-apple-microsoft-/</link>
+      <pubDate>Sat, 15 Sep 2012 15:28:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-09/2012-09-15-skeuomorphism-apple-microsoft-/</guid>
+      <description>Fast company의 한 칼럼을 읽고, 최근 디지털 미디어 디자인계(?)에 Skeuomorphism에 관한 논쟁이 있음을 알게 되었다. (아마도 오래전부터 있었던 논쟁이겠지만)
+&amp;#13; 발음도, 스펠도 어려운 Skeuomorphism은 간단히 (그리고 다소 부정확하게) 말하자면 &#39;원래 물품의 장식적 특성을 현재 물품에 적용하는 것(설령 예전 그 특성이 지금 물품에는 필요하지 않더라도)&#39;이라 할 수 있겠다. 예를 들어, 음악을 재생해주는 컴퓨터의 어플리케이션이 실제 오디오와 비슷한 모양을 가지는 경우와 같은 것이다.
+&amp;#13; GUI 디자인은 Apple과 Mac OS에 의해 대중화되면서부터 Skeuomorphism의 성격을 내재하고 있었다.</description>
+    </item>
+    
+    <item>
+      <title>apple message 테스트 대화내용이 다소 애플 널디하지만 참 잘만들었소</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-16-apple-message-/</link>
+      <pubDate>Thu, 16 Feb 2012 16:35:40 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-16-apple-message-/</guid>
+      <description>Apple Message 테스트.
+대화내용이 다소 애플 널디하지만&amp;hellip;
+참 잘만들었소 애플양반. </description>
+    </item>
+    
+    <item>
+      <title>The Insanely Great History of Apple</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-17-the-insanely-great-history-of-apple/</link>
+      <pubDate>Thu, 17 Nov 2011 16:27:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-17-the-insanely-great-history-of-apple/</guid>
+      <description>&amp;#13;  via &amp;#13; http://visual.ly/insanely-great-history-apple </description>
+    </item>
+    
+    <item>
+      <title>itunes의 itunes store 가입 폼 미려한 디자인과 세세한 안내문구가</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-20-itunes-itunes-store-/</link>
+      <pubDate>Wed, 20 Jul 2011 16:46:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-20-itunes-itunes-store-/</guid>
+      <description>iTunes의 iTunes Store 가입 폼.
+미려한 디자인과 세세한 안내문구가 인상적이다.
+아이디 입력시 주의사항의 경우는 너무 글씨가 작고 흐린게 문제이긴 함.
+우측에 에러메세지를 모아서 보여주는 것도 괜찮음.
+(이 폼을 완료하기 전에 이 모든 것을 해결해야할 것의 묶음)
+역시 Apple이다.. 잘만들었다.. 하며 완료를 눌렀을 때,
+&amp;lsquo;지금은 안되니까 나중에 다시해&amp;rsquo;
+라는 황당하고도 불친절한 에러메시지 때문에 다 망했다, 이놈들아 </description>
+    </item>
+    
+    <item>
+      <title>소비자 관점의 애플제품 구매 프로세스의 특성.</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-25--/</link>
+      <pubDate>Fri, 25 Mar 2011 02:43:54 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-25--/</guid>
+      <description>1. 고민 : 이걸 살 필요가 있을까? 이 가격에?
+2. 결심 : (주로 새벽에) 에이 모르겠다 질러!
+3. 후회 : (배송 대기하는 동안) 아, 내가 미쳤었나봐
+4. 초조 : 근데 왜 이렇게 안오는거야... 오늘 올줄 알았는데
+5. 망각 : (제품 도착 후 박스를 뜯으면서 모든 후회를 잊어버림)
+6. 감동</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive on ycnam</title>
+    <link>https://ycnam.github.io/tags/archive/</link>
+    <description>Recent content in Archive on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 20 Jul 2011 16:46:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>itunes의 itunes store 가입 폼 미려한 디자인과 세세한 안내문구가</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-20-itunes-itunes-store-/</link>
+      <pubDate>Wed, 20 Jul 2011 16:46:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-20-itunes-itunes-store-/</guid>
+      <description>iTunes의 iTunes Store 가입 폼.
+미려한 디자인과 세세한 안내문구가 인상적이다.
+아이디 입력시 주의사항의 경우는 너무 글씨가 작고 흐린게 문제이긴 함.
+우측에 에러메세지를 모아서 보여주는 것도 괜찮음.
+(이 폼을 완료하기 전에 이 모든 것을 해결해야할 것의 묶음)
+역시 Apple이다.. 잘만들었다.. 하며 완료를 눌렀을 때,
+&amp;lsquo;지금은 안되니까 나중에 다시해&amp;rsquo;
+라는 황당하고도 불친절한 에러메시지 때문에 다 망했다, 이놈들아 </description>
+    </item>
+    
+    <item>
+      <title>네이버 다음 네이트 야후 구글 어도비 olleh app 아이콘</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-12--olleh-app-/</link>
+      <pubDate>Tue, 12 Jul 2011 00:57:44 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-12--olleh-app-/</guid>
+      <description>네이버 - 다음 - 네이트 - 야후 - 구글 - 어도비 - Olleh
+App 아이콘 비교
+출처 : http://wegeeked.com/archive/7/2011</description>
+    </item>
+    
+    <item>
+      <title>그리고 스타벅스 로고의 미래</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-11--/</link>
+      <pubDate>Fri, 11 Mar 2011 16:58:18 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-11--/</guid>
+      <description>그리고 스타벅스 로고의 미래</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-/</link>
+      <pubDate>Thu, 10 Mar 2011 15:28:09 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>일종의 지향점 1</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10--1/</link>
+      <pubDate>Thu, 10 Mar 2011 15:27:23 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10--1/</guid>
+      <description>일종의 지향점 (1)</description>
+    </item>
+    
+  </channel>
+</rss>

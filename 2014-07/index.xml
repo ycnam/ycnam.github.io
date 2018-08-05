@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014-07s on ycnam</title>
+    <link>https://ycnam.github.io/2014-07/</link>
+    <description>Recent content in 2014-07s on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Fri, 11 Jul 2014 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/2014-07/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>큰 회사에서 하는 일</title>
+      <link>https://ycnam.github.io/2014-07/2014-07-11--/</link>
+      <pubDate>Fri, 11 Jul 2014 14:00:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-07/2014-07-11--/</guid>
+      <description>1.
+프로세스 정립 프로세스를 수립하기 위한 위원회를 구성하고자 전체 담당자 회의를 가지고자 하오니 가능하신 시간과 아젠다를 적어 본 메일에 회신주시기 바랍니다
+2.
+본 건에 대한 상세 내용을 수합하고자 수합 담당자를 수합하고자 하오니 이를 진행할 담당자를 지정하는 협조전을 작성하여 보내주시기 바랍니다</description>
+    </item>
+    
+    <item>
+      <title>예상치 못한 문제</title>
+      <link>https://ycnam.github.io/2014-07/2014-07-10--/</link>
+      <pubDate>Thu, 10 Jul 2014 16:12:13 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-07/2014-07-10--/</guid>
+      <description>예상치 못한 문제를 발견하는 방법
+-&amp;gt; 예상하는대로 실행하고 문제가 발생할 때 까지 진행한다.
+분명히 &#39;해봐야 발견하는 문제&#39;가 많은데
+문제가 발견되면 &#39;왜 예상하지 못했나&#39;를 따지고 들게 된다.</description>
+    </item>
+    
+  </channel>
+</rss>

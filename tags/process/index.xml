@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process on ycnam</title>
+    <link>https://ycnam.github.io/tags/process/</link>
+    <description>Recent content in Process on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Fri, 25 Mar 2011 02:43:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>소비자 관점의 애플제품 구매 프로세스의 특성.</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-25--/</link>
+      <pubDate>Fri, 25 Mar 2011 02:43:54 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-25--/</guid>
+      <description>1. 고민 : 이걸 살 필요가 있을까? 이 가격에?
+2. 결심 : (주로 새벽에) 에이 모르겠다 질러!
+3. 후회 : (배송 대기하는 동안) 아, 내가 미쳤었나봐
+4. 초조 : 근데 왜 이렇게 안오는거야... 오늘 올줄 알았는데
+5. 망각 : (제품 도착 후 박스를 뜯으면서 모든 후회를 잊어버림)
+6. 감동</description>
+    </item>
+    
+  </channel>
+</rss>

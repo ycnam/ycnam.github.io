@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valve on ycnam</title>
+    <link>https://ycnam.github.io/tags/valve/</link>
+    <description>Recent content in Valve on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 21 Apr 2012 14:40:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/valve/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-21-link-post/</link>
+      <pubDate>Sat, 21 Apr 2012 14:40:46 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-21-link-post/</guid>
+      <description>http://cdn.flamehaus.com/Valve_Handbook_LowRes.pdf
+기업문화가 밖으로 새어나온 사례
+2. Valve
+대략 이 회사는 가이드+위트 문화가 발달해있는게 아닐까 하는
+예측을 살짝 해봄. </description>
+    </item>
+    
+  </channel>
+</rss>

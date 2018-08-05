@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nateon on ycnam</title>
+    <link>https://ycnam.github.io/tags/nateon/</link>
+    <description>Recent content in Nateon on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 15 Aug 2011 19:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/nateon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SNS &#43; Mobile IM</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-15-sns-mobile-im/</link>
+      <pubDate>Mon, 15 Aug 2011 19:09:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-15-sns-mobile-im/</guid>
+      <description>SNS와 Instant Messenger의 결합이 너무나 분명하게 보이는 추세...
+&amp;#13; 1. [싸이월드 + 네이트온 (네이트온 / 네이트온UC / 네이트온톡)]
+: 사실상 원조격. 그런데 모바일IM이 너무 늦었다는 안타까움
+&amp;#13; 2. [Google+ + Huddle]
+: 아예 구글+ 앱과 동시에 IM을 철저히 염두에 둔 경우.
+웹에서 만든 써클에 확 메시지를 뿌릴 수 있다는 점이 인상적.
+그러나 Huddle App자체가 (아직은)너무 헐렁해서 아쉬움.
+&amp;#13; 3. [Facebook + Messenger]
+: 좋은 아이디어. 메신저를 따로 떼어놓다니.
+그런데 쫌만 빨리 했음 좋았을텐데.</description>
+    </item>
+    
+  </channel>
+</rss>

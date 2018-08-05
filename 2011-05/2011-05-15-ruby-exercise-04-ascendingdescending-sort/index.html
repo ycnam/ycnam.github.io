@@ -1,0 +1,88 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Document</title>
+</head>
+<body>
+     <div style="text-align: center; height: 75px; padding:1px;   text-transform:capitalize; background-color:#42a5f5; color:white">
+     <h1 style="margin-bottom:-10px; "><a style="text-decoration: none; color:white;"href="/">Single Template - page</a></h1>
+</div>
+
+     <div style="margin:25px;">
+          <h1>Ruby Exercise 04. ascending/descending sort</h1>
+          <div style="color:grey; font-size:16px;">Sunday, May 15, 2011</div>
+          <div style="color:grey; font-size:16px;"></div>
+          <div style="font-size:18px;"><p><p>오름차순, 내림차순 정렬 실습.</p>&#13;
+<pre><code class="ruby">&#13;
+$num = Array.new&#13;
+&#13;
+def input()&#13;
+    for i in 0..4&#13;
+        print &ldquo;\n비교를 원하는 수를 5개를 입력하세요. (현재 &ldquo;, 5-i, &ldquo;개 남음) : &ldquo;&#13;
+        inp = gets.to_i&#13;
+        $num.push(inp)&#13;
+    end&#13;
+    print &ldquo;\n입력이 완료되었습니다. 입력된 수는 &ldquo;&#13;
+    for i in 0..4&#13;
+        if i == 4&#13;
+            print $num[i]&#13;
+        else&#13;
+            print $num[i], &ldquo;, &ldquo;&#13;
+        end&#13;
+    end&#13;
+    puts &ldquo;입니다.&rdquo;&#13;
+end&#13;
+&#13;
+def ascent(num)&#13;
+    ascendingSort = Array.new&#13;
+    ascendingSort.push(num[0])&#13;
+    for i in 1..num.size-1&#13;
+        notBiggest = false&#13;
+        for j in 0..i-1&#13;
+            if ascendingSort[j] &gt; num[i]&#13;
+                ascendingSort.insert(j, num[i])&#13;
+                notBiggest = true&#13;
+                break&#13;
+            end&#13;
+        end&#13;
+        if notBiggest == false&#13;
+            ascendingSort.push(num[i])&#13;
+        end&#13;
+    end&#13;
+    print &ldquo;\n오름차순 : &ldquo;, ascendingSort.inspect, &ldquo;\n&rdquo;&#13;
+end&#13;
+&#13;
+def descent(num)&#13;
+    descendingSort = Array.new&#13;
+    descendingSort.push(num[0])&#13;
+    for i in 1..num.size-1&#13;
+        notSmallest = false&#13;
+        for j in 0..i-1&#13;
+            if descendingSort[j] &lt; num[i]&#13;
+                descendingSort.insert(j, num[i])&#13;
+                notSmallest = true&#13;
+                break&#13;
+            end&#13;
+        end&#13;
+        if notSmallest == false&#13;
+            descendingSort.push(num[i])&#13;
+        end&#13;
+    end&#13;
+    print &ldquo;내림차순 : &ldquo;, descendingSort.inspect, &ldquo;\n\n&rdquo;&#13;
+end&#13;
+&#13;
+input()&#13;
+ascent($num)&#13;
+descent($num)&#13;
+</code></pre></p>
+</div>
+     </div>
+     <div style="height:35px;"></div>
+<div style=" position:fixed; color: white; height:35px; background-color:#757575; bottom:0px; text-align:center; width:99%">
+     <p style="margin:10px; "><a style="color: white; " target="_blank" href="http://www.giraffeacademy.com/">Giraffe Academy</a> - Hugo Theme</p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essay on ycnam</title>
+    <link>https://ycnam.github.io/tags/essay/</link>
+    <description>Recent content in Essay on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Fri, 05 Jun 2015 15:56:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>기능 추가는 나쁘다.</title>
+      <link>https://ycnam.github.io/2015-06/2015-06-05--/</link>
+      <pubDate>Fri, 05 Jun 2015 15:56:06 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2015-06/2015-06-05--/</guid>
+      <description>‘기능 추가는 나쁘다&#39;
+좀 과격하게 썼지만, 요즘 머릿속에 꼭꼭 넣고 있는 말이다. 좀 더 풀어쓰자면,&amp;nbsp;
+‘기능 추가에는 생각보다 아주 큰 비용이 숨어있다. 그 비용을 잊지 말자&#39;
+는 것이다.&amp;nbsp;
+‘기능 추가’가 나쁠 수 있을까?
+‘기능’이 있으면 편해진다.
+편해지는 것을 ‘추가’하면 당연히 더 좋아지는 것 아닐까?
+결코 그렇지 않다.
+모든 &#39;기능 추가’에는 이런 비용이 ‘숨어있기&#39; 때문이다.
+1. 기능 추가에는 시간과 돈이 든다.
+2. 기능 추가는 제품의 복잡도를 높여서 사용을 어렵게 만든다.</description>
+    </item>
+    
+    <item>
+      <title>좋은 팀에 대하여</title>
+      <link>https://ycnam.github.io/2014-10/2014-10-16--/</link>
+      <pubDate>Thu, 16 Oct 2014 17:06:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-10/2014-10-16--/</guid>
+      <description>짧은 사회생활 동안, 나는 참 &#39;팀운&#39;이 좋았다. 특히 큰 조직에서는 좋은 팀을 만나기 더 어렵다는 점을 생각해보면 운이 굉장히 좋았던 것. 그냥 &#39;좋다&#39;라고만 생각해왔는데, 뭐가 그렇게 만들었던 것일까? 생각을 정리해본다. 지극히 주관적으로.
+1. 팀원이 팀원으로부터 배운다.
+정기적인 팀 스터디는 유지하기 쉽지 않지만 잘 돌아가면 효과는 대단히 크다. 서로가 서로를 존중하게 된다는 것. 이 팀에서 내가 뭔가 &#39;배우고 있다&#39;는 &#39;느낌&#39;을 준다는 점. (주니어의 경우, 이 느낌이 없어서 회사를 떠나는 경우가 정말 많다) 남을 가르치기 위해 스스로가 엄청 공부하게 되어서 성장하게 된다는 점 등.</description>
+    </item>
+    
+    <item>
+      <title>매끄러운 UX의 비결은 어쩌면</title>
+      <link>https://ycnam.github.io/2014-09/2014-09-04--ux-/</link>
+      <pubDate>Thu, 04 Sep 2014 15:27:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-09/2014-09-04--ux-/</guid>
+      <description>최근 투자를 많이 받았거나 폭발적으로 성장하는 서비스들은 모두 군더더기 없고 몇몇 포인트에선 &#39;오!&#39;하는 감탄사를 자아내는, 매끄러운 사용자 경험을 제공한다.
+최근 이런 느낌을 준 서비스는 Uber, 쏘카, 왓챠, Duolingo, Coin, Hyperlapse 등이 있었고, Instagram이나 Vine과 같은 서비스는 엄청난 성장에도 불구하고 여전히 심플함과 매끄러움을 유지하고 있다는 점에서 놀라움을 준다.
+이는 제법 새로운 경험이다. &#39;시너지&#39;라는 명목하에, 또는 기존 사용자들의 눈치를 보느라 이것저것 하나도 버리지못한 포털식 UX와도 다른 것이고, 안쓰는 기능이 80%쯤 될듯한, 오랜 역사에 빛나는 데스크탑 어플리케이션이 주는 느낌과도 상당히 다른 것이다.</description>
+    </item>
+    
+    <item>
+      <title>문제 정의와 문제 해결에 대한 단상</title>
+      <link>https://ycnam.github.io/2014-08/2014-08-30--/</link>
+      <pubDate>Sat, 30 Aug 2014 16:18:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-08/2014-08-30--/</guid>
+      <description>&amp;ldquo;사실 고객의 문제가 무엇인지 알고 있다면, 그 문제를 해결하는 것은 쉬운 일이다.&amp;rdquo; &amp;mdash; 실전 웹사이트 분석 A to Z (Web Analytics&amp;nbsp;: An Hour a Day) - p. 57
+ 제품을 개발하는데 있어 &amp;lsquo;문제 정의&amp;rsquo;의 중요성을 강조하는 시각이 많다. 위 인용 문구도 그것을 강조한 것이며, 린 스타트업 방법론에서도 전체 과정 중 가장 중요한 것으로 &amp;lsquo;문제 정의&amp;rsquo;를 꼽고 있다. (스타트업의 가장 큰 위험은 &amp;lsquo;아무도 원하지 않는 제품&amp;rsquo;을 만드는 것이다 - 라는 문장으로 대표되는)</description>
+    </item>
+    
+    <item>
+      <title>2014.</title>
+      <link>https://ycnam.github.io/2014-01/2014-01-04-2014/</link>
+      <pubDate>Sat, 04 Jan 2014 18:32:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-01/2014-01-04-2014/</guid>
+      <description>2014년의 첫 포스팅.
+한 동안 포스팅에서 손을 놓고 있었다고 생각했다. 확인해보니 12월 한달간 아무것도 쓰지 않았다. 12월은 처음으로 &#39;무직&#39;상태로 전환되는 시점이었다. 새해를 활기차게 맞이하기 위해 12월에 했던 생각들을 간단히 정리해본다.
+1. IT 회사가 잘 돌아가는데 있어서 가장 중요한 것은 &#39;리더&#39;의 역량이다.
+좀 더 정확한 느낌은... 진짜 개 미친 뛰어난 리더도 실패할 수 있지만, 평범한 리더가 이끄는 IT 회사가 잘 될 수는 없다. 하물며 평균 이하의 리더들이 이끄는 회사의 미래는 뭐... ^^ (내가 현재 무직인 이유가 꼭 이건 아니겠지)</description>
+    </item>
+    
+    <item>
+      <title>대단하다, 야후</title>
+      <link>https://ycnam.github.io/2013-05/2013-05-21--/</link>
+      <pubDate>Tue, 21 May 2013 15:46:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-05/2013-05-21--/</guid>
+      <description>최근 야후가 보여주는 행보가 참 &#39;화려하다&#39;. 얼마 전 까지만 해도 미래가 무척이나 암울한 회사였는데 말이다. 무슨 일들이 있었던 건지, 야후와 관련된 주요 뉴스들을 정리해봤다.
+
+2012.05 뉴스 스탠드 종료 2012.06 마리사 메이어 CEO 취임 2012.10 야후 웹사이트 개편 2012.12 야후 메일 개편 2013.03 Summly 인수 (30m $) 2013.05 Tumblr 인수 (1.1b $), Flickr 개편  2012년 5월, 뉴스 스탠드를 종료하던 야후는 &#39;정말로 우울&#39;해보였다. 야심차게 준비한 태블릿용 서비스 뉴스 스탠드는 출시 예정일을 훨씬 넘겨서야 등장했고, 6개월만에 사라졌다.</description>
+    </item>
+    
+    <item>
+      <title>아이디어에 대한 미신</title>
+      <link>https://ycnam.github.io/2013-05/2013-05-14--/</link>
+      <pubDate>Tue, 14 May 2013 23:30:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-05/2013-05-14--/</guid>
+      <description>&#39;좋은 해결책&#39;을 찾는 것에 대한 가장 큰 미신은 이것이 아닐까.
+&#34;모두가 머리를 맞대고 생각해보면 좋은 방법을 찾을 수 있을거야!&#34;
+해결책을 찾아야하는 문제 상황을 가만히 들여다보면, 해결책을 제시할 수 있는 사람이 부족해서 문제인 경우보다는 너무 많아서 문제인 경우가 훨씬 많은 것 같다.
+어떤 사람이 최고의 결과물을 내기 위해 최선을 다하게 만드는 요인은 두 가지가 있다.
+ 권한 책임  아이디어를 던지는 사람이 많아지면 많아질 수록 저 둘도 같이 줄어든다. 그에 따라 개별 아이디어의 품질도 낮아진다.</description>
+    </item>
+    
+    <item>
+      <title>진짜 일할 수 있는 시간, 진짜 일할 수 있는 곳</title>
+      <link>https://ycnam.github.io/2013-04/2013-04-30--/</link>
+      <pubDate>Tue, 30 Apr 2013 15:24:17 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-04/2013-04-30--/</guid>
+      <description>최근 읽게 된 네 권의 책&amp;nbsp;- 콰이어트 Quiet, 조엘 온 소프트웨어, 마음을 움직이는 프로젝트 관리, 피플웨어
+우연인지 모르겠으나, 이 네 권의 책 속에서 그리는 &#39;이상적인 업무환경&#39;이 참으로 비슷하다.
+ 조용한 곳 프라이버시가 보장되는 독립적인 공간 혼자 일할 수 있는 시간의 보장  그런데 신기할 정도로, 이런 업무환경은 찾아보기가 정말 힘들다. 저 코너 너머에서 받는 거친 전화소리도 다 들리고, 불길하고 심각한 회의 소리도 다 들리고, 문 여는 소리 삑삑, 고개를 들면 다른 사람들의 모니터도 다 보이고(그 말은 곧 누군가 내 모니터를 보고 있다는 뜻이기도 하다), 옆에 걸린 벽걸이형 TV에서는 사내 방송이 나오고, 잡담소리도 들리고, 누군가가 불쑥 찾아와서 말을 걸기도 하고.</description>
+    </item>
+    
+    <item>
+      <title>방법론 x 방법론</title>
+      <link>https://ycnam.github.io/2013-03/2013-03-25--x-/</link>
+      <pubDate>Mon, 25 Mar 2013 15:28:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-03/2013-03-25--x-/</guid>
+      <description>세상엔 수도 없이 많은 방법론이 있고, 좋은 방법론도 너무나 많고 지금도 새로운 방법론은 끊임없이 만들어지고 있고, 그 중 몇 개는 정말 &#39;혹&#39;할만큼 멋지고 아름답고 그럴싸한데
+세상에 나오는 &#39;좋은 것들&#39;의 양은 늘 비슷하게 느껴지는 걸 보면
+진짜 좋은 걸 만드는 건 방법론이 아닌거같다는 의심이 든다.
+오늘은 꽤 괜찮다고 생각했던 방법론이 기막히게 변질되어 활용(또는 악용)되는 모습을 보았고, 역시 방법론은 &#39;쓸 수는 있지만 믿어서는 안되는&#39; 것이라는 생각을 하게 되었다.
+무언가 좋은 결과물을 얻는 것은, (너무나 당연하게도) 결국 사람 문제인 것인데, 나는 방법론 또는 프로세스가 그걸 극복할 수 있다고 생각한 것은 아닐까.</description>
+    </item>
+    
+    <item>
+      <title>속고있다는 기분을 주는 것들</title>
+      <link>https://ycnam.github.io/2012-12/2012-12-31--/</link>
+      <pubDate>Mon, 31 Dec 2012 10:21:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-12/2012-12-31--/</guid>
+      <description>통신요금 약정과 스마트폰 단말 가격 오픈마켓의 최저가 포털 검색으로 찾은 맛집 블로그들 각종 보험들 신용카드 혜택 설명 적금, 예금, 주식, 펀드 수익률 마트, 통신사, 백화점 등 멤버십 혜택  종합해보면 아마, 이 한마디로 정리할 수 있겠다.
+  나보다 싸게 사고 있는 사람이 있는 것 같아.
+  이런 것들만 없어져도 스트레스가 반은 줄어들 것 같은데.</description>
+    </item>
+    
+    <item>
+      <title>고객 조사를 대하는 자세</title>
+      <link>https://ycnam.github.io/2012-11/2012-11-12--/</link>
+      <pubDate>Mon, 12 Nov 2012 15:33:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-11/2012-11-12--/</guid>
+      <description>오늘 동료들과 이런저런 잡담을 나누다가 사용자 인터뷰에 대한 이야기를 나누었다. 함께 대화한 한 사람은 사용자 인터뷰, 고객 조사들에 대해 부정적이었다. 인터뷰를 통해 뭔가에 대한 답을 얻으려면 사람들의 속마음을 단번에 캐낼 수 있는 &#39;신의 질문&#39;을 해야하는데, 그런 질문은 만들기가 몹시 어렵고, 실제로 그게 가능한 것조차 의심스럽다 했다. 그리고 좋은 제품을 만들려면 만드는 사람 스스로가 그것에 애정을 가지고 장인정신을 발휘하는 것이 근본적인 방법이며, 그건 누군가에게 &#39;물어봐서&#39; 할 수 있는 것이 아니라고 했다.</description>
+    </item>
+    
+    <item>
+      <title>회원 정책에 대한 상상</title>
+      <link>https://ycnam.github.io/2012-11/2012-11-10--/</link>
+      <pubDate>Sat, 10 Nov 2012 16:17:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-11/2012-11-10--/</guid>
+      <description>어떤 회원 정책에 대해 상상해보았다.
+사용자 입장에서는 가입하기 쉽고, 개인정보 유출에 대한 부담이 없는, 서비스 제공자 입장에서는 관리 부담이 작고 유연하게 관리할 수 있는 정책.
+&amp;#13; 가장 주요한 목표는 개인정보를 받지 않는 것이다.&amp;#13; 아이디와 패스워드만 받는다.&amp;#13; 주민등록번호는 물론이고 이름, 주소, 전화번호, 이메일 등 민감한 정보는 수집하지 않는다.&amp;#13; 개인정보를 전혀 수집하지 않기 때문에 개인을 식별할 수 있는 유일한 수단은 아이디와 패스워드 뿐이다.&amp;#13; 따라서 아이디 찾기와 패스워드 찾기는 제공하지 않는다.&amp;#13; 이 계정이 매우 중요하다면, 어딘가 꼭 아이디와 패스워드를 적어놓을 것을 요구한다.</description>
+    </item>
+    
+    <item>
+      <title>&#39;이거 돼요?&#39;라는 질문을 함부로 하면 안되는 이유</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-31--/</link>
+      <pubDate>Wed, 31 Oct 2012 15:25:30 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-31--/</guid>
+      <description>개발 조직과 협업할 때, 설계서를 제시하면서 &#39;이거 돼요?&#39; 라는 질문을 함부로 해선 안되겠다는 생각이 들었다. 가장 큰 이유는...
+&amp;#13; 그게 되는지 아니면 어려운지, 한다면 얼마나 걸리는지를 판단하는 그 자체도 시간이 걸리기 때문이 아닐까 싶다. (정확한 답변을 주는데는 생각보다 꽤 많은 시간이 걸리는 것 같다)
+&amp;#13; 저 질문을 남발하면, 개발 조직에는 개발 가능성 및 일정 산정에 시간을 쓰게 되고, 이는 전부 &#39;비용&#39;이 되는데, 이게 눈에는 잘 안보여서 남발하기 딱 좋은게 아닐까. &#39;정확한 일정 산정&#39;은 어쩌면 구현 자체보다 더 어려운 것일지도 모르겠다.</description>
+    </item>
+    
+    <item>
+      <title>앞으로 1년간 공부하고 싶은 것</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-07--1-/</link>
+      <pubDate>Sun, 07 Oct 2012 14:07:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-07--1-/</guid>
+      <description>일요일 밤의 우울을 달래기 위해, 그냥 정리해보는 리스트.
+&amp;#13; Documentation
+많은 사람들이 짧은 시간 안에 쉽게 읽을 수 있고
+쉽게 배포할 수 있으며
+그러면서도 꼭 필요한 사람 외에는 접근을 차단하여 보안 유지가 가능하고
+수정도 용이하고
+문서에 대한 사람들의 피드백도 쉽게 수집할 수 있고
+그래서 결론적으로, &#39;지속 가능한&#39;
+문서를 만드는 기술.
+wiki? git?
+-&amp;#13; web front-end development
+특별한 이유는 없고 그냥 재미가 있음
+여러모로 쓸모가 많을 것 같다
+특히 프로토타이핑할 때 유용하지 않을까</description>
+    </item>
+    
+    <item>
+      <title>UI설계와 책상 정리의 공통점</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-04-ui-/</link>
+      <pubDate>Thu, 04 Oct 2012 15:16:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-04-ui-/</guid>
+      <description>UI를 설계하는 것은 몇 가지 점에서 &#39;책상 정리&#39;를 하는 것과 비슷하다.
+&amp;#13; 제한된 공간을 어떻게 쓰는가에 대한 문제다.&amp;#13; 뭘 새로 넣기는 쉬운데 뭔가를 버리기가 무척 힘들다. 혹시 나중에 써야할지도 모른다는 생각에...&amp;#13; 그래서 점점 복잡하고 지저분해진다.&amp;#13; 너무 복잡한 것 같아서 확 정리하면 어쩐지 전보다 필요한걸 찾기가 더 힘들어진다.&amp;#13; 깔끔한 것 보다는 나한테 익숙한 상태가 쓰기 쉽다.&amp;#13; 같은 책상이라도 누가 정리하는가에 따라 전혀 다른 책상같아보인다.&amp;#13; 항상 &#39;책상이 조금만 더 넓었으면...&#39;하고 생각하지만 막상 큰 책상을 주면 감당이 안된다.</description>
+    </item>
+    
+    <item>
+      <title>생각을 심는 방법 - 영화 &#39;인셉션&#39;의 대화 중</title>
+      <link>https://ycnam.github.io/2012-10/2012-10-02----/</link>
+      <pubDate>Tue, 02 Oct 2012 08:00:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-10/2012-10-02----/</guid>
+      <description>영화 인셉션Inception에는 &#39;인셉션을 성공시키기 위한 조건&#39;에 대한 대화가 나온다.
+&amp;#13; &amp;#13; &#39;깊이&#39;가 문제가 아니라
+심고자 하는 생각이 얼마나 &#39;간단한가&#39;가 문제라고 말하고 있다.
+&amp;#13; 굳이 남의 꿈속을 헤집고 다니는 일이 아니더라도
+위 문제는 동일하다고 본다.
+&amp;#13; 긴긴 강연이나 프레젠테이션을 듣고난 후,
+혹은 제법 두꺼운 책을 읽고난 후,
+우리의 마음속에 남는 것은 아주 &#39;간단한&#39; 메시지 뿐이다.
+그 간단한 메시지를 바탕으로
+찬성하거나 반대하거나 공감하거나 거부하는 것이다.
+&amp;#13; 물론, 더 많은 &#39;디테일&#39;들 - 여러가지 예시와 근거들 - 을 &#39;기억&#39;하고 &#39;기록&#39;할 수 있지만, &#39;마음에 남는 것&#39;은 간단한 메시지 뿐이다.</description>
+    </item>
+    
+    <item>
+      <title>다음 혁신은 언제 올까?</title>
+      <link>https://ycnam.github.io/2012-09/2012-09-19--/</link>
+      <pubDate>Wed, 19 Sep 2012 16:16:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-09/2012-09-19--/</guid>
+      <description>&#39;아이폰 5에 혁신은 없었다&#39;며 사람들이 실망하고, 역시 잡스가 없어서 애플은 끝났다느니 하는 이야기가 도는 한편, &#39;매 아이폰마다 혁신이 없었음&#39;을 증명하는 이런 그림도 등장한지 이제 일주일쯤 지난 것 같다.
+&amp;#13; 슬슬 아이폰 5 실물을 받고 리뷰도 나오기 시작하는데, 분위기를 슥 보고 내가 나름 내린 결론은 &#39;역시 애플은 죽지 않았어&#39;이다. 아이폰 5에 대한 리뷰는 찬사 일색이다. &#39;바꾸지 않을 이유가 전혀 없다&#39;, &#39;최고의 스마트폰이다&#39;, &#39;완벽한 마무리 빈틈없는 디자인이다&#39;...
+&amp;#13; 역시. &#39;완벽에 가까운 디테일&#39;은 애플이라는 회사 깊숙히 스며있는 문화이고, CEO 한 명이 없어졌다고 1년만에 없어질만한 것이 아닐테지.</description>
+    </item>
+    
+    <item>
+      <title>성공담과 실패담 사이</title>
+      <link>https://ycnam.github.io/2012-09/2012-09-17--/</link>
+      <pubDate>Mon, 17 Sep 2012 13:55:28 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-09/2012-09-17--/</guid>
+      <description>문득,
+성공담과 실패담 사이엔 큰 차이가 없을지도 모른다는 생각이 들었다. 누군가에게 성공 요인이 누군가에겐 실패 요인이 될 수 있다. 성공한 사람의 &#39;과감하고 진취적인&#39; 성격이 실패한 사람의 &#39;조심성이 없고 무모한&#39; 성격과 같을지도 모른다.
+&amp;#13; 나는 성공담보다는 실패담을 더 좋아하고, 믿는 편이다. 왜냐하면 우리는 성공담을 말하면서 그 성공의 원인 중 일부 혹은 거의 전부가 &#39;운&#39;이었다는 것을 너무 쉽게 잊기 때문이다 (혹은 무의식적으로 그 사실을 부정하거나).
+&amp;#13; 반면 실패담을 말할 때는 &#39;운&#39;의 존재를 절대 잊지 않는다.</description>
+    </item>
+    
+    <item>
+      <title>아이폰을 사기가 망설여지는 가장 큰 이유</title>
+      <link>https://ycnam.github.io/2012-07/2012-07-19--/</link>
+      <pubDate>Thu, 19 Jul 2012 01:48:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-07/2012-07-19--/</guid>
+      <description>아이폰을 사기가 망설여지는 가장 큰 이유는 안드로이드의 이 &amp;lsquo;공유&amp;rsquo; 인터페이스를 더 이상 쓸 수 없게된다는 것&amp;hellip; iOS만 써본 사람은 의외로 잘 모르더라는&amp;hellip;
+이 인터페이스로 인해서 안드로이드 유저와 iOS 유저의 &amp;lsquo;멘탈 모델&amp;rsquo;은 상당히 달라졌다. (이걸 멘탈 모델이라고 표현하는게 맞는지는 모르겠지만&amp;hellip;) 어떤 파일을 업로드 할 때, iOS 유저는 항상 &amp;lsquo;어떤 서비스에 올릴지&amp;rsquo;를 떠올리고, 안드로이드 유저는 &amp;lsquo;어떤 파일을 올릴지&amp;rsquo;를 떠올린다.
+사진을 페이스북에 올리는 상황이라면, iOS는 반드시 &amp;lsquo;페이스북&amp;rsquo;을 켜야하지만, 안드로이드는 &amp;lsquo;갤러리&amp;rsquo;를 켜서 사진을 먼저 고를 수 있다.</description>
+    </item>
+    
+    <item>
+      <title>Techcrunch의 넥서스 7 리뷰</title>
+      <link>https://ycnam.github.io/2012-07/2012-07-18-link-post/</link>
+      <pubDate>Wed, 18 Jul 2012 13:56:55 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-07/2012-07-18-link-post/</guid>
+      <description>http://techcrunch.com/2012/07/15/omg-he-likes-it-he-really-likes-it/
+테크크런치를 돌아다니다가 이런 자극적인 제목의 기사를 발견.
+일단 요약하자면 - &amp;ldquo;난 정말 이게 좋아&amp;rdquo;
+자신은 구글 제품을 - 특히 안드로이드가 탑재된 제품을 칭찬해본 적이 없으나, 넥서스 7은 정말 훌륭하고, 처음으로 안드로이드 기기를 돈주고 사야겠다고 생각했으며, 주변에 추천하는데도 주저하지 않을 것이라고 밝혔다.
+[좋은점]
+ 7인치 스크린 크기가 너무나 매력적이다. 7인치 스크린에 대해 회의적이었으나 실제로 체험해본 결과 7인치 스크린은 아이패드의 9.7인치보다 더 다양한 환경에서 유용하다. (밖에 나갈 때, 침대에서 잠들기 전 등) 아이패드도 빨리 이 크기의 태블릿을 만들어야 한다.</description>
+    </item>
+    
+    <item>
+      <title>애플 제품 포장 뜯기 경험과 command conquer 설치 경험 스티브 잡스 전기</title>
+      <link>https://ycnam.github.io/2012-07/2012-07-01--command-conquer-/</link>
+      <pubDate>Sun, 01 Jul 2012 09:38:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-07/2012-07-01--command-conquer-/</guid>
+      <description>애플 제품 포장 뜯기 경험과 Command &amp;amp; Conquer 설치 경험
+스티브 잡스 전기 548페이지에는 조너선 아이브와 잡스가 제품의 포장에 얼마나 신경을 쓰고, 포장을 벗기는 일에 대해 어떻게 생각하는지에 대한 내용이 있다.
+&amp;ldquo;스티브와 저는 포장에 많은 시간을 할애합니다.&amp;rdquo; 아이브가 말했다. &amp;ldquo;저는 뭔가의 포장을 벗기는 걸 매우 좋아합니다. 포장 벗기기를 하나의 의식이 되도록 설계하면 제품을 한층 특별하게 느끼도록 만들 수 있죠. 포장은 한 편의 연극이 될 수도 있어요. 드라마를 만들어 낼 수 있단 얘깁니다.</description>
+    </item>
+    
+    <item>
+      <title>망하는 회의 step by step</title>
+      <link>https://ycnam.github.io/2012-06/2012-06-06--step-by-step/</link>
+      <pubDate>Wed, 06 Jun 2012 08:37:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-06/2012-06-06--step-by-step/</guid>
+      <description>01. 기본 세팅 - 회의 참가자가 8명이 넘는다
+02. 가면 PPT가 틀어져있거나 PPT를 출력한 문서가 놓여있다
+03. 지금 처음 본 문서인데, 그래프와 모호한 문장으로 꽉꽉 채운 PPT의 가독성이 심각하다
+&amp;#13; (모호한 문장 예시 : Customer Needs를 바탕으로 한 UX개편을 통해 Market Portion을 증대시키고 성공적인 Monetization 기반 확보 -&amp;gt; 요런건 20포인트 넘는 크기로 쓰고 이탤릭으로 쓰는게 핵심)&amp;#13; 04. 회의를 주최한 사람이 PPT를 한장한장 넘겨가며 읽는다
+05. 당연히 참가한 사람들은 뭔말 하는지 &#39;잘은&#39; 모르지만 모른다고 하진 않는다</description>
+    </item>
+    
+    <item>
+      <title>중학생과 인터뷰 후 느낀 점</title>
+      <link>https://ycnam.github.io/2012-05/2012-05-31--/</link>
+      <pubDate>Thu, 31 May 2012 16:32:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-05/2012-05-31--/</guid>
+      <description>중학생과의 1:1 인터뷰 경험은 딱 두 번이 있다.
+&amp;#13; 두 번의 경험을 종합해보면,
+함부로 그들의 멘탈을 이해하거나 설명하려들어선 안되겠다는 것이다. 분명히 뭔가 대화를 나누고 있는데 대체 무슨 말을 하고 있는건지 이해할 수가 없다. 녹음된 것을 다시 들어보아도 마찬가지. 정말 이해하기 힘든 행동을 하고 있고, 그 이유에 대해서 설명을 하는데 설명을 아무리 들어도 왜 그러는 건지 이해할 수가 없다. 예를 들자면 - 오늘의 일기를 쓰고 어제의 일기를 지워버린다. 그래서 일기장엔 항상 어제의 일기 뿐이다.</description>
+    </item>
+    
+    <item>
+      <title>조직, 제품, 서비스의 확장 범위의 한계에 대하여</title>
+      <link>https://ycnam.github.io/2012-05/2012-05-31---2/</link>
+      <pubDate>Thu, 31 May 2012 10:23:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-05/2012-05-31---2/</guid>
+      <description>문득 이런 생각이 들었다.
+&amp;#13; 한 사람이 혼자서 어떤 조직을 다 파악할 수 없다면 - 어느 팀에선 어떤 일을 한다, 그 팀의 장은 누구다, 어떤 일이 생겼을 때는 이 팀에 연락하면 된다 - 그 조직은 너무 복잡해진 것이다.
+&amp;#13; 한 사람이 혼자서 어떤 제품을 다 파악할 수 없다면 - 이걸로 뭘 하려면 어떻게 하면 된다, 이건 언제 어떤 이유로 바뀐거다, 이 부분을 담당하는 사람 혹은 팀은 어디이다 - 그 제품은 지나치게 복잡해진 것이다.</description>
+    </item>
+    
+    <item>
+      <title>폰 홈화면에 구글 독스 아이콘이 갑자기 사라졌길래 앱 dock를 뒤져보니 구글 독스는</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-25--dock-/</link>
+      <pubDate>Wed, 25 Apr 2012 10:57:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-25--dock-/</guid>
+      <description>폰 홈화면에 구글 독스 아이콘이 갑자기 사라졌길래 앱 Dock를 뒤져보니 구글 독스는 없어지고 문서함이라는게 새로 생겨있었다.
+아이콘은 Google Drive와 같고. 레이블은 &amp;lsquo;문서함&amp;rsquo;이었다.
+아무리 그래도 그렇지 &amp;lsquo;문서 도구&amp;rsquo;라는 레이블을 &amp;lsquo;문서함&amp;rsquo;으로 바꾸고 아이콘도 전혀 알 수 없게 바꿔버린건 너무하지 않는가 하는 생각을 하면서 앱을 켜봤다. 문서함으로 갈아타라는 메시지를 보면서, 뭔가 설레다가 &amp;lsquo;아직 준비 안됐어 나중에 되면 알려줄게&amp;rsquo;라는 문구를 보면서 다시 한번 분노했다. (장난해?) 분노를 가라앉히고 나서 Google Drive의 본질에 대해 생각해 보았다. 그것은 바로 &amp;lsquo;강화된 Google Docs&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>회의 참석자와 효율성의 상관 관계</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-19--/</link>
+      <pubDate>Thu, 19 Apr 2012 16:06:01 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-19--/</guid>
+      <description>진짜 다시 한번 강렬하게 느끼는 거지만,
+실무 차원의 의사결정을 해야하는 회의라면
+의도적으로라도 참가자 수를 제한해야 한다.
+&amp;#13; 회의 참가자가 7명이 넘었다면
+그 회의에서 뭔가 세부적인걸 &#39;결정&#39;하는건 포기하는게 맞다.
+&amp;#13; 7명도 많긴 한데,
+아무튼 7명 넘으면 망한다. 망해.
+회의실을 떠나는 사람들의 머리 위에
+전혀 다른 그림
+각자가 생각하는 그림이 그려져 있는게 보여. 진짜 보인다고... &amp;#13; 7명이 넘으면,
+그냥 결정된 사항에 대해 &#39;통보&#39;해주는 편이 맞다.
+그리고 우리는 그것을 통보라고 하지 &#39;회의&#39;라고 하지 않는다.</description>
+    </item>
+    
+    <item>
+      <title>스마트폰 커스텀 서체, 모바일 로그인</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-07--/</link>
+      <pubDate>Sat, 07 Apr 2012 16:55:45 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-07--/</guid>
+      <description>(나의 많지 않은 스마트폰 사용자 인터뷰 경험에 의하면) 갤럭시 S 사용자 중 적어도 80%이상은 스마트폰 서체를 기본 고딕 서체 그대로 쓰지 않고 아기자기한 커스텀 서체로 바꿔서 쓴다. (당연히 전체 상황은 알 수 없으나)
+&amp;#13; 이 이야기를 들은 시각디자이너들은 보통 적잖이 놀란다.
+&amp;#13; (애써 Droid Sans나 Roboto를 구해다가 정성스럽게 만든 모바일앱/웹 화면은, 실제로 사용자가 보는 화면과 &#39;꽤 많이&#39; 다르다는 점에 다소 속상해하며)
+&amp;#13; -
+&amp;#13; (나의 많지 않은 모바일앱/웹 사용성 평가 경험에 의하면) 모바일 사용성 테스트를 할 때, 제일 장애가 되는 부분은 보통 테스트를 시작하기 전에 로그인을 하는 부분이다.</description>
+    </item>
+    
+    <item>
+      <title>Focus Group Interview를 하면 안되는 이유</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-07-focus-group-interview-/</link>
+      <pubDate>Sat, 07 Apr 2012 09:06:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-07-focus-group-interview-/</guid>
+      <description>&amp;#13; 사람들은 서로를 모방한다.&amp;#13; 사람들은 어울리기 위해 마음을 바꾼다.&amp;#13; 사람들은 다수에 동조한다.&amp;#13; 토론은 태도를 변화시킨다.&amp;#13; 한 사람의 목소리가 집단 전체를 흔들 수 있다.&amp;#13; - 소비자학? CONSUMER.ology p.273
+&amp;#13; &amp;#13; 위 책에서 FGI의 실패 이유에 대해 요약한 부분이다. 요즘은 저런 의견이 많이 퍼져서 FGI를 잘 안쓰는 것으로 알고 있는데 (실제로는 어떤지 모르겠다) 아무튼 위 책에서 상당한 페이지를 할애하면서 FGI를 까고있다.
+&amp;#13; 저기 요약에 포함되어있지 않지만, 더 흥미로웠던 관점은 이것이었다.
+&amp;#13; &amp;#13; 포커스 그룹 인터뷰에서는 일상생활이라는 배경과 상황적 영향이 모두 제거된 채, 온전히 관심의 대상인 조사 주제에만 인위적이고 추상적인 관심이 집중되기 때문이다.</description>
+    </item>
+    
+    <item>
+      <title>우리나라 기업의 데이터 분석 능력이 안느는 이유 (&#43; 후유증)</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-05---2/</link>
+      <pubDate>Thu, 05 Apr 2012 16:32:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-05---2/</guid>
+      <description>오늘 회사에서 있었던 빅데이터 컨퍼런스에 오신 한 박사님의 말에 의하면
+우리나라 기업의 데이터 분석 및 고객 분석 고도화가 늦는 이유가
+&#39;일찍부터 주민등록번호를 수집해왔기 때문&#39;이라고 했다 (고 전해들었다)
+&amp;#13; 아 일리있는말인것 같다.
+&amp;#13; 우리나라 기업들은 주민번호를 수집함으로써 성별, 나이와 같이 꽤 민감한 정보를 아주 쉽게 얻어왔고, 이런 것들을 파악하기 위한 노력이 필요없었기 때문에 노력을 안했고, 그래서 발전이 늦었다는 것. 주민번호를 수집하지 않고 나이나 성별같은 것들을 알아내야하는 상황이었다면 이것들을 유추하기 위해 &#39;간접적인 정보&#39;들을 열심히 분석했을 것이고, 그 과정에서 분석 기법이 발전했을 것인데, 그동안 너무 쉽게 개인정보를 얻어왔기 때문에 분석 기법이 발달할 기회가 적었다는 것이다.</description>
+    </item>
+    
+    <item>
+      <title>사생활 공개 문제의 함정</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-04--/</link>
+      <pubDate>Wed, 04 Apr 2012 15:59:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-04--/</guid>
+      <description>몇몇 인터뷰나 서베이의 결과를 보면, SNS를 사용하면서 사생활 공개 문제에 대해 걱정하는 사람이 많은 것 같다. 이들은 자신의 글이나 사진이 퍼져나가는 것을 두려워하고 불쾌해하며 그런 것들을 세밀하게 통제하고 싶어한다(고 말한다). 너무 많은 사람들에게 퍼져나가는 것을 우려한다(고 말한다).
+&amp;#13; 그리고 이런 서베이 결과를 바탕으로 페이스북의 미래를 어둡게 보는 시각도 나타났다. 사생활이 지나치게 노출되는 것 아니냐, 사람들은 자신의 글이 퍼져나가는 것을 통제하고 싶어한다, 친밀한 사람들 끼리만 공유하고 싶은 것이 있다 등등.
+&amp;#13; 그런데 현실적으로 서비스들이 굴러가는 걸 보면, 사람들이 서베이나 인터뷰에서 &#39;말하는&#39; 것과 실제 행동 사이에는 큰 괴리가 있는 것 같다는 생각이 든다.</description>
+    </item>
+    
+    <item>
+      <title>한 조직의 구성원들이 입버릇처럼 쓰는 단어는 그 조직의 문화를 대변한다</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-03--/</link>
+      <pubDate>Tue, 03 Apr 2012 15:09:45 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-03--/</guid>
+      <description>라는 말을 들었던게 갑자기 기억이 나네.
+&amp;#13; &amp;#13; R&amp;amp;R (Role &amp;amp; Responsibility) 을 많이 말하는 조직 : 자기 부서의 일이 늘어나는 것에 매우 민감함. 부서이기주의가 심하다는 뜻일수도있고, 전체 조직의 발전보다는 부서의 안위가 중요하다는 뜻 일수도 있다.
+&amp;#13; ROI (Return of Investment) 를 많이 말하는 조직 : &#39;그거 하면 돈 되는거야?&#39; 분위기. 즉, 뭔가를 시작하려면 금전적인 수익을 증명할 수 있어야 함.
+&amp;#13; KPI (Key Performance Indicator) 를 많이 말하는 조직 : &#39;수치적인 목표&#39;를 중시.</description>
+    </item>
+    
+    <item>
+      <title>사용자 리서치의 극한</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-03---2/</link>
+      <pubDate>Tue, 03 Apr 2012 15:00:05 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-03---2/</guid>
+      <description>사용자 리서치를 한다고 이런저런 시도들을 하다보면
+그냥 이런 생각이 든다.
+&amp;#13; &#34;아 그냥 사람들 안구를 연결해서 24시간 기록한거 보고싶다&#34;
+&amp;#13; 그러고보니
+&amp;#13; 이거 구글느님이 (사실상) 지금 하고있는거 아닌가?
+&amp;#13; &amp;#13; (모두 그렇진 않겠지만... 지금 나는... 평일에... 구글 프로덕트와 떨어져있는 시간이 없다. android, chrome, google search, gmail, google calendar, google docs...) </description>
+    </item>
+    
+    <item>
+      <title>보고서, 말투, 문화</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-28--/</link>
+      <pubDate>Wed, 28 Mar 2012 16:52:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-28--/</guid>
+      <description>가끔 격식있고 건조하고 딱딱하고 각종 영어단어가(한글로도 쓸 수 있는데 영어로 쓰는 것이 포인트) 군데군데 섞여있는 현학적인 보고서를 보고 있노라면 만감이 교차한다. 고상한 언어를 쓰느라 말은 어려운데 뭔가 그래서 어떻게 하자는건지 디테일이 없고, 말투가 딱딱한 만큼 너무나 진부한 이야기로 가득해서 읽고 있노라면 있던 상상력도 증발해버리는...
+&amp;#13; 말투를 보면 그 사람을 알 수 있는 것 처럼, 어떤 조직에서 오가는 보고서의 형식, 말투를 보면 그 조직의 분위기, 문화를 알 수 있는 것은 아닐까 하는 생각이 스쳐지나간다.</description>
+    </item>
+    
+    <item>
+      <title>saebyukgamseong.com</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-28-saebyukgamseongcom/</link>
+      <pubDate>Wed, 28 Mar 2012 16:41:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-28-saebyukgamseongcom/</guid>
+      <description>오늘은 문득 이런게 있으면 어떨까 하는 생각이 들었다.
+새벽 2시부터 5시까지만 접속할 수 있는, 글쓰는 서비스, 새벽감성 닷컴.
+&amp;#13; 잠 안올 때, 음주 후에, 배설하러 가는 사이트를 모토로
+위 시간 이외에는 열어볼 수도 없는 서비스.
+24시간 시도때도없는 알림으로 우리를 괴롭히는 번잡한 SNS를 벗어나...
+&amp;#13; 새벽감성에 충만한 자신을 돌아보며 한껏 감성에 취해 똥을 싸놓을 수 있는 곳.
+&amp;#13; 다음날 출근 길, 자신이 새벽에 쓴 글을 메일로 보내주는 것이 포인트.
+상쾌한 아침, 그 메일을 읽는 순간,</description>
+    </item>
+    
+    <item>
+      <title>SNS 쓰는 사람들 중에</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-27-sns-/</link>
+      <pubDate>Tue, 27 Mar 2012 15:29:56 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-27-sns-/</guid>
+      <description>아무 글도 안쓰고 &#39;눈팅&#39;만 하는 사람의 비중에 대해 생각해본다.
+그리고 특정 글을 읽은 사람 대비 &#39;반응(댓글이든 Like든)&#39;한 사람의 비율을 생각해본다.
+&amp;#13; 생각해보면 내가 쓴 글에 댓글 단 사람보다 읽은 사람이 훨씬 많을거고, 따라서 내가 쓴 글에 아무런 반응이 없다고 해서 그 글이 아무 영향없이 지나갔다는 뜻은 아닐것이다. 내가 올린 무언가가 나와 타인에게 끼친 영향 중 내가 직접 볼 수 있는 것은 &#39;생각보다&#39; 매우 작은 부분 뿐일지도 모른다. 별 생각없이 올린 무언가가 내가 모르는 곳에서 회자될 수도 있다는 것이다.</description>
+    </item>
+    
+    <item>
+      <title>Evernote를 쓰는 이유</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-21-evernote-/</link>
+      <pubDate>Wed, 21 Mar 2012 13:59:30 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-21-evernote-/</guid>
+      <description>에버노트 유료로 결재하면서 폭풍 사용한지 2달째.
+내가 에버노트를 쓰는 가장 큰 이유에 대해 깨달았다.
+&amp;#13; 뭔가 꼼꼼하게 기록하고 찾아보는건 표면적인 이유고
+더 중요한 이유는 &#39;당장 필요하지는 않은데 버리기는 아까운 것&#39;들을
+에버노트에 던져놓고 &#39;안심&#39;할 수 있다는 것이다.
+&amp;#13; 뭔가 지금 당장 읽을 건 아닌데 그냥 닫자니 나중에 보고싶을 것 같은 웹페이지, 다 읽었는데 나중에 다시 찾아볼 것 같은 뉴스페이지, 지금 당장 읽진 않을건데 언젠간 읽어야 할 것 같은 pdf, 예쁘긴 한데 당장 뭐에 써야할지는 잘 모르겠는 짤방, 읽기 시작했는데 당장 계속 읽을 수는 없고 그렇다고 덮어놓자니 나중에 읽기 시작했었다는 것을 기억하지 못할 것 같은 책, 어렵진 않은데 나중에 기억나지 않을 것만 같은 회사 내 프로세스, 오늘 쓰기는 귀찮지만 언젠간 블로그에 쓸지도 모르는 글 소재.</description>
+    </item>
+    
+    <item>
+      <title>그 시대의 대세 SNS를 구분하는 척도 (1)</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-20--sns-1/</link>
+      <pubDate>Tue, 20 Mar 2012 06:29:05 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-20--sns-1/</guid>
+      <description>소개팅 나가기 전에 상대의 정보를 무엇으로 얻느냐.
+&amp;#13; (지금은 거의 카카오톡 프로필 사진으로 하는듯...)</description>
+    </item>
+    
+    <item>
+      <title>텀블러의 슬금슬금 업데이트는 계속된다 이번 업데이트는 대시보드 강화에 초점을 맞춘듯</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-15--/</link>
+      <pubDate>Thu, 15 Mar 2012 16:36:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-15--/</guid>
+      <description>텀블러의 슬금슬금 업데이트는 계속된다.
+이번 업데이트는 대시보드 강화에 초점을 맞춘듯.
+댓글달기가 더 직관적으로 바뀌었고,
+포스팅에 대한 &amp;lsquo;반응&amp;rsquo;(Like나 Reply, Reblog 등)을 시각적으로 강화했다.
+그리고 이 반응을 대시보드 상에서 스윽 펴지면서 바로 볼 수 있게 했다.
+일단 나는 만족.
+얘들 UI 업데이트는 정말 교과서적이다.
+방향도 명확한 것도 그렇지만
+업데이트의 정수라는
+&amp;ldquo;한듯 안한듯 업데이트&amp;rdquo;를 실현하고 있기 때문에&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>이거 참 묘한 검색결과다 페북과의 결별을 위해 탄생한 서비스가 페북을 마침내 연결하다</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-14--/</link>
+      <pubDate>Wed, 14 Mar 2012 17:15:13 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-14--/</guid>
+      <description>이거 참 묘한 검색결과다.
+페북과의 결별을 위해 탄생한 서비스가 페북을 마침내 연결하다.
+결국 모두 패배를 인정한 셈인가&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>HQ in New York</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-13-hq-in-new-york/</link>
+      <pubDate>Tue, 13 Mar 2012 16:19:36 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-13-hq-in-new-york/</guid>
+      <description>어디선가 Tumblr와 Posterous를 비교하면서 뉴욕 기반의 기업과 실리콘밸리 기반의 기업의 차이에 대해서 쓴 글을 본 적이 있다. (Why Tumblr is kicking Posterous’s ass)
+&amp;#13; 과연, 뉴욕기반 회사는 뭔가 닮은 구석이 있는거 같다는 생각이 문득 든다. (Vimeo의 Footer를 보다가 든 생각임)
+&amp;#13; Tumblr와 Vimeo는 모두 본사가 뉴욕에 있다.</description>
+    </item>
+    
+    <item>
+      <title>Research 진행할 때 창의성을 발휘해야 할 네 지점</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-28-research-/</link>
+      <pubDate>Tue, 28 Feb 2012 17:21:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-28-research-/</guid>
+      <description>회사에서 진행한 프로젝트가 끝나고 팀 내 공유 후 팀장님이 남긴 Wrap-up내용을 정리.
+&amp;#13; 가설 수립 &amp;#13; 가장 큰 핵심. &amp;lsquo;어떤 관점으로 리서치를 진행할 것인가?&amp;rsquo;&amp;#13; 어떤 가설을 수립하는가에 따라 리서치의 진행과 결과가 크게 좌우된다.&amp;#13; &amp;#13; 리서치 방법론 &amp;#13; Lab Test를 수행 시, 어떻게 하면 &amp;lsquo;평소의 모습&amp;rsquo;과 &amp;lsquo;깊게 숨겨진 니즈&amp;rsquo;를 끄집어낼 수 있는가?&amp;#13; Lab Test는 그 장소의 특성 상, 자연스러운 행태를 관찰하기 힘들다. 평소 모습을 끌어내기 위한 방법론을 고안할 필요가 있다. 그것이 카드소팅이든, 다이어리 데이터를 기반으로 한 회상 유도이든.</description>
+    </item>
+    
+    <item>
+      <title>진짜 멋지게 일할 수 있는 환경은</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-24--/</link>
+      <pubDate>Fri, 24 Feb 2012 16:41:17 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-24--/</guid>
+      <description>영원히 오지 않을 것 같다.
+&amp;#13; 빠르고도 예쁜 외형의 컴퓨터 / 포스트잇과 시안이 간지나게 덕지덕지 붙어있는 충분한 넓이의 프로젝트 룸 / 어지럽게 회의의 흔적이 남아있지만, 굳이 지우지 않아도 되는 넓은 화이트보드 / 진짜 일잘하고 똑똑하면서도 성격 둥글둥글하고 위트있는 전문가들 / 필요한 게 있으면 뚝딱뚝딱 만들어주는 알프레드같은 크래프트맨 / 모든 걸 신속하고도 친절하게 처리해주는 스탭 부서와 / 효율성 만땅의 사내 프로세스 / 말끔한 인테리어 / 점심먹고 산책할 만한 회사 정원 / 세밀하게 관리되고 있고 필요할 때 휙휙 뽑아쓰기 좋은 로그 데이터 / 편리하고 빠른 인트라넷 / 정성조사를 위한 다양한 환경을 구축할 수 있는 Lab환경 등</description>
+    </item>
+    
+    <item>
+      <title>단순화냐 디테일이냐</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-22--/</link>
+      <pubDate>Wed, 22 Feb 2012 15:51:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-22--/</guid>
+      <description>일 자체가 뭔가 &#39;문제가 되는 부분&#39;을 찾아서 고치거나 좋은 방향으로 제안을 해야하는 경우가 많다보니, 제목과 같은 고민을 많이 하게 된다.
+&amp;#13; 이슈들이 산더미처럼 쏟아진다. 자세하게 볼 수록 점점 더 많아지고, 더 이상 통제하기 힘들어질 정도로 많아진다. 이 문제들은 나조차 다 기억할 수 없다. 이걸 모두 전달하는데만 한시간이 넘게 걸릴거고, 그럼 듣는 상대방은 반이상 까먹을거고 특히 이 문제점을 공유하는 시간이 점심시간 직후라면 10%도 기억못할 것이고, 공유회의에 참여한 사람이 5명이 넘는다면 누군가 한명은 졸고 있을 것이다.</description>
+    </item>
+    
+    <item>
+      <title>이거 tumblr의 뉴피쳐인가 send fan mail zzzzz</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-19--tumblr-send-fan-mail-zzzzz/</link>
+      <pubDate>Sun, 19 Feb 2012 10:44:19 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-19--tumblr-send-fan-mail-zzzzz/</guid>
+      <description>이거 Tumblr의 뉴피쳐인가? Send Fan Mail?? zzzzz</description>
+    </item>
+    
+    <item>
+      <title>&#39;푸딩.투&#39; 런칭에 대한 가상 인터뷰</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-18--/</link>
+      <pubDate>Sat, 18 Feb 2012 14:57:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-18--/</guid>
+      <description>&amp;#13; Q1. 이번 주 초, KTH에서 푸딩.투 출시
+A: &#39;푸딩 시리즈&#39; 세 번째 앱이자 서비스다.
+&amp;#13; Q2. 응? 세 번째? 그럼 앞에 두 개는 뭐임?
+A: 첫 번째는 푸딩 카메라
+두 번째는 얼굴인식
+&amp;#13; Q3. 아 그럼 푸딩.투는 &#39;푸딩 카메라 2.0&#39;이구만!
+A: 아님. Pudding 2가 아니라 Pudding.To임
+푸딩 카메라는 카메라 앱이고
+푸딩.투는 사진 기반 SNS임. 인스타그램같은거
+(사실 인스타그램과 심하게 비슷하고, 안드로이드에 인스타그램 안나온 틈을 노린 것이라고 말 못함)
+&amp;#13; Q4. 그럼 푸딩 카메라랑 푸딩.</description>
+    </item>
+    
+    <item>
+      <title>아련히 떠오르는 Posterous에 대한 기억</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-18--posterous-/</link>
+      <pubDate>Sat, 18 Feb 2012 14:31:47 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-18--posterous-/</guid>
+      <description>누군가 진짜 좋다고 해서
+가입하고 본 첫 화면이 너무 복잡해서 끄고
+다시 켠 적 없는 것으로 기억됨. </description>
+    </item>
+    
+    <item>
+      <title>apple message 테스트 대화내용이 다소 애플 널디하지만 참 잘만들었소</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-16-apple-message-/</link>
+      <pubDate>Thu, 16 Feb 2012 16:35:40 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-16-apple-message-/</guid>
+      <description>Apple Message 테스트.
+대화내용이 다소 애플 널디하지만&amp;hellip;
+참 잘만들었소 애플양반. </description>
+    </item>
+    
+    <item>
+      <title>la noire tech trailer 게임이 영화를 뛰어넘는 거대산업이 되니까</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-15-la-noire-tech-trailer-/</link>
+      <pubDate>Wed, 15 Feb 2012 04:31:55 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-15-la-noire-tech-trailer-/</guid>
+      <description>LA Noire - Tech Trailer
+게임이 영화를 뛰어넘는 거대산업이 되니까 영화가 되어가는건가.</description>
+    </item>
+    
+    <item>
+      <title>the next gen of la noire facial animation</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-15-the-next-gen-of-la-noire-facial-animation/</link>
+      <pubDate>Wed, 15 Feb 2012 04:26:26 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-15-the-next-gen-of-la-noire-facial-animation/</guid>
+      <description>   The Next Gen of LA Noire Facial Animation Technology
+아 리얼하구만
+이런걸 이제 게임에서 쓴단말이지&amp;hellip;
+LA Noire 해보고싶다. </description>
+    </item>
+    
+    <item>
+      <title>google currents 이건 이른바 큐레이션서비스인가 아니면 뉴스잡지</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-13-google-currents-/</link>
+      <pubDate>Mon, 13 Feb 2012 14:49:17 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-13-google-currents-/</guid>
+      <description>Google Currents? 이건 이른바 &amp;lsquo;큐레이션&amp;rsquo;서비스인가 아니면 &amp;lsquo;뉴스/잡지 리더&amp;rsquo;인가. 큐레이션 아닌듯하고 리더에 가까운거 같은데&amp;hellip; 일단 써봐야겠지만, 일단 서비스 이름 앞에 &amp;lsquo;구글&amp;rsquo;이 붙으면 남자들만 좋아하는 징크스가 있지 않은가하는 생각이 좀 든다. (징크스라기보다는 브랜딩이긴 하지)</description>
+    </item>
+    
+    <item>
+      <title>여성타입, 남성타입 : 맛집앱</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-12--/</link>
+      <pubDate>Sun, 12 Feb 2012 17:10:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-12--/</guid>
+      <description>친구들과의 저녁약속이 있다고 하자.
+그래서 갈만한 곳을 찾아야 한다고 하자.
+&amp;#13; 여성타입은 맛집앱(ex.윙스푼)으로 갈 곳을 결정하지 못한다.
+남성타입은 맛집앱으로 갈 곳을 결정할 수 있다.
+(굳이 &#39;타입&#39;이라고 한 것은 모든 여자가 여성타입이 아니고, 모든 남자가 남성타입이 아니기 때문이다)
+&amp;#13; 여성타입은 보통 맛집앱이나 서비스를 잘 안쓴다.
+혹은 쓰긴 쓰는데 그걸로 &#39;최종결정을 하지는 않는다&#39;
+&amp;#13; 남성타입은 맛집앱이나 서비스로 최종결정을 할 수 있다.
+하지만 애시당초 갈만한 곳을 찾기 위해 그 정도 노력을 들이지 않는다.</description>
+    </item>
+    
+    <item>
+      <title>Pinterest로 들어온 주변 사람들을 보았다.</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-10-pinterest-/</link>
+      <pubDate>Fri, 10 Feb 2012 12:19:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-10-pinterest-/</guid>
+      <description>남자들은 좀 시큰둥해하고 젊은 여성들은 열광한다. 뭐가 그리 좋은지 어떤 애는 꽃사진을 미친듯이 피닝해서 내 뉴스피드를 뒤덮고... 남자들은 &#39;그거 뭐 그냥 퍼다나르는게 다잖아?&#39;하는 분위기인데, 확실히 남자랑 여자랑 뭔가 많이 다르게 느끼나보다.
+&amp;#13; 인터뷰할때마다 느끼는 거지만, 남성 타입과 여성 타입은 많이 다른 듯 하다(굳이 &#39;타입&#39;이라는 말을 쓰는 것은 모든 남자가 남성 타입이 아니고 모든 여자가 여성 타입이 아니기 때문). 서로 상상할 수 없는 평가 기준을 가지고 있다.
+&amp;#13; 남성 타입은 &#39;기능&#39;과 &#39;유용성&#39;으로 서비스를 평가하고,</description>
+    </item>
+    
+    <item>
+      <title>굵은 펜을 잡으면 큰 구조에 대해 생각하고 쓰게 된다 가는 펜을 잡으면 자세한 내용에</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-08--/</link>
+      <pubDate>Wed, 08 Feb 2012 06:54:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-08--/</guid>
+      <description>굵은 펜을 잡으면 큰 구조에 대해 생각하고 쓰게 된다.
+가는 펜을 잡으면 자세한 내용에 대해 생각하고 쓰게 된다.
+연필을 잡으면 부담없이 스케치하고 생각나는대로 쓰게 된다.
+색깔있는 펜을 잡으면 핵심적인 내용에 대해 생각하고 쓰게 된다.
+내 책상위에 여러가지 필기도구가 항상 내려와있어야 하는 이유.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-30-link-post/</link>
+      <pubDate>Mon, 30 Jan 2012 17:09:39 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-30-link-post/</guid>
+      <description>http://thefoxisblack.com/2011/11/29/why-instagram-is-so-popular-i-couldnt-say-it-better/
+what makes Instagram special: Quality, Audience, Access, Immediacy and Constraints.
+특히 Constraints.
+참여를 먹고사는 서비스의 필수요소인가</description>
+    </item>
+    
+    <item>
+      <title>product backlog release backlog sprint</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-30-product-backlog-release-backlog-sprint/</link>
+      <pubDate>Mon, 30 Jan 2012 16:28:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-30-product-backlog-release-backlog-sprint/</guid>
+      <description>Product Backlog - Release Backlog - Sprint - Burnout chart &amp;amp; Daily Scrum Meeting 스프린트 검색하다 발견.
+이런 날티나면서 핵심을 잘 설명하는 비디오가 좋다.
+그리고 이런 프로세스도 나름 재미가 있군.
+http://ko.wikipedia.org/wiki/%EC%8A%A4%ED%81%AC%EB%9F%BC_(%EC%95%A0%EC%9E%90%EC%9D%BC_%EA%B0%9C%EB%B0%9C_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)</description>
+    </item>
+    
+    <item>
+      <title>살아남은자들 수집 (2)</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-29--2/</link>
+      <pubDate>Sun, 29 Jan 2012 14:41:44 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-29--2/</guid>
+      <description>살아남은자들 후보 리스트
+Instagram Evernote Wunderlist Springpad Omni group의 서비스들
+정확한 상황은 모르겠으나 아마 살아남은자들에 속할 수 있지 않을까하는 기대, 의심을 품어본다.
+현황을 알아봐야겠다.
+인스타그램은 이미 그 안에 네트워크가 꽤 끈적하게 형성되어있을거라 예상되고 기본적으로 필터가 훌륭해서 양질의 사진이 많은데다가 고양이 사진이 많다는 치명적 강점이 있는듯하다.
+에버노트는 애시당초 공유가 주요 목적이 아니다. 기록에 대한 강박적 욕구를 가진자들에게 이 서비스를 대체할 수단이 거의 없다. 거대 기업들이 소셜에 미쳐있는동안, 강박적 기록 퍼소나를 흡수했고, 이들은 망각의 공포에서 벗어나는데 연 45달러를 아끼지 않았다.</description>
+    </item>
+    
+    <item>
+      <title>구글은 알게 모르게 / 음성명령, 뉘앙스의 차이</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-28--/</link>
+      <pubDate>Sat, 28 Jan 2012 14:32:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-28--/</guid>
+      <description>1. 구글은 알게 모르게 국내 지역정보를 열심히 모은듯하다.
+&amp;#13; Google Place 앱을 써봤는데 왠만한 상호명 치면 다 걸리고, 도보 길안내를 상당히 정확하게 해줘서 등골이 서늘했다. 항상 무심한듯 신경안쓰는듯 한데 뒤에서 할건 다하는게 참 무섭다. 최근 진행하고 있는 인터뷰에서 사람들이 Google Place 앱을 꽤 많이 쓰는걸 발견했다. 그게 구글것인지도 모르고. 물론 알필요도 없지만.
+&amp;#13; 2. 구글은 알게 모르게 안드로이드 음성 명령 시스템을 많이 발전시켰다.
+&amp;#13; 구글 검색 위젯에 달려있는 마이크를 오늘 오랜만에 눌러봤다.</description>
+    </item>
+    
+    <item>
+      <title>살아남은자들 수집</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-28---2/</link>
+      <pubDate>Sat, 28 Jan 2012 13:51:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-28---2/</guid>
+      <description>2011년까지 종합해봤을때 페북, 애플, 아마존, 구글, 마소 제외하고 살아남은 서비스가 뭐가 있는지 수집해봐야겠다는 생각이 불현듯 들었다.
+&amp;#13; 일단 Tumblr, Path(2.0), Vimeo, Wolfram Alpha, Foursquare, Pinterest 정도가 생각난다. 또 생각나는 이름이 있으면 던져주세요. &amp;#13; 그나저나 Spotify나 Last.fm같은 스트리밍 서비스업체들은 잘 살아남고 있는건가...</description>
+    </item>
+    
+    <item>
+      <title>2012 HCI학회에 대한 단상 (3)</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-16-2012-hci-3/</link>
+      <pubDate>Mon, 16 Jan 2012 16:59:35 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-16-2012-hci-3/</guid>
+      <description>각종 인터페이스/인터랙션 &#39;기술분야&#39; 연구 논문을 보고, 시스템 설계를 보고, 연구 방법론을 보면서 새삼 생각하게 된 것은, &#39;새로운 인터페이스 개발 단계&#39;였다.
+&amp;#13; 회사에서는 주로, 당장 필요한 것들을 하게되다 보니 상당히 Front-end적인(;) 것들에 매달리게 된다. 어쩔수없이. (이런것에 별로 회의감을 느끼진 않는다만...) 사용성 이슈라든가. 바로 써먹을 수 있는 (회사의 언어로 하면 &#39;실천적 인사이트가 담긴&#39;) 유저 모델링, 컨셉맵, 가이드라인을 제시한다든가, 만들어진 보고서를 메일로 보낼 때 누구를 &#39;참조&#39;에 넣을 것인가를 고민한다든가...
+&amp;#13; 아무튼. 기술부문 논문을 보면서 좀 더 멀리 볼 기회가 생긴 것이 사실이었다.</description>
+    </item>
+    
+    <item>
+      <title>2012 hci학회에 대한 단상 2 ed h chi 박사가 자랑한 구글의 원칙</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-16-2012-hci-2-ed-h-chi-/</link>
+      <pubDate>Mon, 16 Jan 2012 16:40:07 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-16-2012-hci-2-ed-h-chi-/</guid>
+      <description>2012 HCI학회에 대한 단상 (2)
+Ed. H. Chi 박사가 자랑한 구글의 원칙.
+Think Big, not Small.
+구글의 상대는 정말 &amp;lsquo;크다&amp;rsquo;. 1억 5천만의 인터넷 인구가 그들의 대상이다.
+그래서 10명, 20명, 30명 만나서는 알 수가 없댄다.
+그래서 거대한 데이터 분석을 해야한다고 한다.
+제록스 PARC에서 구글로 옮긴 가장 큰 이유는
+&amp;lsquo;여기엔 DATA가 많기 때문&amp;rsquo;이라고 했다.
+잘났다 쳇 ㅠㅠ</description>
+    </item>
+    
+    <item>
+      <title>2012 HCI학회에 대한 단상 (1)</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-16-2012-hci-1/</link>
+      <pubDate>Mon, 16 Jan 2012 16:32:50 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-16-2012-hci-1/</guid>
+      <description>회사의 은총을 입어 난생처음 학회란 곳을 가보았고
+그 대상은 스키어들의 천국으로 유명한 HCI학회였다.
+&amp;#13; 개인적으로 줏어들은 들은 &#39;갔다온 사람들의 반응&#39; 중 50%는 &#39;에이 볼거 없었어&#39;이고 49%는 &#39;설질 좋더라&#39;였던지라 뭔가 색안경을 끼고 가게 되었지만, 슬로프는 커녕 찬바람 맞을 시간도 없이 아침 9시 첫 세션부터 저녁 6시 반까지 스트레이트로 발표를 듣고 저녁식사 후 새벽 1시까지 &#39;리뷰&#39;시간을 가지는 열혈 팀분위기 덕에 나름 학생느낌을 느끼면서 이것저것 많이 줏어들을 수 있었던 보람차고 피곤한 시간이었다. (갔다와서 하루동안 계속 잠들어있었다.</description>
+    </item>
+    
+    <item>
+      <title>과연 groupthink는 얼마나 유용한 것인가 당신은 혼자 일할 때 편한가요 아니면</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-15--groupthink-/</link>
+      <pubDate>Sun, 15 Jan 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-15--groupthink-/</guid>
+      <description>과연 &amp;lsquo;Groupthink&amp;rsquo;는 얼마나 유용한 것인가&amp;hellip;
+당신은 혼자 일할 때 편한가요 아니면 함께 일할 때 편한가요.
+&amp;lsquo;팀&amp;rsquo;은 &amp;lsquo;혼자&amp;rsquo;보다 항상 더 강한 것인가?
+내성적인 사람은 혼자 자신의 세계에 갇혀있기를 멈추고, 성격을 바꾸어 브레인스토밍에 참가하고, 회의에 나서서 자신의 의견을 적극개진해야하는가?
+http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=3&amp;amp;hp&amp;amp;pagewanted=all
+어쩌면 근미래의 어떤 회사 또는 단체의 운명은
+&amp;lsquo;내성적이며 혼자 일하기를 좋아하는 사람, 온실을 제공하면 그 안에서 놀라우면서도 세심한 결과물들을 내어놓는 사람들&amp;rsquo;을 어떻게 다루느냐에 달려있는 것은 아닐까 하는 생각이 든다. 혼자 있으면 미치는 사람들이 있다.</description>
+    </item>
+    
+    <item>
+      <title>스티브 잡스 전기를 읽다가 문득</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-03--/</link>
+      <pubDate>Tue, 03 Jan 2012 16:06:29 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-03--/</guid>
+      <description>예전에 &#39;한국에도 잡스같은 인물을 키워야한다&#39;며 난리치던
+누군가의 드립들이 생각났다.
+&amp;#13; 쉽지 않을 것 같다.
+&amp;#13; 일단 집집마다 &#39;창고&#39;를 주는게 제일 중요하고
+(모든 일들이 다 창고에서 시작된다)
+&amp;#13; 고등학교쯤 들어가면 마리화나정도는 용인해줘야되고
+대학교들어가면 LSD도 용인해줘야되고
+&amp;#13; 무엇보다도
+등록금을 안내도 청강할 수 있게 대학교 시스템을 바꿔야하며
+&amp;#13; 동시대에 전설적인 뮤지션들도 등장시켜줘야되고
+&amp;#13; 아타리급의 신나는 신생회사도 있어야되고
+안씻고 다녀도 해고해선 안되며
+&amp;#13; 잡스의 친구가 될 수 있는 천재 엔지니어도 같이 키워줘야한다.
+&amp;#13; &amp;#13; 그냥 그렇더군.</description>
+    </item>
+    
+    <item>
+      <title>머니볼과 퍼펙트 게임 비교</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-31--/</link>
+      <pubDate>Sat, 31 Dec 2011 09:33:52 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-31--/</guid>
+      <description>국내에서 비슷한 시기에 개봉한, &#39;야구&#39;라는 같은 소재로 만들어진 두 영화를 보았다. 같은 소재임에도 불구하고, 야구를 다루는 방식이 극명하게 달라서 비교하는 재미가 컸다. (영화 자체보다 두 영화의 태도 비교가 더 흥미로울 만큼) 비교 포인트를 정리해본다.
+&amp;#13; -낭만을 쪽 뺀 야구 vs 낭만 그 자체로서의 야구 
+&amp;#13; &amp;#13; How can you not be romantic about baseball?
+어떻게 야구에서 낭만을 생각하지 않을 수 있는가?
+-Moneyball 中
+&amp;#13; &amp;#13; 머니볼의 대사 중 일부지만, 머니볼의 주제는 &#39;야구를 더 이상 낭만으로 보지 않기&#39;이다.</description>
+    </item>
+    
+    <item>
+      <title>지름신의 실체</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-31---2/</link>
+      <pubDate>Sat, 31 Dec 2011 08:23:12 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-31---2/</guid>
+      <description>가끔 &amp;lsquo;지름신&amp;rsquo;이라는 것의 실체를 온몸으로 느낀다.
+그것은 바쁠 때와 한가한 때를 가리지 않고 찾아오고,
+(아쉽게도) 돈이 넉넉할 때, 부족할 때도 가리지 않고 찾아온다.
+&amp;#13; 접신했을 때의 대표적인 특징은 다음과 같다.
+&amp;#13; 1. 지를 분야에 대한 정보를 미칠듯한 속도로 흡수.
+복잡한 용어, 제품에 대한 리뷰들과 코멘트들, 시세, 관련 사이트와 커뮤니티들&amp;hellip; 그 분야에 대해 생경하고 하도 복잡해서 평소에는 그냥 잘 안보던 정보들이 머릿속에 미칠듯이 흡수된다.
+&amp;#13; 2. 주객전도 현상.
+처음엔 지름대상이 &amp;lsquo;필요&amp;rsquo;하다는 생각으로 시작되지만, 곧 필요에 대해서는 잊어버리고 이것을 &amp;lsquo;손에 넣는 것&amp;rsquo; 자체가 목적이 된다.</description>
+    </item>
+    
+    <item>
+      <title>올 한해 마음을 불편하게 했던 것들 &amp; 연말까지 분노하게 만들고 있는 것들</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-23--/</link>
+      <pubDate>Fri, 23 Dec 2011 11:01:04 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-23--/</guid>
+      <description>4대강&amp;#13; BBK 관련 : 특히 다스에 140억 토해낸 거&amp;#13; 각종 북한 드립 : 농협, 정전 등등&amp;#13; 오세훈 무상급식 반대 드립&amp;#13; (그냥) 나경원&amp;#13; 곽노현 구속&amp;#13; 등록금&amp;#13; 홍준표 사실상 승리 드립 (이건 사실 웃음도 좀 주었음)&amp;#13; 미디어법 날치기 &amp;amp; 종편 개국&amp;#13; SNS 통제 드립&amp;#13; 앱스토어 심의 드립&amp;#13; 검경 수사권 조정&amp;#13; 벤츠 여검사 사건 &amp;#13; 저축은행비리&amp;#13; 10.26 서울시장 선거 투표소이동 &amp;amp; 서버다운 꼼수껀&amp;#13; 가카 내곡동 사저 비리 의혹 (사실 의혹도 아니지)&amp;#13; 한미 FTA 날치기 통과&amp;#13; FTA 시위하는데 뛰어들어간 경찰서장&amp;#13; 디도스 사건과 경찰 + 청와대 의혹&amp;#13; 정봉주 구속&amp;#13; 아주 쉴틈이 없다.</description>
+    </item>
+    
+    <item>
+      <title>꼰대가 되기 위한 제 1의 조건</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-21--1-/</link>
+      <pubDate>Wed, 21 Dec 2011 16:05:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-21--1-/</guid>
+      <description>=&#34;자기 경험에 대한 확신&#34;
+&amp;#13; 이로 인한 대표적 산출물
+&amp;#13; &#34;나 때는 말이야...&#34;
+&#34;내가 해봐서 아는데...&#34;
+&amp;#13; 따라서
+&amp;#13; 기구한 삶을 산 사람
+(또는 자신의 삶이 기구하다고 생각하는 사람)
+은 상대적으로 꼰대성 발언을 하게 될 가능성이 크다고 봄.
+&amp;#13; 또한
+&amp;#13; 누구나 &#39;경험&#39;을 축적하며 살기 때문에
+모두의 몸 안에는 꼰대의 기운이 잠재되어 있으며
+&amp;#13; 나이가 많을 수록
+축적된 경험이 많기 때문에
+꼰대의 기운이 더 많지만,
+꼭 그렇진 않고
+나이가 적다고 꼰대가 아닌 것도 아님.</description>
+    </item>
+    
+    <item>
+      <title>업계의 지배적인 1등을 이기는 방법</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-21--1--2/</link>
+      <pubDate>Wed, 21 Dec 2011 14:57:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-21--1--2/</guid>
+      <description>1등이 치명적인 실수를 할 때까지
+2등을 지키며 기다린다.
+&amp;#13; 슬립 스트림하듯이
+1등이 하는 거를 적당히 쫓아하면서
+1등이 상뻘짓을 할 때까지 기다린다.
+&amp;#13; 이기려고 화끈한 차별화 전략을 쓰면 거의 실패한다.
+&#39;익숙함&#39;이라는 건 생각보다 엄청 쎈거니까.
+&amp;#13; 또 다른 방법은,
+포지션을 살짝 틀어서 새로운 카테고리를 만들고
+거기서 1등을 하는 것이다.
+호랑이없는 숲에서 왕이 되는 토끼처럼.
+&amp;#13; 지배적인 1등을 이기는 건
+근본적으로는 &#39;운&#39;이 필요한 사건이고
+2등에게 필요한 건 &#39;인내심&#39;이 아닐까.
+&amp;#13; 라는 생각이 갑자기 들었다.</description>
+    </item>
+    
+    <item>
+      <title>근데 생각해보니</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-19--/</link>
+      <pubDate>Mon, 19 Dec 2011 13:56:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-19--/</guid>
+      <description>&#39;이제 안해도 되는 비교적 가벼운 마음으로&#39;
+대학 졸업전시회를 다니다보니
+&amp;#13; 졸업작품들이 몇 개의 범주로 묶이는게 조금씩 보이는 거 같기도...
+&#39;잘 쓰이는 방법&#39;들이 몇 개 있다는게 느껴지고
+몇몇 경우는 진짜 놀라울 정도로 비슷한
+스타일, 또는 시각화 방법이 등장한다.
+&amp;#13; 그런가 하면,
+아 진짜 졸업작품하기 힘들다... 라는 생각도 든다.
+&amp;#13; 오늘날 학생들의 &#39;졸업작품&#39;은 대체 무슨 의미일까.
+한참 전부터 선배들이
+&#39;졸업작품은 그냥 자기만족이야&#39;라고 하는 말을 많이 들어왔지만,
+&amp;#13; 이건 진짜 무슨 의미인걸까.
+물론 재미도 있고, 포트폴리오가 되기도 하고, 보람도 느껴지고</description>
+    </item>
+    
+    <item>
+      <title>시각디자인과 졸업전시의 흔한 브랜딩</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-19---2/</link>
+      <pubDate>Mon, 19 Dec 2011 13:34:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-19---2/</guid>
+      <description>&amp;#13; 다음은 &amp;lt;하버드비즈니스리뷰&amp;gt;에 실린 두 쪽 짜리 광고다. 여기에 등장하는 단어는 몇 자 안 된다.
+&amp;#13; 인터넷은 하얀 캔버스.
+당신이 그려나갑니다.
+intendchange.com
+intendchange
+이미지-구축-재창출
+&amp;#13; 과연 이 광고 문구를 보고 intendchange.com이 어느 카테고리에 속하는지 알아차릴 사람이 있을까? 아마 없을 것 같다. 이 웹사이트가 2000년 7월에 폐쇄된 데는 이 광고도 한몫했을 터다. &amp;#13; -브랜딩 불변의 법칙 中. p230
+&amp;#13; &amp;#13; 여러 시각디자인과 졸업전시회를 다녀보면, &amp;lsquo;브랜드&amp;rsquo;는 있는데 그래서 이게 대체 뭐하는 건지 알 수가 없는 그런 것들이 많다.</description>
+    </item>
+    
+    <item>
+      <title>Type : 희노애락</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-17-type-/</link>
+      <pubDate>Sat, 17 Dec 2011 18:33:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-17-type-/</guid>
+      <description>&#39;한 사람의 주요한 성격은 희노애락 중 하나&#39;
+&amp;#13; 친구들과 술을 마시다가 나온 이야기. 이 말을 해준 친구는 이 이야기를 자신의 누나에게서 들었다고 한다. 그리고 자신은 희노애락 중 분명이 &#39;노&#39;-타입이라고 했다. 자신은 일단 &#39;노&#39; 감정 외에는 잘 느끼지 못하며, 모든 감정이 &#39;노&#39;로 모인다는 고백을 했다. 예를 들어, 매일 만원버스를 탈 때마다 너무 화가 나는게, 뒤쪽에 자리가 있는데 앞쪽에 서서 들어갈 생각을 안하는 사람들을 보면 너무 화가난다는 것이다. 그리고 버스에서 내려서는 &#39;내가 왜 이런걸 가지고 화를 냈을까&#39;라며 또 화를 낸다고 한다.</description>
+    </item>
+    
+    <item>
+      <title>곧 CES 2012라는데</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-16--ces-2012/</link>
+      <pubDate>Fri, 16 Dec 2011 06:12:27 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-16--ces-2012/</guid>
+      <description>올해 초 CES에서는 뭐가 나왔었는지 돌아보았다.
+&amp;#13; CES 2011은 모토로라가 스포트라이트를 제대로 받았었네.
+Motorola Atrix + 웹탑 + 도크
+Motorola Xoom
+&amp;#13; 엄청 떠들썩 했었던 듯... 아트릭스는 실제로도 좋은 평을 받은 모델이지만, 모토로라를 구원하기엔 역부족이었고, 웹탑이나 도크는 진짜 안습이 되어버림.
+&amp;#13; 하지만 진짜 안습은 모토로라 줌이겠지. 완전 떠들썩 했는데 허니컴은 ㅈㅁ...
+&amp;#13; 그 외에 블랙베리 플레이북도 나왔었군. 나름 호평받았고, 안드로이드 앱에 접근할 수 있네 없네 시끄럽더니 결국 ㅈㅁ...
+&amp;#13; 킨들 파이어도 같은 길을 가는걸까.</description>
+    </item>
+    
+    <item>
+      <title>요즘 주변 친구들이</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-15--/</link>
+      <pubDate>Thu, 15 Dec 2011 16:20:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-15--/</guid>
+      <description>하나둘씩 Tumblr를 하기 시작한다.
+&amp;#13; 지금까지는 아무도 하는 사람이 없어서 낯모르는 외국애들이 올리는 대량의 고퀄리티 사진 및 간지폭발하는 유럽풍 인쇄물 사진과 막 화면에서 튀어나올 것 같은 미국산 포토샵 이미지 및 GUI디자인같이 재미없는 것들만 타임라인을 꾹꾹 채웠는데 아는 사람 팔로우하고 모르는 사람 언팔했더니 이제 좀 스느스 부니기가 나네.
+&amp;#13; 페북과 다른점이라면... 하는 사람들이 다 한 예술적감성 해주시는 분들이라 멋들어진 사진이나 일러스트 그리고 글들이 올라온다는 것과 각자의 사이트를 맘껏 뜯어고칠 수 있어서 구경가는 재미가 쏠쏠하다는 것.</description>
+    </item>
+    
+    <item>
+      <title>출근하다가 문득 &#39;법인이 자아를 확장하는 법&#39;같은 걸 써보고 싶어졌다.</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-14--/</link>
+      <pubDate>Wed, 14 Dec 2011 01:22:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-14--/</guid>
+      <description>애플, 구글, IBM, 피존, 네이버, 현대, 삼성, 엔론, IDEO, 유한킴벌리 등등...
+&amp;#13; 단순히 &#39;매출&#39;을 올리는 것을 넘어,
+법인(또는 기업)도 뭔가 &#39;자아&#39;같은 걸 가지고 싶어하는 것 같고
+그 방법도 각양각색.
+&amp;#13; 그걸 CI나 BI라는 용어로 만들어 전문분야로 승격시키고
+&#39;시장&#39;을 만드려는 노력은 계속 있어왔으나...
+&amp;#13; 사실 법인이 가졌던 강렬한 자아는 거의 대부분
+그 회사의 Top으로 부터 온 것이 아니었나 라는 의심이 들면서
+이래저래 궁금해졌다.
+&amp;#13; 재벌 아들로 태어나 사고만 치고 다니다가 아버지가 떠난 후</description>
+    </item>
+    
+    <item>
+      <title>2010년 5월 처음 안드로이드폰을 샀을 때 내가 제일 하고싶었던 것은 스마트폰으로</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-13-2010-5-/</link>
+      <pubDate>Tue, 13 Dec 2011 14:33:12 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-13-2010-5-/</guid>
+      <description>2010년 5월 처음 안드로이드폰을 샀을 때, 내가 제일 하고싶었던 것은 스마트폰으로 페이스북을 하는 것이었다. 한창 페이스북 시작해서 팜빌과 알림에 미쳐있을 시절. 나름 안드로이드가 궁금해서 샀지만, 페이스북앱은 나를 심하게 실망시켰다.
+너무 곱고 예쁜 아이폰용 페이스북앱과는 다르게, 안드로이드용은 &amp;lsquo;이거 정식버전 맞나&amp;rsquo;싶을 정도로 너무너무 못생겼기 때문이다. 오늘 용량이 부족해서 페이스북 앱의 모든 업데이트를 다 날려봤다. 그 시절 그 못생긴 얼굴을 다시 보았다. 아 진짜, 아무리 안드로이드앱이 못생겼다해도&amp;hellip; 지금 정말 많이 예뻐진거구나.
+뉴스피드는 웹앱 체계로 바꿔서인지 로딩도 안된다.</description>
+    </item>
+    
+    <item>
+      <title>힘차게 펴본 2012년 달력</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-12--2012-/</link>
+      <pubDate>Mon, 12 Dec 2011 16:21:10 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-12--2012-/</guid>
+      <description>1월.
+설날 연휴 첫날이 일요일인걸 보고 기분이 팍 상했다. </description>
+    </item>
+    
+    <item>
+      <title>38만원짜리 랩탑의 위용jpg 영어선생의 랩탑을 대신 사주는 바람에 새 노트북을 뜯어볼</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-09-38-jpg-/</link>
+      <pubDate>Fri, 09 Dec 2011 13:59:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-09-38-jpg-/</guid>
+      <description>38만원짜리 랩탑의 위용.jpg
+영어선생의 랩탑을 대신 사주는 바람에 새 노트북을 뜯어볼 기회를 잡았다.
+Acer Aspire 5349 B802G50Mikk 라는 말도 안되는 모델명을 가진 랩탑이자 38만원이라는 말도안되는 가격을 가진 랩탑이라 궁금하던 차였다. CPU는 좀 안습인 B800이지만 15.6인치 와이드 모니터, 500기가 하드, 4기가 램을 보면 가격을 의심하게 한다. 뭔 결함이 있는거지?
+물론, 이런 가격대 넷북(이 크기에도 불구하고 이건 &amp;lsquo;넷북&amp;rsquo;취급을 당한다)은 윈도우가 포함되어있지 않다. 뭔가 깔려있겠지 하고 켜봤더니 세상에 말로만 듣던 Meego가 깔려있는 것이 아닌가?</description>
+    </item>
+    
+    <item>
+      <title>야, 좀 창의적인 아이디어 좀 내봐!</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-08--/</link>
+      <pubDate>Thu, 08 Dec 2011 08:24:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-08--/</guid>
+      <description>라고 회의에서 말하는 곳에서 창의적인 생각이 나오는 경우를 못봤지.
+(보통 이럴 땐 &#39;짜증&#39;이 나온다) &amp;#13; 회상해보면, 아이디어가 나오는 것은 요런 상황들이 아니었나 싶다.
+&amp;#13; 목숨이 위태로울 정도로 빡세게 구르거나 쫓길 때&amp;#13; 별 간섭이 없어서 딴짓을 맘놓고 할 수 있을 때&amp;#13; 좀 엉뚱한 짓을 하고 있어도 누가 뭐라 안하는 분위기&amp;#13; &#39;애사심&#39;을 강조하면서 &#39;우리 제품을 애용해! 다른 건 회사 안에 가지고 들어오지도 마!&#39;라는 식이라면 좀 곤란하겠지. ㅎㅎ 누군가는 &#39;효율적이고 창의적이면서 하나로 똘똘 뭉치는 조직&#39;을 만들고 싶어하겠지만, 과연 그런게 있기나 한걸까?</description>
+    </item>
+    
+    <item>
+      <title>안드로이드의 설명하기 힘든 내재적 못생김에 대하여</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-08---2/</link>
+      <pubDate>Thu, 08 Dec 2011 07:05:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-08---2/</guid>
+      <description>&amp;#13; 안드로이드용 페이스북 앱이 업데이트되면서, 아이폰용과 같은 인터페이스를 가지게 되었다. 상당히 대대적으로 바뀐 인터페이스인데, 그 사용성에 대한 논란은 뒤로 하고, 두 OS가 가진, (시각적인 것이기 때문에 설명하긴 힘들지만) 외모, 즉 비주얼의 질 차이에 대해 이야기해보고 싶다.
+&amp;#13; &#39;아이폰&#39;이라는 안전하고 예쁜 선택을 뒤로하고, 총대를 매는 심정으로 안드로이드를 사서 쓴지 1년 8개월째. 안드로이드 유저인 나를 가장 괴롭힌 것은 물론 HTC Desire의 말도 안되게 작은 내장 메모리(한 반년 전부터 새로운 앱을 전혀 깔 수 없는 상황이다.</description>
+    </item>
+    
+    <item>
+      <title>facebook app for android</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-08-facebook-app-for-android/</link>
+      <pubDate>Thu, 08 Dec 2011 06:50:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-08-facebook-app-for-android/</guid>
+      <description>Facebook App for Android</description>
+    </item>
+    
+    <item>
+      <title>facebook app for ios</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-08-facebook-app-for-ios/</link>
+      <pubDate>Thu, 08 Dec 2011 06:47:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-08-facebook-app-for-ios/</guid>
+      <description>Facebook App for iOS</description>
+    </item>
+    
+    <item>
+      <title>오늘, 졸업을 앞둔 한 친구를 만나, 종강 수업에서 어떤 교수가 한 이야기를 들었다.</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-07--/</link>
+      <pubDate>Wed, 07 Dec 2011 14:28:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-07--/</guid>
+      <description>지금 다들 이번 학기에는 대체 뭘 배웠나 생각하고 있지요?
+&amp;#13; 그런데 역사는 계획대로 된 적이 없어요. 인생도 마찬가집니다. 때가 되었을 때, 기회가 찾아왔을 때 무언가 이루어지는 겁니다. 인생을 너무 계획하려고 하지 마세요. 자 그럼 이만 마치겠습니다. 오늘 집에 가면서 로또나 하나씩 사세요.</description>
+    </item>
+    
+    <item>
+      <title>14 Words Republicans Are Not to Use</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-06-14-words-republicans-are-not-to-use/</link>
+      <pubDate>Tue, 06 Dec 2011 14:49:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-06-14-words-republicans-are-not-to-use/</guid>
+      <description>미국 보수 세력의 싱크탱크 중 한명인 Frank Luntz가 만든
+&#39;공화당이 써서는 안되는 14가지 단어&#39; 목록.
+&amp;#13; 각 쟁점에 대해 현재 사용 중이지만 절대 공화당의 입에서 나와서는 안되는 단어와 그 이유, 그리고 대체할 단어를 만들었다. 오늘 &#39;Frame&#39;에 관한 강연을 듣고 찾아봄. 오늘 강연에선 7번 단어, &#39;Undocumented Worker - Illegal Alien&#39;을 예로 들었음. Undocumented Worker라는 말은 불법체류자를 이미 &#39;노동자&#39;의 범주에 포함시키기 때문에 이에 대해 강경한 주장을 펼 수 없으므로 이를 Illegal Alien으로 지칭해야한다고 주장.</description>
+    </item>
+    
+    <item>
+      <title>Path 2.0에 대한 단상</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-01-path-20-/</link>
+      <pubDate>Thu, 01 Dec 2011 06:33:12 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-01-path-20-/</guid>
+      <description>디자이너들이 Path 2.0에 열광하는걸로 봐서
+이 서비스 잘 안될거같다.
+&amp;#13; &amp;#13; ㅋ</description>
+    </item>
+    
+    <item>
+      <title>ux하시는 어떤 전문가 아저씨 왈 여기 나오는 업무들을 다 구분할 수 있으면 당신은</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-30-ux-/</link>
+      <pubDate>Wed, 30 Nov 2011 15:59:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-30-ux-/</guid>
+      <description>UX하시는 어떤 전문가 아저씨 왈,
+여기 나오는 업무들을 다 구분할 수 있으면
+당신은 전문가
+라나 뭐라나.
+특히 IA(Information Architecture)는 여러분이 생각하는 단순히 사이트맵 그리고 메뉴구조짜는 그런게 아니에요 라고 계속 말했는데 강연이 끝나도록 그게 뭔지는 설명해주지 않았다.
+어쨌든 강연은 재밌었다. (정리해야되는데&amp;hellip;)</description>
+    </item>
+    
+    <item>
+      <title>이 컷들은 정말 웃기다 알 수 없는 공감이 밀려온다 조직 역학을 고려하지 않은</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-29--/</link>
+      <pubDate>Tue, 29 Nov 2011 16:39:53 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-29--/</guid>
+      <description>이 컷들은 정말 웃기다.
+알 수 없는 공감이 밀려온다.
+ &amp;rsquo;조직 역학&amp;rsquo;을 고려하지 않은 UX팀은 &amp;lsquo;QA&amp;rsquo;정도의 스텝을 밟을 가능성이 크다고 한다. 스스로는 &amp;lsquo;이 회사의 정의는 우리가 지킨다&amp;rsquo;라고, 또 &amp;lsquo;우리가 아니면 이 회사의 마지막 사용성도 날아가버릴거야&amp;rsquo;라고 생각하지만 다른 부서들은 그저 성가시고 재수없는 팀 정도로 생각하는.</description>
+    </item>
+    
+    <item>
+      <title>사용자 중심 디자인이 화두이지만 사실...</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-29---2/</link>
+      <pubDate>Tue, 29 Nov 2011 09:42:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-29---2/</guid>
+      <description>조직에서 진짜 먹히는 건 어쩌면
+UCD 즉 User Centered Design이 아니라
+ICD일지도 모른다.
+&amp;#13; (ICD = &#39;Imwon&#39; Centered Design)
+&amp;#13; &#34;I &amp;gt; U&#34;
+&amp;#13; 밤하늘의 별처럼 많은 방법론과 데이터를 뛰어넘는
+&amp;#13; &#34;I&#34;의 상상력!</description>
+    </item>
+    
+    <item>
+      <title>제일 먼저 시작했는데도 1등이 되지 못한게 그렇게 억울하거나 한심한 일은 아니지</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-29--1-/</link>
+      <pubDate>Tue, 29 Nov 2011 05:53:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-29--1-/</guid>
+      <description>제일 먼저 시작했는데도 1등이 되지 못한게 그렇게 억울하거나 한심한 일은 아니지.
+2001년에 LGE가 발표했다는 iPAD를 보고 &amp;lsquo;먼저 했는데도 태블릿을 제대로 못하다니 한심해!&amp;lsquo;라고 말하는 사람도 많고, 싸이월드가 페이스북보다 먼저 SNS를 제공했는데도, 세계로 안나가서 세계시장을 빼앗긴거다, 도토리파는데 혈안이 되서 그런거다 욕은 많이 하는데,
+싸이월드는 &amp;lsquo;세계시장에 늦게 나가서&amp;rsquo; 세계 1등이 못된게 아니라 그냥 그쪽 취향이랑 서비스가 잘 안맞아서 1등이 못된것이라고 보는게 더 정확하다. (아마도&amp;hellip;) 실제로 해외진출 했었고, 실패했었다. 제일 먼저하면 선점하는거고, 선점하면 1등을 하게 될 거라는 생각은 사실 별 근거가 없다.</description>
+    </item>
+    
+    <item>
+      <title>세미나 : &#34;흥미로운 트렌드 이야기&#34; 정리</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-28--/</link>
+      <pubDate>Mon, 28 Nov 2011 16:08:07 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-28--/</guid>
+      <description>20111123, UXD센터 세미나 &amp;rdquo;흥미로운 트렌드 이야기&amp;rdquo; (By 김용섭 @날카로운 상상력 연구소)를 듣고 맘대로 해석하여 기록.
+&amp;#13; &amp;#13; 1. 경험의 함정
+만들던대로 만들다가 트렌드를 놓친다. 관성에 의해 만들다가는&amp;hellip; 예를 들어, 피쳐폰으로 먹고 살던 핸드폰 제조사들이 스마트폰 나왔을 때 맞은 역풍같은 것. 지금, 전기자동차를 봐도 보이는 것이, 전기자동차는 내연기관이 필요없어서 완전히 다른 모양으로 만들 수 있는데 기존 자동차 회사들은 전기자동차도 그 이전 자동차랑 똑같은 모양으로 만들고 있다.
+실제로 &amp;lsquo;전기자동차 만들기&amp;rsquo;는 자동차 회사보다 전자 회사에게 더 유리하다.</description>
+    </item>
+    
+    <item>
+      <title>내 tumblog에 google analytics를 설치한지 2주가 흘렀다</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-25--tumblog-google-analytics-2-/</link>
+      <pubDate>Fri, 25 Nov 2011 16:32:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-25--tumblog-google-analytics-2-/</guid>
+      <description>내 Tumblog에 Google Analytics를 설치한지 2주가 흘렀다.</description>
+    </item>
+    
+    <item>
+      <title>미래를 예측하는 가장 좋은 방법</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-25--/</link>
+      <pubDate>Fri, 25 Nov 2011 03:22:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-25--/</guid>
+      <description>앨런 케이의 말은 참 많이도 인용된다. 인용하기 참 좋은 말이기도 하고, 굉장히 설득력있는 말이기도 하다.
+&amp;#13; &#34;미래를 예측하는 가장 좋은 방법은 미래를 발명하는 것이다.
+The best way to predict the future is to invent it.&#34;
+&amp;#13; 이 말을 하면서, 앨런 케이는 &#39;현 시대에는 reactive할 것 없이 proactive하면 된다&#39;라고 하였다. 위 인용구에 &#39;미래&#39;를 다른 말로 바꾸면, 어느 강연에서나 유용하게 한 장의 장표를 만들 수 있다. 음... &#39;미래&#39;를 &#39;트렌드&#39;로 바꿔보자.
+&amp;#13; &#34;트렌드를 예측하는 가장 좋은 방법은 트렌드를 발명하는 것이다.</description>
+    </item>
+    
+    <item>
+      <title>다음에 보고서를 쓸 때는</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-17--/</link>
+      <pubDate>Thu, 17 Nov 2011 16:50:09 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-17--/</guid>
+      <description>너무 많은 것을 넣으려고 하지 말고
+핵심적인 메세지만 꾸려서
+제일 잘 보이게, 제일 예쁘게, 제일 먼저 말해주고
+그 근거와 논리는, 그 뒤에 나오게끔하고
+이야기 읽듯, 라인이 잘 잡히도록. &amp;#13; 해봐야겠다. </description>
+    </item>
+    
+    <item>
+      <title>웹월드 컨퍼런스 2011와 2006 주제 비교 (서비스/전략 부문)</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-15--2011-2006-/</link>
+      <pubDate>Tue, 15 Nov 2011 11:50:45 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-15--2011-2006-/</guid>
+      <description>웹월드 컨퍼런스 2011 &amp;lsquo;서비스 전략&amp;rsquo;을 주제로 한 첫 날.
+&amp;#13; 10시부터 6시까지, 8개의 세션을 같은 자리에 앉아 쭉 듣는 것이
+얼마나 힘든지 다시 한번 느낀 날&amp;hellip;
+&amp;#13; -커머스
+-소셜
+-미디어
+-스마트폰
+-스마트패드
+-스마트TV
+-신기술
+&amp;#13; 의 관점에서 2011년의 동향과 2012년 예측을 하는 자리였다.
+&amp;#13; 어떤 세션은 상당히 좋았고, (특히 커머스 세션. 지금 e-commerce를 둘러싼 현황을 말끔하게 정리하고 그것으로 자신들의 새로운 서비스를 어떻게 만들어냈는지에 대한 멋진 사례로 마무리) 어떤 세션은 정말 심하게 무성의했다.</description>
+    </item>
+    
+    <item>
+      <title>아 역시 텀블러는 안되겠어</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-14--/</link>
+      <pubDate>Mon, 14 Nov 2011 15:35:34 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-14--/</guid>
+      <description>빨리 공부해서 워드프레스로 갈아타자.</description>
+    </item>
+    
+    <item>
+      <title>싸이월드와 페이스북에 관한 소설 : 유학 컴플렉스와 해외 동경의 멘탈 모델</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-13--/</link>
+      <pubDate>Sun, 13 Nov 2011 16:43:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-13--/</guid>
+      <description>SNS흐름 변화에 대한 조심스러운 추측. 근거없는 소설을 써본다.
+&amp;#13; 세계 시장에서의 SNS는 볼 것 없고, 국내 SNS 시장만 봤을 때, 페이스북과 트위터 등 이른바 &#39;외산 SNS&#39;의 성장과 &#39;싸이월드&#39; 및 &#39;미니홈피&#39;의 하강 흐름이 분명하다. (물론 요즘 뉴스에서 나오는 것이나 트위터의 &#39;IT 구루(처럼 예언을 뿌리는)님&#39;들의 &#39;말씀&#39;에는 과장이 있다. 미니홈피는 생각보다 많이 쓰고 페이스북은 생각보다 적게 쓴다고 봄)
+&amp;#13; 이 흐름 변화의 이유로 &#39;업계&#39; 사람들이 내리는 &#39;분석&#39;은 뭐...
+&amp;#13; 일단 UX가 어쩌구 저쩌구, UI가 어쩌구 저쩌구, 확장성이 어쩌구 저쩌구, 미니홈피는 폐쇄적이고 어쩌구 저쩌구, 싸이월드는 유치하고 어쩌구 저쩌구, 주커버그가 어쩌구 저쩌구, F8이 어쩌구 저쩌구, 오픈 API가 어쩌구, SNG가 저쩌구, 소셜 그래프, 오픈 그래프, 혁신, 기업문화, 속도, 모바일 등등 많은데.</description>
+    </item>
+    
+    <item>
+      <title>Wordpress를 쓰다가 Tumblr를 쓰는데</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-10-wordpress-tumblr-/</link>
+      <pubDate>Thu, 10 Nov 2011 17:34:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-10-wordpress-tumblr-/</guid>
+      <description>Wordpress의 테마를 주무를 수 있을 때 까지 임시로 쓰려고
+Tumblr에 잡설을 쓰기 시작했는데
+날이 갈수록 워드프레스로 돌아가야 하는 이유가 불분명해지고 있다. </description>
+    </item>
+    
+    <item>
+      <title>동네/골목의 놀이 - 아파트/놀이터의 놀이</title>
+      <link>https://ycnam.github.io/2011-10/2011-10-31----/</link>
+      <pubDate>Mon, 31 Oct 2011 17:52:30 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-10/2011-10-31----/</guid>
+      <description>얼마전 들은 강연에서 &#39;아파트에 살면 사람 자체가 완전히 바뀐다&#39;라는 말을 들었다. 그리고 이 말을, 어린 시절에는 주택에서 살다가 아파트로 이사간 사람은 알 수 있을 거라고 했다.
+&amp;#13; 나의 경우가 그러하다. 나는 어린 시절 나름 &#39;주상복합주택&#39;에서 살았다. 총 3층짜리 건물이었는데, 1층은 보신탕집이었고, 2층은 화실(심지어 이름은 &#39;홍익화실&#39;)이었고, 3층이 집이었고 또 옥상이 있었다.
+&amp;#13; 위치는 큰 길에서 살짝 안쪽으로 들어간 곳이었고, 다양한 형태들의 주택과 상가들이 어지럽게 뒤엉켜있었다. 마당이 있는 주택, 한 동짜리 빌라, 연합주택, 음식점, 태권도장, 반지하 주택, 비디오가게, 슈퍼마켓(생각해보니 &#39;슈퍼&#39;가 아니라 &#39;식품&#39;이었다.</description>
+    </item>
+    
+    <item>
+      <title>Siri 예상 시나리오 (1)</title>
+      <link>https://ycnam.github.io/2011-10/2011-10-13-siri-1/</link>
+      <pubDate>Thu, 13 Oct 2011 03:04:17 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-10/2011-10-13-siri-1/</guid>
+      <description>#1. 내 방 / 밤
+&amp;#13; 나 : 내일 아침 일찍 나가야되니까 아침 7시에 꼭 깨워줘. 나 일어날 때 까지 깨워줘야돼 꼭!
+Siri : 아침 7시 알람 설정합니다.
+&amp;#13; &amp;#13; #2. 내 방 / 아침 7시
+&amp;#13; Siri : *따르르르르릉*
+나 : (미동도 안 함) &amp;#13; &amp;#13; #3. 내 방 / 아침 8시
+&amp;#13; 나 : 아, 나 왜 안깨웠어 이 개객기
+&amp;#13; &amp;#13; 이로써 아이폰은 엄마폰이 된다.</description>
+    </item>
+    
+    <item>
+      <title>adoption retention of facebook 신규 런칭이나 업데이트 후</title>
+      <link>https://ycnam.github.io/2011-09/2011-09-21-adoption-retention-of-facebook-/</link>
+      <pubDate>Wed, 21 Sep 2011 07:39:15 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-09/2011-09-21-adoption-retention-of-facebook-/</guid>
+      <description>&amp;lsquo;Adoption &amp;amp; Retention&amp;rsquo; of Facebook
+신규 런칭이나 업데이트 후 사용자에게 추가되거나 바뀐 부분을 안내하고, 그것에 대한 반응을 정성적, 정량적으로 수집하여 빠르게 &amp;lsquo;대꾸&amp;rsquo;해주는 것이 좋다.
+이번에 페이스북에서도 &amp;lsquo;주커버그가 직접 관리한다&amp;rsquo;는 뉴스피드 업데이트가 있었기에 이들의 준비태세(?)를 봤는데&amp;hellip;
+일단 안내는 상당히 대대적으로 했고, 오버레이를 적절히 썼으며, Learn More를 통해서 헬프센터로 이동시키고 헬프 센터의 각 설명에는 &amp;lsquo;이 질문이 도움이 되었냐&amp;rsquo;는 질문을 던지는 란을 마련해놓았다. 그리고 블로그에도 이에 대한 설명 포스팅이 되어있고, 그 포스팅 아래 정성적 반응이라고 할 수 있는 &amp;lsquo;리플&amp;rsquo;들이 쌓인다.</description>
+    </item>
+    
+    <item>
+      <title>20110921 facebook news feed updated top news와</title>
+      <link>https://ycnam.github.io/2011-09/2011-09-21-20110921-facebook-news-feed-updated-top-news/</link>
+      <pubDate>Wed, 21 Sep 2011 07:27:22 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-09/2011-09-21-20110921-facebook-news-feed-updated-top-news/</guid>
+      <description>20110921.
+Facebook News Feed Updated.
+Top News와 Most Recent를 합침.
+https://blog.facebook.com/blog.php?post=10150286921207131https://www.facebook.com/help?page=189712557768134 </description>
+    </item>
+    
+    <item>
+      <title>facebook 새 기능 추가 smart list 그너무 스마트 페북 계속</title>
+      <link>https://ycnam.github.io/2011-09/2011-09-16-facebook-smart-list-/</link>
+      <pubDate>Fri, 16 Sep 2011 11:28:15 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-09/2011-09-16-facebook-smart-list-/</guid>
+      <description>Facebook 새 기능 추가 : Smart List
+그너무 스마트.. 페북 계속 달리네.</description>
+    </item>
+    
+    <item>
+      <title>my own gtd system by wunderlist google calendar</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-26-my-own-gtd-system-by-wunderlist-google-calendar/</link>
+      <pubDate>Fri, 26 Aug 2011 18:02:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-26-my-own-gtd-system-by-wunderlist-google-calendar/</guid>
+      <description>my own GTD system
+by
+Wunderlist + Google Calendar + Springpad + (Userstorybook)
+To do / Next Action / Someday : Wunderlist
+Calendar : Google Calendar
+Reference Archiving : Springpad
+Reference Archiving (book) : Userstorybook </description>
+    </item>
+    
+    <item>
+      <title>20110826 관심사</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-25-20110826-/</link>
+      <pubDate>Thu, 25 Aug 2011 16:13:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-25-20110826-/</guid>
+      <description>통계
+&amp;#13; 분석
+&amp;#13; User Segmentation
+&amp;#13; 대량 데이터 취급
+&amp;#13; DB Engineering
+&amp;#13; MS Excel
+&amp;#13; Sampling 기법
+&amp;#13; 분산분석
+&amp;#13; 이런 것들 빠르게 시각화하기
+&amp;#13; 자동 시각화 방법 - 싸고 빠르게
+&amp;#13; 보고서 작성
+&amp;#13; PPT
+&amp;#13; 화면 설계
+&amp;#13; Information Architecture
+&amp;#13; Prototyping
+&amp;#13; HTML + CSS + JS
+&amp;#13; jQuery
+&amp;#13; Omnigraffle
+&amp;#13; MS Visio
+&amp;#13; Metrics
+&amp;#13; Quantitive &amp;lt;-&amp;gt; Qualitative
+&amp;#13; 얄팍한 지식이나마 회사에서 써먹기</description>
+    </item>
+    
+    <item>
+      <title>SNS &#43; Mobile IM</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-15-sns-mobile-im/</link>
+      <pubDate>Mon, 15 Aug 2011 19:09:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-15-sns-mobile-im/</guid>
+      <description>SNS와 Instant Messenger의 결합이 너무나 분명하게 보이는 추세...
+&amp;#13; 1. [싸이월드 + 네이트온 (네이트온 / 네이트온UC / 네이트온톡)]
+: 사실상 원조격. 그런데 모바일IM이 너무 늦었다는 안타까움
+&amp;#13; 2. [Google+ + Huddle]
+: 아예 구글+ 앱과 동시에 IM을 철저히 염두에 둔 경우.
+웹에서 만든 써클에 확 메시지를 뿌릴 수 있다는 점이 인상적.
+그러나 Huddle App자체가 (아직은)너무 헐렁해서 아쉬움.
+&amp;#13; 3. [Facebook + Messenger]
+: 좋은 아이디어. 메신저를 따로 떼어놓다니.
+그런데 쫌만 빨리 했음 좋았을텐데.</description>
+    </item>
+    
+    <item>
+      <title>home screen apps 2011812 htc desire android</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-12-home-screen-apps-2011812-htc-desire-android/</link>
+      <pubDate>Fri, 12 Aug 2011 05:51:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-12-home-screen-apps-2011812-htc-desire-android/</guid>
+      <description>Home Screen / Apps
+2011.8.12
+HTC Desire / Android 2.2
+ GTD by Google Calender + Wunderlist + Springpad
+Too many IM apps&amp;hellip; spend little time only w/ Facebook, Google+, Cyworld. No fun anymore&amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-11-link-post/</link>
+      <pubDate>Thu, 11 Aug 2011 01:17:44 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-11-link-post/</guid>
+      <description>http://mashable.com/2011/08/09/facebook-messenger/
+2011.08.09
+페이스북이 페이스북 내 메신저 기능만 분리해서 메신저 앱을 내놓음.
+이건 마치 구글+의 &amp;lsquo;허들&amp;rsquo;과 같은 개념
+단체 채팅, 위치공유 등을 지원</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-08-link-post/</link>
+      <pubDate>Mon, 08 Aug 2011 02:16:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-08-link-post/</guid>
+      <description>http://mashable.com/2011/08/02/qr-code-mistakes/
+그래, 이런 정도는 고려해줘야지.
+특히 QR코드 찍었는데 모바일용 사이트 아닌 경우나
+뭔가 Next step밟기 애매하게 된 경우에는 난감&amp;hellip;
+제일 큰 문제는 이제 아무도 안찍는다는게 아닐까. </description>
+    </item>
+    
+    <item>
+      <title>ui를 위한 스케치</title>
+      <link>https://ycnam.github.io/2011-08/2011-08-03-ui-/</link>
+      <pubDate>Wed, 03 Aug 2011 18:34:20 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-08/2011-08-03-ui-/</guid>
+      <description>UI를 위한 스케치.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-27-link-post/</link>
+      <pubDate>Wed, 27 Jul 2011 16:29:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-27-link-post/</guid>
+      <description>http://How to Implement GTD in Springpad
+SpringPad로 GTD 구현하기.
+대체적인 반응은 &amp;lsquo;아무래도 스프링패드는 GTD 구현에 그닥 잘 맞지는 않는다&amp;rsquo;이지만 어쨌든. 솔직히 내 생각에도 스프링패드는 일정관리하기에는 너무 헤비하다. 오히려 메모나 아카이빙에 더 유용한 듯.</description>
+    </item>
+    
+    <item>
+      <title>google main page 격세지감</title>
+      <link>https://ycnam.github.io/2011-06/2011-06-29-google-main-page-/</link>
+      <pubDate>Wed, 29 Jun 2011 03:18:18 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-06/2011-06-29-google-main-page-/</guid>
+      <description>Google. Main Page.
+격세지감.</description>
+    </item>
+    
+    <item>
+      <title>data flow into screen documentation</title>
+      <link>https://ycnam.github.io/2011-06/2011-06-14-data-flow-into-screen-documentation/</link>
+      <pubDate>Tue, 14 Jun 2011 00:43:39 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-06/2011-06-14-data-flow-into-screen-documentation/</guid>
+      <description>Data Flow into Screen. Documentation.</description>
+    </item>
+    
+    <item>
+      <title>Ruby Exercise 04. ascending/descending sort</title>
+      <link>https://ycnam.github.io/2011-05/2011-05-15-ruby-exercise-04-ascendingdescending-sort/</link>
+      <pubDate>Sun, 15 May 2011 12:50:27 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-05/2011-05-15-ruby-exercise-04-ascendingdescending-sort/</guid>
+      <description>오름차순, 내림차순 정렬 실습.
+&amp;#13; &amp;#13; $num = Array.new&amp;#13; &amp;#13; def input()&amp;#13; for i in 0..4&amp;#13; print &amp;ldquo;\n비교를 원하는 수를 5개를 입력하세요. (현재 &amp;ldquo;, 5-i, &amp;ldquo;개 남음) : &amp;ldquo;&amp;#13; inp = gets.to_i&amp;#13; $num.push(inp)&amp;#13; end&amp;#13; print &amp;ldquo;\n입력이 완료되었습니다. 입력된 수는 &amp;ldquo;&amp;#13; for i in 0..4&amp;#13; if i == 4&amp;#13; print $num[i]&amp;#13; else&amp;#13; print $num[i], &amp;ldquo;, &amp;ldquo;&amp;#13; end&amp;#13; end&amp;#13; puts &amp;ldquo;입니다.&amp;rdquo;&amp;#13; end&amp;#13; &amp;#13; def ascent(num)&amp;#13; ascendingSort = Array.new&amp;#13; ascendingSort.push(num[0])&amp;#13; for i in 1.</description>
+    </item>
+    
+    <item>
+      <title>Ruby Exercise 03. min/max function</title>
+      <link>https://ycnam.github.io/2011-05/2011-05-15-ruby-exercise-03-minmax-function/</link>
+      <pubDate>Sun, 15 May 2011 12:48:34 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-05/2011-05-15-ruby-exercise-03-minmax-function/</guid>
+      <description>1. 배열 안에 다섯개의 정수를 입력받은 input()함수
+2. 정수 배열 안에서 최대값과 최소값을 Return해주는 함수 min(), max()
+3. 그 값을 받아 출력해주는 output()함수
+&amp;#13; &amp;#13; &amp;#13; $num = Array.new&amp;#13; &amp;#13; def input()&amp;#13; for i in 0..4&amp;#13; print &amp;ldquo;\n비교를 원하는 수를 5개를 입력하세요. (현재 &amp;ldquo;, 5-i, &amp;ldquo;개 남음) : &amp;ldquo;&amp;#13; inp = gets.to_i&amp;#13; $num.push(inp)&amp;#13; end&amp;#13; print &amp;ldquo;\n입력이 완료되었습니다. 입력된 수는 &amp;ldquo;&amp;#13; for i in 0..4&amp;#13; if i == 4&amp;#13; print $num[i]&amp;#13; else&amp;#13; print $num[i], &amp;ldquo;, &amp;ldquo;&amp;#13; end&amp;#13; end&amp;#13; puts &amp;ldquo;입니다.</description>
+    </item>
+    
+    <item>
+      <title>88만원 세대 &#43; 콘크리트 유토피아</title>
+      <link>https://ycnam.github.io/2011-05/2011-05-07-88-/</link>
+      <pubDate>Sat, 07 May 2011 15:03:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-05/2011-05-07-88-/</guid>
+      <description>&#39;88만원 세대&#39;를 읽었던 당시에는 - &#39;짱돌&#39;을 들어야겠다고 생각 했는데, 콘크리트 유토피아를 읽어보니, 우리는 주워서 던질 짱돌하나 없는 아스팔트 위에 서있는게 아닌가 싶기도.</description>
+    </item>
+    
+    <item>
+      <title>홍상수가 롱테이크를 많이 쓰는 이유.</title>
+      <link>https://ycnam.github.io/2011-05/2011-05-01--/</link>
+      <pubDate>Sun, 01 May 2011 15:44:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-05/2011-05-01--/</guid>
+      <description>Q: 작품에서 롱테이크가 많이 쓰이는데 특별한 이유가 있는지?
+&amp;#13; A: 롱테이크를 하지 않고 컷을 끊으려면 좋은 Take를 마스터샷으로 얻은 후 다른 화각에서 같은 장면을 다시 찍어야 한다. 하지만 떨림이 담긴, 그 순간에 맞는 독특한 억양이 섞인, 순간적인 반응에 의한 본능적인 연기를 컷한 후 (화각을 다시 잡고) 배우에게 다시 요구하는건 불가능하다고 본다. 게다가 그런 식으로 요구하다보면 배우들도 방어적이 되어서, 컷한 후 다시 재연할 수 있는 연기만을 하게 된다. &amp;#13; 제12회 전주국제영화제 : Offscreen 옥희의 영화 GV중.</description>
+    </item>
+    
+    <item>
+      <title>Ruby Exercise 02. Nx9 (Column style)</title>
+      <link>https://ycnam.github.io/2011-04/2011-04-29-ruby-exercise-02-nx9-column-style/</link>
+      <pubDate>Fri, 29 Apr 2011 19:21:19 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-04/2011-04-29-ruby-exercise-02-nx9-column-style/</guid>
+      <description>&amp;#13; count = 0&amp;#13; num = 0&amp;#13; print &#34;\nInput number 1 : &#34;&amp;#13; num1 = gets.to_i&amp;#13; print &#34;Input number 2 : &#34;&amp;#13; num2 = gets.to_i&amp;#13; print &#34;How many columns do you want? : &#34;&amp;#13; column = gets.to_i&amp;#13; print &#34;\n&#34;&amp;#13; &amp;#13; if num1 &amp;gt; num2&amp;#13; num = num1; num1 = num2; num2 = num&amp;#13; end&amp;#13; &amp;#13; for i in num1..num2&amp;#13; if count == column&amp;#13; count = 0&amp;#13; elsif count != 0&amp;#13; count += 1&amp;#13; next&amp;#13; end&amp;#13; for j in 1.</description>
+    </item>
+    
+    <item>
+      <title>Ruby Exercise 01. 9x9</title>
+      <link>https://ycnam.github.io/2011-04/2011-04-29-ruby-exercise-01-9x9/</link>
+      <pubDate>Fri, 29 Apr 2011 19:17:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-04/2011-04-29-ruby-exercise-01-9x9/</guid>
+      <description>&amp;#13; total = 0&amp;#13; storage = 0&amp;#13; &amp;#13; print &#34;시작할 숫자를 입력하세요 : &#34;&amp;#13; smallNum = gets.to_i&amp;#13; print &#34;마지막 숫자를 입력하세요 : &#34;&amp;#13; largeNum = gets.to_i&amp;#13; &amp;#13; if smallNum &amp;gt; largeNum&amp;#13; storage = smallNum&amp;#13; smallNum = largeNum&amp;#13; largeNum = storage&amp;#13; end&amp;#13; &amp;#13; for i in smallNum..largeNum&amp;#13; for j in 1..9&amp;#13; print i, &#34; x &#34;, j, &#34; = &#34;, i*j, &#34;\n&#34;&amp;#13; total += i*j&amp;#13; end&amp;#13; print &#34;\n&#34;&amp;#13; end&amp;#13; &amp;#13; print &#34;</description>
+    </item>
+    
+    <item>
+      <title>지금 지하철. 내 앞자리에</title>
+      <link>https://ycnam.github.io/2011-04/2011-04-16--/</link>
+      <pubDate>Sat, 16 Apr 2011 02:15:40 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-04/2011-04-16--/</guid>
+      <description>일곱명이 앉아있다. 네명은 핸드폰 스크린을 보고있고 두명은 책을 보고있고 한명은 그냥 앉아있다. 세명은 스마트폰이고 그 중 두명은 아이폰4다. 한명은 갤럭시S다. 네명은 이어폰을 꽂고있다. 네 이어폰 모두 하얗다. 살아있는 인포그래픽을 보는 기분</description>
+    </item>
+    
+    <item>
+      <title>회의원칙 회의에 참여하는 사람이 많을 수록 회의는 짧아야 한다 많은 사람들이 참여하는</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-31--/</link>
+      <pubDate>Thu, 31 Mar 2011 16:30:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-31--/</guid>
+      <description>회의원칙 :
+회의에 참여하는 사람이 많을 수록 회의는 짧아야 한다.
+많은 사람들이 참여하는 긴 회의는 참가자 반 이상에게 시간낭비일 뿐.
+하지만 아쉽게도, 참가자가 많아질 수록 회의가 길어질 가능성이 높다.
+-communication theory 01 </description>
+    </item>
+    
+    <item>
+      <title>소비자 관점의 애플제품 구매 프로세스의 특성 (Updated)</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-30--updated/</link>
+      <pubDate>Wed, 30 Mar 2011 08:08:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-30--updated/</guid>
+      <description>1. 고민 : 이걸 살 필요가 있을까? 이 가격에?
+2. 결심 : (주로 새벽에) 에이 모르겠다 질러!
+3. 후회 : (배송 대기하는 동안) 아, 내가 미쳤었나봐
+4. 초조 : 근데 왜 이렇게 안오는거야… 오늘 올줄 알았는데
+5. 망각 : (제품 도착 후 박스를 뜯으면서 모든 후회를 잊어버림)
+6. 감동
+&amp;#13; +
+&amp;#13; 7.허세 : 아이폰 아닌게 핸드폰이야?, 맥 아닌 게 컴퓨터야? (added by Minseon Kim, via Facebook)
+&amp;#13; 8.반전 : 아이패드 3 출시!</description>
+    </item>
+    
+    <item>
+      <title>소비자 관점의 애플제품 구매 프로세스의 특성.</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-25--/</link>
+      <pubDate>Fri, 25 Mar 2011 02:43:54 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-25--/</guid>
+      <description>1. 고민 : 이걸 살 필요가 있을까? 이 가격에?
+2. 결심 : (주로 새벽에) 에이 모르겠다 질러!
+3. 후회 : (배송 대기하는 동안) 아, 내가 미쳤었나봐
+4. 초조 : 근데 왜 이렇게 안오는거야... 오늘 올줄 알았는데
+5. 망각 : (제품 도착 후 박스를 뜯으면서 모든 후회를 잊어버림)
+6. 감동</description>
+    </item>
+    
+    <item>
+      <title>카카오톡의 힘을 절실히 체험하는 순간.</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-23--/</link>
+      <pubDate>Wed, 23 Mar 2011 06:13:10 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-23--/</guid>
+      <description>1. 나한테 처음 연락하는 사람이 문자나 전화가 아닌 카카오톡으로 연락을 주었다. 어느새 &#39;카톡 연락&#39;은 SMS만큼이나 공신력(?)있는 통신 수단이 되었나보다. (하지만 내 카톡은 멈춰있어서 이틀이 지난 후에나 확인했다)
+&amp;#13; 2. 음성통화는 원래 잘 안해서 남는데 항상 문자는 다 썼는데, 이번달 사용일 8일 남았는데 아직 반정도 남아있다. 이번달 SMS+MMS 비용이 2090원밖에 안된다.
+&amp;#13; 3. 음성통화 사용량은 겨우 21분 16초다. (이건 솔로라는 환경적 영향이 좀 있긴 하다)</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-link-post/</link>
+      <pubDate>Thu, 10 Mar 2011 16:48:32 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-link-post/</guid>
+      <description>http://www.engadget.com/2011/03/09/ipad-2-review/
+긴긴 리뷰. 결론은? 지금 열심히 타블렛 찍어내고 있는 제조사들, 니넨 디졌다.
+(여전히 높은 퀄리티. 언빌리버블한 가격. 가격을 보아하니 애플도 하드웨어에서 돈벌긴 포기한듯. 혹은, 엄청난 운영능력)</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-link-post-2/</link>
+      <pubDate>Thu, 10 Mar 2011 16:11:08 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-link-post-2/</guid>
+      <description>http://springpadit.com/
+쓰면 쓸 수록 참 기가막힌 &amp;lsquo;메모&amp;rsquo; 서비스.
+유연하면서도 아름다운 Web, 완성도 높은 Native app (iPhone/iPad/Android)
+외부의 정보를 끌어오는 것도, 나의 메모를 외부로 퍼블리싱하는것도 너무나 잘 이루어져있고,
+아무튼 기능이 엄청 많은데 엄청 잘 정리되어있고 주옥같은 기능들이 너무 많다.</description>
+    </item>
+    
+    <item>
+      <title>MS powerpoint는</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-ms-powerpoint/</link>
+      <pubDate>Thu, 10 Mar 2011 15:33:21 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-ms-powerpoint/</guid>
+      <description>여러모로 디테일이 떨어지는 것 같다.
+&amp;#13; 어쨌든 난 어느새 Anti-aliasing되지 않은 글자가 너무 보기 싫다.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-link-post-3/</link>
+      <pubDate>Thu, 10 Mar 2011 15:17:53 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-link-post-3/</guid>
+      <description>http://small-shops.tumblr.com/
+Small Shops는 홍대앞 서교동,동교동,상수동에 위치하는 작은 가게들의 지도입니다. 맛집, 카페, 패션샵에 비해 소규모로 운영되는 문화적인 가게들의 모음입니다. 제작 유어마인드 지도 드로잉 오리 문의 ym@your-mind.com 링크 your-mind / twitter</description>
+    </item>
+    
+  </channel>
+</rss>

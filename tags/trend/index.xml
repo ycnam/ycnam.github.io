@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trend on ycnam</title>
+    <link>https://ycnam.github.io/tags/trend/</link>
+    <description>Recent content in Trend on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 28 Nov 2011 16:08:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/trend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>세미나 : &#34;흥미로운 트렌드 이야기&#34; 정리</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-28--/</link>
+      <pubDate>Mon, 28 Nov 2011 16:08:07 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-28--/</guid>
+      <description>20111123, UXD센터 세미나 &amp;rdquo;흥미로운 트렌드 이야기&amp;rdquo; (By 김용섭 @날카로운 상상력 연구소)를 듣고 맘대로 해석하여 기록.
+&amp;#13; &amp;#13; 1. 경험의 함정
+만들던대로 만들다가 트렌드를 놓친다. 관성에 의해 만들다가는&amp;hellip; 예를 들어, 피쳐폰으로 먹고 살던 핸드폰 제조사들이 스마트폰 나왔을 때 맞은 역풍같은 것. 지금, 전기자동차를 봐도 보이는 것이, 전기자동차는 내연기관이 필요없어서 완전히 다른 모양으로 만들 수 있는데 기존 자동차 회사들은 전기자동차도 그 이전 자동차랑 똑같은 모양으로 만들고 있다.
+실제로 &amp;lsquo;전기자동차 만들기&amp;rsquo;는 자동차 회사보다 전자 회사에게 더 유리하다.</description>
+    </item>
+    
+    <item>
+      <title>싸이월드와 페이스북에 관한 소설 : 유학 컴플렉스와 해외 동경의 멘탈 모델</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-13--/</link>
+      <pubDate>Sun, 13 Nov 2011 16:43:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-13--/</guid>
+      <description>SNS흐름 변화에 대한 조심스러운 추측. 근거없는 소설을 써본다.
+&amp;#13; 세계 시장에서의 SNS는 볼 것 없고, 국내 SNS 시장만 봤을 때, 페이스북과 트위터 등 이른바 &#39;외산 SNS&#39;의 성장과 &#39;싸이월드&#39; 및 &#39;미니홈피&#39;의 하강 흐름이 분명하다. (물론 요즘 뉴스에서 나오는 것이나 트위터의 &#39;IT 구루(처럼 예언을 뿌리는)님&#39;들의 &#39;말씀&#39;에는 과장이 있다. 미니홈피는 생각보다 많이 쓰고 페이스북은 생각보다 적게 쓴다고 봄)
+&amp;#13; 이 흐름 변화의 이유로 &#39;업계&#39; 사람들이 내리는 &#39;분석&#39;은 뭐...
+&amp;#13; 일단 UX가 어쩌구 저쩌구, UI가 어쩌구 저쩌구, 확장성이 어쩌구 저쩌구, 미니홈피는 폐쇄적이고 어쩌구 저쩌구, 싸이월드는 유치하고 어쩌구 저쩌구, 주커버그가 어쩌구 저쩌구, F8이 어쩌구 저쩌구, 오픈 API가 어쩌구, SNG가 저쩌구, 소셜 그래프, 오픈 그래프, 혁신, 기업문화, 속도, 모바일 등등 많은데.</description>
+    </item>
+    
+  </channel>
+</rss>

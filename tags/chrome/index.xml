@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrome on ycnam</title>
+    <link>https://ycnam.github.io/tags/chrome/</link>
+    <description>Recent content in Chrome on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Fri, 09 Dec 2011 05:58:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-12/2011-12-09-link-post/</link>
+      <pubDate>Fri, 09 Dec 2011 05:58:28 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-12/2011-12-09-link-post/</guid>
+      <description>http://www.google.com/googlebooks/chrome/small_00.html
+구글 크롬에 대한 설명을
+스캇 맥클라우드가 만화로 그리다.
+comics adaptation이라는 표현이 너무 좋다. </description>
+    </item>
+    
+    <item>
+      <title>요즘은 어도비느님의 프로그램도 잘 안쓰고 일은 거의 회사컴으로 하니까 내 컴으로 하는</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-10--/</link>
+      <pubDate>Thu, 10 Nov 2011 08:39:58 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-10--/</guid>
+      <description>요즘은 어도비느님의 프로그램도 잘 안쓰고, 일은 거의 회사컴으로 하니까 내 컴으로 하는 일은 거의 이 화면에서 시작하고 끝난다. 구글 크롬 OS 컨셉 설명하던 영상이 떠오르네.
+http://www.youtube.com/watch?v=0QRO3gKj3qw</description>
+    </item>
+    
+  </channel>
+</rss>

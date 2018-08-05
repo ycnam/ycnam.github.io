@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bestpractice on ycnam</title>
+    <link>https://ycnam.github.io/tags/bestpractice/</link>
+    <description>Recent content in Bestpractice on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 21 Apr 2012 02:14:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/bestpractice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>사례 수집 오늘은 svpply의 센스 svpply는 2 3일에 한번씩 제품 추천</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-21--svpply-svpply-2-3-/</link>
+      <pubDate>Sat, 21 Apr 2012 02:14:46 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-21--svpply-svpply-2-3-/</guid>
+      <description>사례 수집.
+오늘은 SVPPLY의 센스.
+SVPPLY는 2~3일에 한번씩 제품 추천 메일을 보내준다.
+하루는 (드디어) iOS App이 나왔다는 소식을 알려왔다.
+(나는 안드로이드 유저라 그다지 기쁘진 않았지만)
+다음날 온 또 다른 메일에서는 더 이상 반복적으로 앱광고를 하진 않았다.
+다만, 추천 상품 리스트에 Svpply App을 슬쩍 끼워넣어놨다.
+예쁜 하나의 상품으로서.
+SVPPLY다운 홍보 방식인듯.</description>
+    </item>
+    
+    <item>
+      <title>사례 수집 google sign in ux 구글의 sign upin 디테일은 언제나</title>
+      <link>https://ycnam.github.io/2012-04/2012-04-20--google-sign-in-ux-sign-upin-/</link>
+      <pubDate>Fri, 20 Apr 2012 07:08:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-04/2012-04-20--google-sign-in-ux-sign-upin-/</guid>
+      <description>사례 수집
+Google Sign in UX
+구글의 Sign up/in 디테일은 언제나 귀감이 된다.
+얼마전 구글 계정 비번을 바꿨는데 무의식중에 &amp;lsquo;예전 비번&amp;rsquo;을 쳤다. 그러자 구글이 알려줬다. &amp;lsquo;너 XX일 전에 비번 바꿨었는데, 니가 바꾼거 아니니? 아니면 신고하고&amp;hellip;&amp;rsquo;
+아. 예전 비번을 넣어서 틀린거구나.</description>
+    </item>
+    
+  </channel>
+</rss>

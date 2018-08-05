@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vimeo on ycnam</title>
+    <link>https://ycnam.github.io/tags/vimeo/</link>
+    <description>Recent content in Vimeo on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 13 Mar 2012 16:19:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/vimeo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HQ in New York</title>
+      <link>https://ycnam.github.io/2012-03/2012-03-13-hq-in-new-york/</link>
+      <pubDate>Tue, 13 Mar 2012 16:19:36 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-03/2012-03-13-hq-in-new-york/</guid>
+      <description>어디선가 Tumblr와 Posterous를 비교하면서 뉴욕 기반의 기업과 실리콘밸리 기반의 기업의 차이에 대해서 쓴 글을 본 적이 있다. (Why Tumblr is kicking Posterous’s ass)
+&amp;#13; 과연, 뉴욕기반 회사는 뭔가 닮은 구석이 있는거 같다는 생각이 문득 든다. (Vimeo의 Footer를 보다가 든 생각임)
+&amp;#13; Tumblr와 Vimeo는 모두 본사가 뉴욕에 있다.</description>
+    </item>
+    
+    <item>
+      <title>tiny story 오랜만에 짧고 간결하고 간지나고 멋진 영상이네</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-17-tiny-story-/</link>
+      <pubDate>Fri, 17 Feb 2012 05:14:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-17-tiny-story-/</guid>
+      <description>Tiny Story
+오랜만에 짧고 간결하고 간지나고 멋진 영상이네</description>
+    </item>
+    
+    <item>
+      <title>vimeo가 서버 점검을 알리는 방식 vimeo의 log in 페이지는 원래</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-17-vimeo-vimeo-log-in-/</link>
+      <pubDate>Thu, 17 Nov 2011 16:45:31 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-17-vimeo-vimeo-log-in-/</guid>
+      <description>Vimeo가 서버 점검을 알리는 방식.
+Vimeo의 Log in 페이지는 원래 좋아했지만, 서버 점검을 알리는 모습까지 이렇게 엘레강스할수가. 팝업도 없고. 화면을 가득 채우는 위협적인 문구도 없고&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

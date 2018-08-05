@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on ycnam</title>
+    <link>https://ycnam.github.io/tags/books/</link>
+    <description>Recent content in Books on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 10 Mar 2014 15:19:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UX책 좀 추천해줘</title>
+      <link>https://ycnam.github.io/2014-03/2014-03-10-ux-/</link>
+      <pubDate>Mon, 10 Mar 2014 15:19:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2014-03/2014-03-10-ux-/</guid>
+      <description>참 미천한 경력이지만, &#39;UX&#39;라는 단어가 들어간 팀에서 일하다보니 종종 &#39;UX책 좀 추천해줘&#39;라는 부탁을 받는다. 듣자마자 머리가 좀 깜깜해지는 부탁이다.
+일단 나도 UX가 당췌 뭔지 별로 확신이 없는 것이 첫 번째 문제. 더 큰 문제는, UX라는 말이 붙은 (혹은 연관된) 책들 중 상당수가 대책없이 지루하다는 것이다.
+그래서 저런 질문을 받으면 난 반사적으로 이런 저런 질문을 던진다.
+&#34;왜요?&#34;
+리스트를 팍 던지면 대여섯권 한 번에 산 후, 가장 제너럴한 제목을 가진 책을 100페이지 이하 읽고 나머지 읽기도 포기할 것 같아서이다.</description>
+    </item>
+    
+    <item>
+      <title>Quote post</title>
+      <link>https://ycnam.github.io/2013-11/2013-11-07-quote-post/</link>
+      <pubDate>Thu, 07 Nov 2013 03:47:34 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-11/2013-11-07-quote-post/</guid>
+      <description>from 벨로시티 Velocity (p.133)
+Getting Real류의 소프트웨어 개발 방법론(또는 철학?)에서는 소위 &#39;기능 추가&#39;를 거의 &#39;죄악&#39;시 한다. 그것은 출시 일정을 늦추고 비용을 증가시키고 소프트웨어를 더 쓰기 어렵게 한다.
+아마 많은 사람들이 저 의견에 동의할 것이다.
+하지만 위 논지는 악용될 우려가 있다. 뭔가를 &#39;추가&#39;하는 것은 &#39;무조건 나쁘다&#39;는 주장을 펴며 &#39;아무것도 하지 않을 것&#39;을 주장하거나 &#39;우리의 제품은 극도로 심플하며, 경쟁 제품은 우리의 것에 비해 무척이나 복잡하고 구차하다&#39;며 승리를 자신하는 것이다.
+물론 위와 같은 제품이 승리한 사례는 없다.</description>
+    </item>
+    
+    <item>
+      <title>2012년의 책</title>
+      <link>https://ycnam.github.io/2012-12/2012-12-31-2012-/</link>
+      <pubDate>Mon, 31 Dec 2012 11:02:41 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-12/2012-12-31-2012-/</guid>
+      <description>오늘 회사 송년 워크샵 전, 팀장님이 내주신 발표 과제 중 하나는 이것이었다.
+&amp;#13; &amp;#13; 2012 최고의 책 : 기억에 강하게 남는, 내 머릿속을 휘저은, 남들이 안봤으면 하는 책 소개해주기. 내가 배운 것 나누기. 추천하고픈 구절 세 개 낭독하기.
+&amp;#13; &amp;#13; 올해 읽은 책들을 하나하나 돌아보면서 나름 선정해보았다. 책을 그-리 많이 보는 것도 아니고 (책 읽는 속도도 너무 느려서라는 구차한 핑계...), 앞부분만 읽고 한없이 미루는 경우도 많긴 하지만, 돌아보니 참 재밌는 책이 많았구나라는 생각이 들었다.</description>
+    </item>
+    
+  </channel>
+</rss>

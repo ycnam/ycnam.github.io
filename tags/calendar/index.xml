@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calendar on ycnam</title>
+    <link>https://ycnam.github.io/tags/calendar/</link>
+    <description>Recent content in Calendar on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 03 Jul 2011 13:32:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/calendar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>history 20110703 renewal google calendar</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-03-history-20110703-renewal-google-calendar/</link>
+      <pubDate>Sun, 03 Jul 2011 13:32:55 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-03-history-20110703-renewal-google-calendar/</guid>
+      <description>History 20110703
+Renewal : Google Calendar</description>
+    </item>
+    
+  </channel>
+</rss>

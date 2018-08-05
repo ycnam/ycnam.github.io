@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Form Design on ycnam</title>
+    <link>https://ycnam.github.io/tags/form-design/</link>
+    <description>Recent content in Form Design on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 09 Nov 2011 16:38:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/form-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>amazoncom의 sign in 페이지 구성이 은근 독특하다 뭔가 대화형</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-09-amazoncom-sign-in-/</link>
+      <pubDate>Wed, 09 Nov 2011 16:38:04 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-09-amazoncom-sign-in-/</guid>
+      <description>Amazon.com의 Sign in 페이지 구성이 은근 독특하다?
+뭔가 &amp;lsquo;대화형&amp;rsquo; 레이블링을 지향하면서, 읽는 흐름을 만들어주고
+은근슬쩍 가입유도&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Quote post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-16-quote-post/</link>
+      <pubDate>Wed, 16 Mar 2011 01:07:22 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-16-quote-post/</guid>
+      <description>웹 폼 디자인 - 루크 로블르스키 지음 / 인사이트 - p.98
+ 빨간 글자는 오류를 위해서만 쓰는 것이 좋다.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

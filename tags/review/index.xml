@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review on ycnam</title>
+    <link>https://ycnam.github.io/tags/review/</link>
+    <description>Recent content in Review on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 20 Mar 2011 10:46:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No Like - iPad2</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-20-no-like---ipad2/</link>
+      <pubDate>Sun, 20 Mar 2011 10:46:05 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-20-no-like---ipad2/</guid>
+      <description>Basically everything that was bad about the iPad—still is. It seems terribly silly and antediluvian that the iPad, this beacon of the post-PC world, is still so tightly tethered to the PC. Syncing it to your computer is still the very first thing you must do after ripping an iPad out of the box. Not very magical! For all of its other un-humanlike qualities, Android at least has this right where the iPad does not.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-link-post/</link>
+      <pubDate>Thu, 10 Mar 2011 16:48:32 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-link-post/</guid>
+      <description>http://www.engadget.com/2011/03/09/ipad-2-review/
+긴긴 리뷰. 결론은? 지금 열심히 타블렛 찍어내고 있는 제조사들, 니넨 디졌다.
+(여전히 높은 퀄리티. 언빌리버블한 가격. 가격을 보아하니 애플도 하드웨어에서 돈벌긴 포기한듯. 혹은, 엄청난 운영능력)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Hit List on ycnam</title>
+    <link>https://ycnam.github.io/tags/the-hit-list/</link>
+    <description>Recent content in The Hit List on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 11 Jul 2011 03:14:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/the-hit-list/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gtd getting things done system 최근 일정관리 서비스는</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-11-gtd-getting-things-done-system-/</link>
+      <pubDate>Mon, 11 Jul 2011 03:14:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-11-gtd-getting-things-done-system-/</guid>
+      <description>GTD (Getting Things Done) System.
+최근 일정관리 서비스는 이것을 기반으로 만들어진 것이 많다고 한다.
+대표적 서비스인 Things (by Culturecode)는 가장 간단하게 사용 가능하다 하고,
+The Hit List (by Potion Factory)는 GTD구조를 좀 더 충실히 구현하고있으나 초기 사용난이도가 다소 높은편이라함.
+OmniFocus (by The Omni Group)는 Sync도 강력하고 GTD도 충실히 구현하고 있으나 (지인의 말에 의하면) 좀 &amp;lsquo;안예쁘다&amp;rsquo;는 반응.
+최악의 단점은 셋 다 iOS만 지원한다는 것. 그런데 나는 Android유저라는 것.
+어쨌든, 요러한 일정관리 프로세스를 알기도 전에 나는 이미 대략 이런식으로 일들을 관리했다는걸 깨달았다.</description>
+    </item>
+    
+  </channel>
+</rss>

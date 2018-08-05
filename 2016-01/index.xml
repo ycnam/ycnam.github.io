@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016-01s on ycnam</title>
+    <link>https://ycnam.github.io/2016-01/</link>
+    <description>Recent content in 2016-01s on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 26 Jan 2016 23:52:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/2016-01/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>소위 &#39;UX 디자이너&#39;가 되기 위해 인정해야만 했던 세상의 순리</title>
+      <link>https://ycnam.github.io/2016-01/2016-01-26--ux-/</link>
+      <pubDate>Tue, 26 Jan 2016 23:52:47 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2016-01/2016-01-26--ux-/</guid>
+      <description>1. 문제 해결을 위한 ‘최적의 안’이 아니라 문제를 해결하는 ‘가장 작은 변화’가 채택된다.
+- 사람들은 변화를 끔찍이도 귀찮아한다.
+2. 그러나 사실, 대부분의 경우 문제를 그냥 안고 살아가는 편을 택한다.
+- 변화가 너무나도 싫기 때문이다.
+3. ‘논리적으로 명쾌하게 정리하기’ 보다는 ‘제일 자주 하는 것’ 하나를 위해 나머지를 모두 엉망으로 만드는 편이 낫다.
+- 대표적인 사례 : 당신의 책상 위
+- 명쾌한 정리를 더 선호하는 소수의 예외적인 사람들도 있다.
+- 유감스럽게도 ‘디자인’을 하는 사람들 중 ‘예외적인’ 사람들이 많다.</description>
+    </item>
+    
+  </channel>
+</rss>

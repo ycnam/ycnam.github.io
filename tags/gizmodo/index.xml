@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gizmodo on ycnam</title>
+    <link>https://ycnam.github.io/tags/gizmodo/</link>
+    <description>Recent content in Gizmodo on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 20 Mar 2011 10:46:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/gizmodo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No Like - iPad2</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-20-no-like---ipad2/</link>
+      <pubDate>Sun, 20 Mar 2011 10:46:05 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-20-no-like---ipad2/</guid>
+      <description>Basically everything that was bad about the iPad—still is. It seems terribly silly and antediluvian that the iPad, this beacon of the post-PC world, is still so tightly tethered to the PC. Syncing it to your computer is still the very first thing you must do after ripping an iPad out of the box. Not very magical! For all of its other un-humanlike qualities, Android at least has this right where the iPad does not.</description>
+    </item>
+    
+  </channel>
+</rss>

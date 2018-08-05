@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Scenario on ycnam</title>
+    <link>https://ycnam.github.io/tags/user-scenario/</link>
+    <description>Recent content in User Scenario on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 13 Oct 2011 03:04:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/user-scenario/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Siri 예상 시나리오 (1)</title>
+      <link>https://ycnam.github.io/2011-10/2011-10-13-siri-1/</link>
+      <pubDate>Thu, 13 Oct 2011 03:04:17 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-10/2011-10-13-siri-1/</guid>
+      <description>#1. 내 방 / 밤
+&amp;#13; 나 : 내일 아침 일찍 나가야되니까 아침 7시에 꼭 깨워줘. 나 일어날 때 까지 깨워줘야돼 꼭!
+Siri : 아침 7시 알람 설정합니다.
+&amp;#13; &amp;#13; #2. 내 방 / 아침 7시
+&amp;#13; Siri : *따르르르르릉*
+나 : (미동도 안 함) &amp;#13; &amp;#13; #3. 내 방 / 아침 8시
+&amp;#13; 나 : 아, 나 왜 안깨웠어 이 개객기
+&amp;#13; &amp;#13; 이로써 아이폰은 엄마폰이 된다.</description>
+    </item>
+    
+  </channel>
+</rss>

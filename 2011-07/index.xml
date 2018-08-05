@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011-07s on ycnam</title>
+    <link>https://ycnam.github.io/2011-07/</link>
+    <description>Recent content in 2011-07s on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 27 Jul 2011 16:29:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/2011-07/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-27-link-post/</link>
+      <pubDate>Wed, 27 Jul 2011 16:29:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-27-link-post/</guid>
+      <description>http://How to Implement GTD in Springpad
+SpringPad로 GTD 구현하기.
+대체적인 반응은 &amp;lsquo;아무래도 스프링패드는 GTD 구현에 그닥 잘 맞지는 않는다&amp;rsquo;이지만 어쨌든. 솔직히 내 생각에도 스프링패드는 일정관리하기에는 너무 헤비하다. 오히려 메모나 아카이빙에 더 유용한 듯.</description>
+    </item>
+    
+    <item>
+      <title>itunes의 itunes store 가입 폼 미려한 디자인과 세세한 안내문구가</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-20-itunes-itunes-store-/</link>
+      <pubDate>Wed, 20 Jul 2011 16:46:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-20-itunes-itunes-store-/</guid>
+      <description>iTunes의 iTunes Store 가입 폼.
+미려한 디자인과 세세한 안내문구가 인상적이다.
+아이디 입력시 주의사항의 경우는 너무 글씨가 작고 흐린게 문제이긴 함.
+우측에 에러메세지를 모아서 보여주는 것도 괜찮음.
+(이 폼을 완료하기 전에 이 모든 것을 해결해야할 것의 묶음)
+역시 Apple이다.. 잘만들었다.. 하며 완료를 눌렀을 때,
+&amp;lsquo;지금은 안되니까 나중에 다시해&amp;rsquo;
+라는 황당하고도 불친절한 에러메시지 때문에 다 망했다, 이놈들아 </description>
+    </item>
+    
+    <item>
+      <title>Laboratory List</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-14-laboratory-list/</link>
+      <pubDate>Thu, 14 Jul 2011 09:39:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-14-laboratory-list/</guid>
+      <description>http://www.digieco.co.kr kt경제연구소
+&amp;#13; http://www.kisdi.re.kr 정보통신정책연구원
+&amp;#13; http://www.lgeri.com LG경제연구원
+&amp;#13; http://seri.org 삼성경제연구소</description>
+    </item>
+    
+    <item>
+      <title>Android용 web app 제작 시 추가할 meta tag</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-13-android-web-app-meta-tag/</link>
+      <pubDate>Wed, 13 Jul 2011 14:03:31 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-13-android-web-app-meta-tag/</guid>
+      <description>보통 모바일 웹페이지를 만들 때 다음과 같은 메타 태그를 추가하여
+줌인/아웃을 막고, 모바일 스크린 사이즈에 맞게 사이트가 뜨게끔 한다.
+&amp;#13; &amp;lt;metaname=&amp;ldquo;viewport&amp;rdquo;content=&amp;ldquo;width=device-width, height=device-height, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0&amp;rdquo;/&amp;gt; &amp;#13; 하지만, 안드로이드용 web app 페이지를 만들 때 위의 메타 태그만으로는 사이즈가 맞지 않는다. 보통은 원래 보여야 할 사이즈보다 크게 나오게 된다.
+&amp;#13; 이를 해결하기 위해 content에 &amp;ldquo;target-densityDpi&amp;ldquo;속성을 추가로 지정해줘야 한다.
+안드로이드 화면 해상도가 버전별로 다르고 디바이스마다 다르게 되면서 1.6이후 새로 추가된 속성이라고 한다. 이를 &amp;ldquo;device-dpi&amp;rdquo;로 지정해주면 좌우가 딱 맞게 사이트가 뜨게 된다.</description>
+    </item>
+    
+    <item>
+      <title>네이버 다음 네이트 야후 구글 어도비 olleh app 아이콘</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-12--olleh-app-/</link>
+      <pubDate>Tue, 12 Jul 2011 00:57:44 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-12--olleh-app-/</guid>
+      <description>네이버 - 다음 - 네이트 - 야후 - 구글 - 어도비 - Olleh
+App 아이콘 비교
+출처 : http://wegeeked.com/archive/7/2011</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-11-link-post/</link>
+      <pubDate>Mon, 11 Jul 2011 10:29:30 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-11-link-post/</guid>
+      <description>http://www.technobuffalo.com/internet/social-networking/facebook/the-life-of-a-facebook-photo-infographic/
+by Pixable (a social photo startup)</description>
+    </item>
+    
+    <item>
+      <title>gtd getting things done system 최근 일정관리 서비스는</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-11-gtd-getting-things-done-system-/</link>
+      <pubDate>Mon, 11 Jul 2011 03:14:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-11-gtd-getting-things-done-system-/</guid>
+      <description>GTD (Getting Things Done) System.
+최근 일정관리 서비스는 이것을 기반으로 만들어진 것이 많다고 한다.
+대표적 서비스인 Things (by Culturecode)는 가장 간단하게 사용 가능하다 하고,
+The Hit List (by Potion Factory)는 GTD구조를 좀 더 충실히 구현하고있으나 초기 사용난이도가 다소 높은편이라함.
+OmniFocus (by The Omni Group)는 Sync도 강력하고 GTD도 충실히 구현하고 있으나 (지인의 말에 의하면) 좀 &amp;lsquo;안예쁘다&amp;rsquo;는 반응.
+최악의 단점은 셋 다 iOS만 지원한다는 것. 그런데 나는 Android유저라는 것.
+어쨌든, 요러한 일정관리 프로세스를 알기도 전에 나는 이미 대략 이런식으로 일들을 관리했다는걸 깨달았다.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-04-link-post/</link>
+      <pubDate>Mon, 04 Jul 2011 02:03:54 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-04-link-post/</guid>
+      <description>http://www.20thingsilearned.com/en-US/home</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-04-link-post-2/</link>
+      <pubDate>Mon, 04 Jul 2011 01:13:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-04-link-post-2/</guid>
+      <description>http://www.huffingtonpost.com/2011/06/24/most-visited-sites-2011_n_883756.html#s297621&amp;amp;title=1__Facebookcom
+몇몇 사이트들은 의외라는 느낌.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-03-link-post/</link>
+      <pubDate>Sun, 03 Jul 2011 14:03:59 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-03-link-post/</guid>
+      <description>http://techland.time.com/2011/06/30/tumblr-gets-much-much-prettier-for-ipad-and-iphone/
+한층 아름다워진 Tumblr 2.0 for iPhone(app) / iPad(web)</description>
+    </item>
+    
+    <item>
+      <title>history 20110703 renewal google calendar</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-03-history-20110703-renewal-google-calendar/</link>
+      <pubDate>Sun, 03 Jul 2011 13:32:55 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-03-history-20110703-renewal-google-calendar/</guid>
+      <description>History 20110703
+Renewal : Google Calendar</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on ycnam</title>
+    <link>https://ycnam.github.io/tags/service/</link>
+    <description>Recent content in Service on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 15 Nov 2011 11:50:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>웹월드 컨퍼런스 2011와 2006 주제 비교 (서비스/전략 부문)</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-15--2011-2006-/</link>
+      <pubDate>Tue, 15 Nov 2011 11:50:45 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-15--2011-2006-/</guid>
+      <description>웹월드 컨퍼런스 2011 &amp;lsquo;서비스 전략&amp;rsquo;을 주제로 한 첫 날.
+&amp;#13; 10시부터 6시까지, 8개의 세션을 같은 자리에 앉아 쭉 듣는 것이
+얼마나 힘든지 다시 한번 느낀 날&amp;hellip;
+&amp;#13; -커머스
+-소셜
+-미디어
+-스마트폰
+-스마트패드
+-스마트TV
+-신기술
+&amp;#13; 의 관점에서 2011년의 동향과 2012년 예측을 하는 자리였다.
+&amp;#13; 어떤 세션은 상당히 좋았고, (특히 커머스 세션. 지금 e-commerce를 둘러싼 현황을 말끔하게 정리하고 그것으로 자신들의 새로운 서비스를 어떻게 만들어냈는지에 대한 멋진 사례로 마무리) 어떤 세션은 정말 심하게 무성의했다.</description>
+    </item>
+    
+    <item>
+      <title>Tumblr의 Primary Blog와 Additional Blog 개념은 상당히 혼동스럽다. </title>
+      <link>https://ycnam.github.io/2011-03/2011-03-13-tumblr-primary-blog-additional-blog-/</link>
+      <pubDate>Sun, 13 Mar 2011 03:03:48 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-13-tumblr-primary-blog-additional-blog-/</guid>
+      <description>Primary Blog는 Tumblr 계정을 처음 만들 때 만들어지는 블로그이다. Additional Blog는 그 이후 추가하는 블로그다.
+&amp;#13; 기본적인 시스템은 똑같은데, Primary Blog는 Social Feature들 (Follow, Like, Reply, Ask, and Submit)을 다 사용할 수 있는 대신, 멀티유저(그룹식으로)나 패스워드 보호를 사용할 수 없다. Additional Blog는 그 반대.
+&amp;#13; 제일 중요한 점은, 추후 Primary Blog와 Additional Blog를 바꿀 수 없다는 것. 그리고 난 그걸 너무 늦게 알아버려서.. (아무도 알려주지 않았다) Additional로 만들어야할 성격의 블로그를 Primary로 만들어버리는 바람에 그냥 계정을 새로 만들었다.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-link-post-2/</link>
+      <pubDate>Thu, 10 Mar 2011 16:11:08 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-link-post-2/</guid>
+      <description>http://springpadit.com/
+쓰면 쓸 수록 참 기가막힌 &amp;lsquo;메모&amp;rsquo; 서비스.
+유연하면서도 아름다운 Web, 완성도 높은 Native app (iPhone/iPad/Android)
+외부의 정보를 끌어오는 것도, 나의 메모를 외부로 퍼블리싱하는것도 너무나 잘 이루어져있고,
+아무튼 기능이 엄청 많은데 엄청 잘 정리되어있고 주옥같은 기능들이 너무 많다.</description>
+    </item>
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-10-link-post-3/</link>
+      <pubDate>Thu, 10 Mar 2011 15:17:53 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-10-link-post-3/</guid>
+      <description>http://small-shops.tumblr.com/
+Small Shops는 홍대앞 서교동,동교동,상수동에 위치하는 작은 가게들의 지도입니다. 맛집, 카페, 패션샵에 비해 소규모로 운영되는 문화적인 가게들의 모음입니다. 제작 유어마인드 지도 드로잉 오리 문의 ym@your-mind.com 링크 your-mind / twitter</description>
+    </item>
+    
+  </channel>
+</rss>

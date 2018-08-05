@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info Graphic on ycnam</title>
+    <link>https://ycnam.github.io/tags/info-graphic/</link>
+    <description>Recent content in Info Graphic on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 11 Jul 2011 10:29:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/info-graphic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-11-link-post/</link>
+      <pubDate>Mon, 11 Jul 2011 10:29:30 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-11-link-post/</guid>
+      <description>http://www.technobuffalo.com/internet/social-networking/facebook/the-life-of-a-facebook-photo-infographic/
+by Pixable (a social photo startup)</description>
+    </item>
+    
+  </channel>
+</rss>

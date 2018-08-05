@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sync on ycnam</title>
+    <link>https://ycnam.github.io/tags/sync/</link>
+    <description>Recent content in Sync on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 14 Jun 2011 05:32:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/sync/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ycnam.github.io/2011-06/2011-06-14-/</link>
+      <pubDate>Tue, 14 Jun 2011 05:32:15 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-06/2011-06-14-/</guid>
+      <description>Only 50% iPhones Have Been Synced At Least Once [Factoid] - http://pulse.me/s/b98z</description>
+    </item>
+    
+  </channel>
+</rss>

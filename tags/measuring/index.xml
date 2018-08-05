@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Measuring on ycnam</title>
+    <link>https://ycnam.github.io/tags/measuring/</link>
+    <description>Recent content in Measuring on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 30 Mar 2011 08:05:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/measuring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quote post</title>
+      <link>https://ycnam.github.io/2011-03/2011-03-30-quote-post/</link>
+      <pubDate>Wed, 30 Mar 2011 08:05:15 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-03/2011-03-30-quote-post/</guid>
+      <description>사용자 경험 측정 (Measuring User Experience) / Tom Tullis, Bill Alvert / p19
+ &amp;lsquo;온라인 체크아웃 프로세스에서의 문제점이 자주 지적된다&amp;rsquo;라고 말하는 것과 &amp;lsquo;온라인 사용자들의 52퍼센트가 제품을 찾았지만 구입 과정이 성공적으로 이루어지지 않았다&amp;rsquo;라고 말하는 것은 완전히 다른 영향을 미친다.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

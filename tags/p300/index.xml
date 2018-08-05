@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P300 on ycnam</title>
+    <link>https://ycnam.github.io/tags/p300/</link>
+    <description>Recent content in P300 on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 16 Jan 2012 17:03:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/p300/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>p300 bci speller using brain waves to spell words</title>
+      <link>https://ycnam.github.io/2012-01/2012-01-16-p300-bci-speller-using-brain-waves-to-spell-words/</link>
+      <pubDate>Mon, 16 Jan 2012 17:03:10 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-01/2012-01-16-p300-bci-speller-using-brain-waves-to-spell-words/</guid>
+      <description>P300 BCI speller using brain waves to spell words
+학회 듣다가 찾아보게 되었는데 이것 참 재미있었음.
+이 정도 까지 되는구나?</description>
+    </item>
+    
+  </channel>
+</rss>

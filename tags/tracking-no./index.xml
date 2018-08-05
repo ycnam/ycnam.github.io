@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracking No. on ycnam</title>
+    <link>https://ycnam.github.io/tags/tracking-no./</link>
+    <description>Recent content in Tracking No. on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 10 Nov 2011 08:16:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/tracking-no./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mac의 mail 어플리케이션의 미친 꼼꼼함에 대하여 fedex에서 온 발송 추적 번호</title>
+      <link>https://ycnam.github.io/2011-11/2011-11-10-mac-mail-fedex-/</link>
+      <pubDate>Thu, 10 Nov 2011 08:16:16 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-11/2011-11-10-mac-mail-fedex-/</guid>
+      <description>Mac의 Mail 어플리케이션의 미친 꼼꼼함에 대하여.
+Fedex에서 온 발송 추적 번호 메일을 Mac의 Mail을 통해서 읽고 있던 중,
+트래킹 넘버 위에 커서를 올리고 클릭하니 &amp;lsquo;발송 추적&amp;rsquo;이라는게 있었다.
+누르니까 바로 발송 추적 페이지가 나옴&amp;hellip;
+하&amp;hellip; 할말 잃음. </description>
+    </item>
+    
+  </channel>
+</rss>

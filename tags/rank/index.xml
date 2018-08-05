@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rank on ycnam</title>
+    <link>https://ycnam.github.io/tags/rank/</link>
+    <description>Recent content in Rank on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 04 Jul 2011 01:13:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/rank/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link post</title>
+      <link>https://ycnam.github.io/2011-07/2011-07-04-link-post-2/</link>
+      <pubDate>Mon, 04 Jul 2011 01:13:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-07/2011-07-04-link-post-2/</guid>
+      <description>http://www.huffingtonpost.com/2011/06/24/most-visited-sites-2011_n_883756.html#s297621&amp;amp;title=1__Facebookcom
+몇몇 사이트들은 의외라는 느낌.</description>
+    </item>
+    
+  </channel>
+</rss>

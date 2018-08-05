@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on ycnam</title>
+    <link>https://ycnam.github.io/tags/test/</link>
+    <description>Recent content in Test on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 04 Apr 2013 15:27:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>사용성 테스트의 비유, 현재까지의 경험 정리</title>
+      <link>https://ycnam.github.io/2013-04/2013-04-04--/</link>
+      <pubDate>Thu, 04 Apr 2013 15:27:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2013-04/2013-04-04--/</guid>
+      <description>직접 설계한 서비스를 가지고 직접 사용성 테스트를 수행해보는 기분은, 눈을 가리고 목적지까지 걸어가다가 잠깐 가리개를 들어서 앞을 보는 찬스를 얻은 것과 비슷하다.
+눈을 감고 앞으로 걸어가면, 한 걸음 한 걸음마다 두려움이 몰려온다. 바로 앞에 장애물이 있진 않은지, 이 방향이 맞긴 한건지. 실제로 눈을 가리고 걸어가면 바로 발 아래있는 맨홀에 빠질 수도 있고, 완전 엉뚱한 방향으로 걸어갈 수도 있다.
+그래서 사용성 테스트는 왠만하면 해보는게 좋다고 본다. 전혀 안하면, 아무나 잡고 한 번만 물어봐도 알 수 있을 정도로 치명적인 실수도 전혀 대응하지 못하고 걸어가게 될 수도 있다.</description>
+    </item>
+    
+    <item>
+      <title>apple message 테스트 대화내용이 다소 애플 널디하지만 참 잘만들었소</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-16-apple-message-/</link>
+      <pubDate>Thu, 16 Feb 2012 16:35:40 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-16-apple-message-/</guid>
+      <description>Apple Message 테스트.
+대화내용이 다소 애플 널디하지만&amp;hellip;
+참 잘만들었소 애플양반. </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kth on ycnam</title>
+    <link>https://ycnam.github.io/tags/kth/</link>
+    <description>Recent content in Kth on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 18 Feb 2012 14:57:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/kth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#39;푸딩.투&#39; 런칭에 대한 가상 인터뷰</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-18--/</link>
+      <pubDate>Sat, 18 Feb 2012 14:57:00 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-18--/</guid>
+      <description>&amp;#13; Q1. 이번 주 초, KTH에서 푸딩.투 출시
+A: &#39;푸딩 시리즈&#39; 세 번째 앱이자 서비스다.
+&amp;#13; Q2. 응? 세 번째? 그럼 앞에 두 개는 뭐임?
+A: 첫 번째는 푸딩 카메라
+두 번째는 얼굴인식
+&amp;#13; Q3. 아 그럼 푸딩.투는 &#39;푸딩 카메라 2.0&#39;이구만!
+A: 아님. Pudding 2가 아니라 Pudding.To임
+푸딩 카메라는 카메라 앱이고
+푸딩.투는 사진 기반 SNS임. 인스타그램같은거
+(사실 인스타그램과 심하게 비슷하고, 안드로이드에 인스타그램 안나온 틈을 노린 것이라고 말 못함)
+&amp;#13; Q4. 그럼 푸딩 카메라랑 푸딩.</description>
+    </item>
+    
+  </channel>
+</rss>

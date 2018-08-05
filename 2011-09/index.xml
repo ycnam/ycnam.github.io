@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011-09s on ycnam</title>
+    <link>https://ycnam.github.io/2011-09/</link>
+    <description>Recent content in 2011-09s on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 21 Sep 2011 07:39:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/2011-09/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>adoption retention of facebook 신규 런칭이나 업데이트 후</title>
+      <link>https://ycnam.github.io/2011-09/2011-09-21-adoption-retention-of-facebook-/</link>
+      <pubDate>Wed, 21 Sep 2011 07:39:15 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-09/2011-09-21-adoption-retention-of-facebook-/</guid>
+      <description>&amp;lsquo;Adoption &amp;amp; Retention&amp;rsquo; of Facebook
+신규 런칭이나 업데이트 후 사용자에게 추가되거나 바뀐 부분을 안내하고, 그것에 대한 반응을 정성적, 정량적으로 수집하여 빠르게 &amp;lsquo;대꾸&amp;rsquo;해주는 것이 좋다.
+이번에 페이스북에서도 &amp;lsquo;주커버그가 직접 관리한다&amp;rsquo;는 뉴스피드 업데이트가 있었기에 이들의 준비태세(?)를 봤는데&amp;hellip;
+일단 안내는 상당히 대대적으로 했고, 오버레이를 적절히 썼으며, Learn More를 통해서 헬프센터로 이동시키고 헬프 센터의 각 설명에는 &amp;lsquo;이 질문이 도움이 되었냐&amp;rsquo;는 질문을 던지는 란을 마련해놓았다. 그리고 블로그에도 이에 대한 설명 포스팅이 되어있고, 그 포스팅 아래 정성적 반응이라고 할 수 있는 &amp;lsquo;리플&amp;rsquo;들이 쌓인다.</description>
+    </item>
+    
+    <item>
+      <title>20110921 facebook news feed updated top news와</title>
+      <link>https://ycnam.github.io/2011-09/2011-09-21-20110921-facebook-news-feed-updated-top-news/</link>
+      <pubDate>Wed, 21 Sep 2011 07:27:22 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-09/2011-09-21-20110921-facebook-news-feed-updated-top-news/</guid>
+      <description>20110921.
+Facebook News Feed Updated.
+Top News와 Most Recent를 합침.
+https://blog.facebook.com/blog.php?post=10150286921207131https://www.facebook.com/help?page=189712557768134 </description>
+    </item>
+    
+    <item>
+      <title>facebook 새 기능 추가 smart list 그너무 스마트 페북 계속</title>
+      <link>https://ycnam.github.io/2011-09/2011-09-16-facebook-smart-list-/</link>
+      <pubDate>Fri, 16 Sep 2011 11:28:15 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2011-09/2011-09-16-facebook-smart-list-/</guid>
+      <description>Facebook 새 기능 추가 : Smart List
+그너무 스마트.. 페북 계속 달리네.</description>
+    </item>
+    
+  </channel>
+</rss>

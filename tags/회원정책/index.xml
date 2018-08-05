@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>회원정책 on ycnam</title>
+    <link>https://ycnam.github.io/tags/%ED%9A%8C%EC%9B%90%EC%A0%95%EC%B1%85/</link>
+    <description>Recent content in 회원정책 on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 10 Nov 2012 16:17:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/%ED%9A%8C%EC%9B%90%EC%A0%95%EC%B1%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>회원 정책에 대한 상상</title>
+      <link>https://ycnam.github.io/2012-11/2012-11-10--/</link>
+      <pubDate>Sat, 10 Nov 2012 16:17:49 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-11/2012-11-10--/</guid>
+      <description>어떤 회원 정책에 대해 상상해보았다.
+사용자 입장에서는 가입하기 쉽고, 개인정보 유출에 대한 부담이 없는, 서비스 제공자 입장에서는 관리 부담이 작고 유연하게 관리할 수 있는 정책.
+&amp;#13; 가장 주요한 목표는 개인정보를 받지 않는 것이다.&amp;#13; 아이디와 패스워드만 받는다.&amp;#13; 주민등록번호는 물론이고 이름, 주소, 전화번호, 이메일 등 민감한 정보는 수집하지 않는다.&amp;#13; 개인정보를 전혀 수집하지 않기 때문에 개인을 식별할 수 있는 유일한 수단은 아이디와 패스워드 뿐이다.&amp;#13; 따라서 아이디 찾기와 패스워드 찾기는 제공하지 않는다.&amp;#13; 이 계정이 매우 중요하다면, 어딘가 꼭 아이디와 패스워드를 적어놓을 것을 요구한다.</description>
+    </item>
+    
+  </channel>
+</rss>

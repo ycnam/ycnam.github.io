@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Currents on ycnam</title>
+    <link>https://ycnam.github.io/tags/currents/</link>
+    <description>Recent content in Currents on ycnam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 13 Feb 2012 14:49:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://ycnam.github.io/tags/currents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>google currents 이건 이른바 큐레이션서비스인가 아니면 뉴스잡지</title>
+      <link>https://ycnam.github.io/2012-02/2012-02-13-google-currents-/</link>
+      <pubDate>Mon, 13 Feb 2012 14:49:17 +0000</pubDate>
+      
+      <guid>https://ycnam.github.io/2012-02/2012-02-13-google-currents-/</guid>
+      <description>Google Currents? 이건 이른바 &amp;lsquo;큐레이션&amp;rsquo;서비스인가 아니면 &amp;lsquo;뉴스/잡지 리더&amp;rsquo;인가. 큐레이션 아닌듯하고 리더에 가까운거 같은데&amp;hellip; 일단 써봐야겠지만, 일단 서비스 이름 앞에 &amp;lsquo;구글&amp;rsquo;이 붙으면 남자들만 좋아하는 징크스가 있지 않은가하는 생각이 좀 든다. (징크스라기보다는 브랜딩이긴 하지)</description>
+    </item>
+    
+  </channel>
+</rss>
