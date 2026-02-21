@@ -9,6 +9,8 @@
     --color-muted: #555;
     --color-border: #ccc;
     --color-sidebar-bg: #eeeeee;
+    --color-bg: #ffffff;
+    --color-text: #222222;
   }
 
   /* Dark mode support */
@@ -18,6 +20,26 @@
       --color-muted: #aaa;
       --color-border: #444;
       --color-sidebar-bg: #222222;
+      --color-bg: #111111;
+      --color-text: #eeeeee;
     }
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    overflow-x: hidden;
+  }
+
+  blockquote {
+    border-left: 3px solid var(--color-border);
+    padding-left: 1rem;
+    margin-left: 0;
+    color: var(--color-muted);
+    font-style: italic;
+  }
+
+  p, li {
+    line-height: 1.8;
   }
 }

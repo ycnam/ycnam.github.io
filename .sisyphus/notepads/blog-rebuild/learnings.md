@@ -43,3 +43,24 @@
 - index.astro: `.slice(0, 5)` for first 5 posts; PostCard receives `post: CollectionEntry<'blog'>` prop
 - Conditional tags: `{post.data.tags.length > 0 && <p>Tags: {post.data.tags.join(', ')}</p>}` works in Astro JSX
 - Build confirmed: 329 pages, no regressions
+
+## [T10] Sidebar Archive
+- getArchiveData() called in Sidebar.astro frontmatter
+- Korean month names array for display
+
+## [T9] Pagination
+- Used [...page].astro rest param for clean page 1 URL at /
+- pageSize: 5, total pages: 58
+- dist numeric dirs = 63 (57 pagination dirs 2-58 + 6 archive year dirs 2011-2016)
+- Page 1 at /, pages 2-58 at /2/ through /58/
+
+## [T11] RSS + CI/CD
+- RSS: @astrojs/rss, 20 most recent posts
+- GitHub Actions: trigger on master branch
+- withastro/action@v3 + actions/deploy-pages@v4
+
+## [T12] Responsive + Dark Mode
+- Added --color-bg and --color-text CSS variables
+- body background/color use CSS vars for dark mode
+- Archive pages updated to use BaseLayout + PostCard
+- blockquote: left border + italic + muted color

@@ -20,8 +20,17 @@ const dateStr = post.data.date.toLocaleDateString('ko-KR', {
 <BaseLayout title={post.data.title}>
   <article class="prose dark:prose-invert max-w-none">
     <h1>{post.data.title}</h1>
-    <time>{dateStr}</time>
+    <time class="post-meta">{dateStr}</time>
     <Content />
     {post.data.tags.length > 0 && <p>Tags: {post.data.tags.join(', ')}</p>}
   </article>
 </BaseLayout>
+
+<style>
+  .post-meta {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    margin-bottom: 1.5rem;
+  }
+</style>

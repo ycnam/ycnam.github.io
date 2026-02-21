@@ -1,5 +1,7 @@
 ---
 import { getArchiveData, getPostsByMonth } from '../../../lib/archives';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
 
 export async function getStaticPaths() {
   const archiveData = await getArchiveData();
@@ -15,22 +17,18 @@ const { year, month } = Astro.props;
 const posts = await getPostsByMonth(year, month);
 ---
 
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{year}년 {month}월 아카이브</title>
-</head>
-<body>
-  <h1>{year}년 {month}월 아카이브</h1>
-  <ul>
-    {posts.map(post => (
-      <li>
-        <a href={`/posts/${post.id}/`}>{post.data.title}</a>
-        <span> - {post.data.date.toLocaleDateString('ko-KR')}</span>
-      </li>
-    ))}
-  </ul>
-</body>
-</html>
+<BaseLayout title={`${year}년 ${month}월 아카이브`}>
+  <h1 class="archive-heading">{year}년 {month}월</h1>
+  {posts.map(post => (
+    <PostCard post={post} />
+  ))}
+</BaseLayout>
+
+<style>
+  .archive-heading {
+    font-family: Georgia, serif;
+    font-size: 1.25rem;
+    margin: 0 0 1.5rem 0;
+    color: var(--color-muted);
+  }
+</style>
