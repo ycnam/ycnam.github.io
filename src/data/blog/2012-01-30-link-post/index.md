@@ -1,0 +1,15 @@
+---
+date: 2012-01-30T17:09:39+00:00
+draft: false
+tags: ["ux", "essay", "quote"]
+title: "Link post"
+---
+
+http://thefoxisblack.com/2011/11/29/why-instagram-is-so-popular-i-couldnt-say-it-better/
+
+
+
+what makes Instagram special: Quality, Audience, Access, Immediacy and Constraints.
+
+특히 Constraints.  
+참여를 먹고사는 서비스의 필수요소인가

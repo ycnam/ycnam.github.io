@@ -1,0 +1,17 @@
+---
+date: 2011-12-14T05:55:00+00:00
+draft: false
+tags: ["good", "visual"]
+title: "영화에서 배우는 지혜 40편의 영화에서 추출한 격언컷 7분 이것은 말하자면"
+---
+
+{{< youtube o55Mo7KY8zc >}}
+
+
+
+영화에서 배우는 지혜  
+40편의 영화에서 추출한 '격언컷' 7분. 
+
+이것은 말하자면 꼰대.avi쯤 되려나.
+
+[http://www.youtube.com/watch?feature=player_embedded&v=o55Mo7KY8zc#!](http://www.youtube.com/watch?feature=player_embedded&v=o55Mo7KY8zc#!)

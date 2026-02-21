@@ -1,0 +1,14 @@
+---
+date: 2011-03-10T16:26:54+00:00
+draft: false
+tags: ["trip", "france", "versaille", "image"]
+title: "2009년 사진을 보니 시간이 한 일년쯤 없어진 것 가타 versailles 2009"
+---
+
+![image](./d5282ea55686be6a3c2a7b14468eb2c638e9d260e618269566b34d282a45567e.jpg)
+
+
+
+2009년 사진을 보니 시간이 한 일년쯤 없어진 것 가타
+
+Versailles. 2009. PEN-EE

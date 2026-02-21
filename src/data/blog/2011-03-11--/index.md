@@ -1,0 +1,12 @@
+---
+date: 2011-03-11T16:58:18+00:00
+draft: false
+tags: ["archive", "Starbucks", "logo", "image"]
+title: "그리고 스타벅스 로고의 미래"
+---
+
+![image](./70725b8322334faab97842e0fff23c2d2620c37950416c94f45c3b0049e34880.jpg)
+
+
+
+그리고 스타벅스 로고의 미래

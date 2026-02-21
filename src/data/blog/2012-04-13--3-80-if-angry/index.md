@@ -1,0 +1,15 @@
+---
+date: 2012-04-13T17:59:51+00:00
+draft: false
+tags: ["angrybird", "80s", "visual", "good"]
+title: "폭발하는 잉여력 3 만약 앵그리버드가 80년대 컴퓨터 게임이었다면 if angry"
+---
+
+{{< youtube OOurrhvnB9U >}}
+
+
+
+폭발하는 잉여력 (3)
+
+만약 앵그리버드가 80년대 컴퓨터 게임이었다면...  
+If Angry Birds were an 80s home computer game. 

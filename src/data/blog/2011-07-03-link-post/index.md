@@ -1,0 +1,12 @@
+---
+date: 2011-07-03T14:03:59+00:00
+draft: false
+tags: ["Tumblr", "iPhone", "iPad", "ux"]
+title: "Link post"
+---
+
+http://techland.time.com/2011/06/30/tumblr-gets-much-much-prettier-for-ipad-and-iphone/
+
+
+
+한층 아름다워진 Tumblr 2.0 for iPhone(app) / iPad(web)

@@ -1,0 +1,10 @@
+---
+date: 2011-07-04T02:03:54+00:00
+draft: false
+tags: ["WEB", "Browser", "ux", "good"]
+title: "Link post"
+---
+
+http://www.20thingsilearned.com/en-US/home
+
+

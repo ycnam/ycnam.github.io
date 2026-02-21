@@ -1,0 +1,69 @@
+---
+date: 2011-05-15T12:50:27+00:00
+draft: false
+tags: ["Ruby", "Exercise", "Function", "ascending sort", "descending sort", "essay"]
+title: "Ruby Exercise 04. ascending/descending sort"
+---
+오름차순, 내림차순 정렬 실습.
+
+    
+    $num = Array.new
+    
+    def input()
+    	for i in 0..4
+    		print "\n비교를 원하는 수를 5개를 입력하세요. (현재 ", 5-i, "개 남음) : "
+    		inp = gets.to_i
+    		$num.push(inp)
+    	end
+    	print "\n입력이 완료되었습니다. 입력된 수는 "
+    	for i in 0..4
+    		if i == 4
+    			print $num[i]
+    		else
+    			print $num[i], ", "
+    		end
+    	end
+    	puts "입니다."
+    end
+    
+    def ascent(num)
+    	ascendingSort = Array.new
+    	ascendingSort.push(num[0])
+    	for i in 1..num.size-1
+    		notBiggest = false
+    		for j in 0..i-1
+    			if ascendingSort[j] > num[i]
+    				ascendingSort.insert(j, num[i])
+    				notBiggest = true
+    				break
+    			end
+    		end
+    		if notBiggest == false
+    			ascendingSort.push(num[i])
+    		end
+    	end
+    	print "\n오름차순 : ", ascendingSort.inspect, "\n"
+    end
+    
+    def descent(num)
+    	descendingSort = Array.new
+    	descendingSort.push(num[0])
+    	for i in 1..num.size-1
+    		notSmallest = false
+    		for j in 0..i-1
+    			if descendingSort[j] < num[i]
+    				descendingSort.insert(j, num[i])
+    				notSmallest = true
+    				break
+    			end
+    		end
+    		if notSmallest == false
+    			descendingSort.push(num[i])
+    		end
+    	end
+    	print "내림차순 : ", descendingSort.inspect, "\n\n"
+    end
+    
+    input()
+    ascent($num)
+    descent($num)

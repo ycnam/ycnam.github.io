@@ -1,0 +1,14 @@
+---
+date: 2011-11-10T08:39:58+00:00
+draft: false
+tags: ["diary", "chrome"]
+title: "요즘은 어도비느님의 프로그램도 잘 안쓰고 일은 거의 회사컴으로 하니까 내 컴으로 하는"
+---
+
+![image](./d23c3719f05d0fae03ff8975d6ef0c8df7e6acbff4afff408ca1ecd9ca87324d.png)
+
+
+
+요즘은 어도비느님의 프로그램도 잘 안쓰고, 일은 거의 회사컴으로 하니까 내 컴으로 하는 일은 거의 이 화면에서 시작하고 끝난다. 구글 크롬 OS 컨셉 설명하던 영상이 떠오르네.
+
+http://www.youtube.com/watch?v=0QRO3gKj3qw

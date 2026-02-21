@@ -1,0 +1,16 @@
+---
+date: 2012-04-21T14:40:46+00:00
+draft: false
+tags: ["Valve", "CompanyCulture"]
+title: "Link post"
+---
+
+http://cdn.flamehaus.com/Valve_Handbook_LowRes.pdf
+
+
+
+기업문화가 밖으로 새어나온 사례  
+2\. Valve
+
+대략 이 회사는 가이드+위트 문화가 발달해있는게 아닐까 하는  
+예측을 살짝 해봄. 

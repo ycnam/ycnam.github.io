@@ -1,0 +1,10 @@
+---
+date: 2011-05-02T17:38:15+00:00
+draft: false
+tags: ["ux"]
+title: "Link post"
+---
+
+http://www.uxbooth.com/blog/mobile-form-design-strategies/?utm_medium=referral&utm_source=pulsenews
+
+
