@@ -1,0 +1,15 @@
+---
+interface Props {
+  page: any;
+}
+const { page } = Astro.props;
+---
+<nav class="pagination">
+  {page.url.prev && <a href={page.url.prev} class="pagination-link">← 이전</a>}
+  {page.url.next && <a href={page.url.next} class="pagination-link">다음 →</a>}
+</nav>
+<style>
+  .pagination { display: flex; gap: 1rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--color-border); }
+  .pagination-link { font-family: Georgia, serif; color: var(--color-accent); text-decoration: none; }
+  .pagination-link:hover { text-decoration: underline; }
+</style>

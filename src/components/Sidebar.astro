@@ -1,4 +1,9 @@
 ---
+import { getArchiveData } from '../lib/archives';
+const archiveData = await getArchiveData();
+
+// Korean month names
+const monthNames = ['1월','2월','3월','4월','5월','6월','7월','8월','9월','10월','11월','12월'];
 ---
 
 <aside class="sidebar">
@@ -10,7 +15,22 @@
 
   <section class="sidebar-section">
     <h2 class="sidebar-heading">ARCHIVE</h2>
-    <nav id="archive-nav"><!-- Archive data wired in T10 --></nav>
+    <nav id="archive-nav">
+      {archiveData.map(yearData => (
+        <div class="archive-year">
+          <strong class="year-label">{yearData.year}</strong>
+          <ul class="month-list">
+            {yearData.months.map(monthData => (
+              <li>
+                <a href={monthData.url}>
+                  {monthNames[monthData.month - 1]} ({monthData.count})
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </nav>
   </section>
 </aside>
 
@@ -45,4 +65,11 @@
     line-height: 1.5;
     margin: 0;
   }
+
+  .archive-year { margin-bottom: 0.75rem; }
+  .year-label { font-size: 0.85rem; color: var(--color-muted); display: block; margin-bottom: 0.25rem; }
+  .month-list { list-style: none; padding: 0; margin: 0; }
+  .month-list li { font-size: 0.8rem; }
+  .month-list a { color: inherit; text-decoration: none; }
+  .month-list a:hover { color: var(--color-accent); }
 </style>
