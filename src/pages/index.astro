@@ -1,31 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
 
 const posts = await getCollection('blog');
 const sortedPosts = posts
   .filter(p => !p.data.draft)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const recentPosts = sortedPosts.slice(0, 5);
 ---
 
-<!doctype html>
-<html lang="ko">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Limitist:Log</title>
-	</head>
-	<body>
-		<h1>Limitist:Log</h1>
-		<ul>
-			{sortedPosts.map(post => (
-				<li>
-					<a href={`/posts/${post.id}/`}>{post.data.title}</a>
-					<time>{post.data.date.toLocaleDateString('ko-KR')}</time>
-				</li>
-			))}
-		</ul>
-	</body>
-</html>
+<BaseLayout title="Limitist:Log">
+  {recentPosts.map(post => <PostCard post={post} />)}
+  {/* Pagination added in T9 */}
+</BaseLayout>

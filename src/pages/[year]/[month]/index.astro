@@ -1,0 +1,36 @@
+---
+import { getArchiveData, getPostsByMonth } from '../../../lib/archives';
+
+export async function getStaticPaths() {
+  const archiveData = await getArchiveData();
+  return archiveData.flatMap(yearData =>
+    yearData.months.map(monthData => ({
+      params: { year: String(yearData.year), month: String(monthData.month).padStart(2, '0') },
+      props: { year: yearData.year, month: monthData.month }
+    }))
+  );
+}
+
+const { year, month } = Astro.props;
+const posts = await getPostsByMonth(year, month);
+---
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{year}년 {month}월 아카이브</title>
+</head>
+<body>
+  <h1>{year}년 {month}월 아카이브</h1>
+  <ul>
+    {posts.map(post => (
+      <li>
+        <a href={`/posts/${post.id}/`}>{post.data.title}</a>
+        <span> - {post.data.date.toLocaleDateString('ko-KR')}</span>
+      </li>
+    ))}
+  </ul>
+</body>
+</html>

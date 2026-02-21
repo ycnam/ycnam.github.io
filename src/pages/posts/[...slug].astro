@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -11,20 +12,16 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const dateStr = post.data.date.toLocaleDateString('ko-KR', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
 ---
 
-<!doctype html>
-<html lang="ko">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<title>{post.data.title}</title>
-	</head>
-	<body>
-		<h1>{post.data.title}</h1>
-		<time>{post.data.date.toLocaleDateString('ko-KR')}</time>
-		<article>
-			<Content />
-		</article>
-	</body>
-</html>
+<BaseLayout title={post.data.title}>
+  <article class="prose dark:prose-invert max-w-none">
+    <h1>{post.data.title}</h1>
+    <time>{dateStr}</time>
+    <Content />
+    {post.data.tags.length > 0 && <p>Tags: {post.data.tags.join(', ')}</p>}
+  </article>
+</BaseLayout>
