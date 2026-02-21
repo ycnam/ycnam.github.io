@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Color scheme — matching original Tumblr blog (limitist.tumblr.com) */
+/* Daring Fireball-inspired minimal design */
+@layer base {
+  :root {
+    --color-accent: #dd3333;
+    --color-muted: #555;
+    --color-border: #ccc;
+    --color-sidebar-bg: #eeeeee;
+  }
+
+  /* Dark mode support */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --color-accent: #ff5555;
+      --color-muted: #aaa;
+      --color-border: #444;
+      --color-sidebar-bg: #222222;
+    }
+  }
+}

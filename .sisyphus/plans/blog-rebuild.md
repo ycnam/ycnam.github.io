@@ -195,7 +195,7 @@ Max Concurrent: 4 (Wave 2)
 > Implementation + QA = ONE Task. Never separate.
 > EVERY task MUST have: Recommended Agent Profile + Parallelization info + QA Scenarios.
 
-- [ ] 1. Clean Repository + Scaffold Astro Project
+- [x] 1. Clean Repository + Scaffold Astro Project
 
   **What to do**:
   - Remove ALL Gatsby build artifacts from repo root: `*.js`, `*.js.map`, `*.css`, `chunk-map.json`, `webpack.stats.json`, `page-data/`, `static/`, `hello-world/`, `my-second-post/`, `index.html`, `*.LICENSE.txt`
