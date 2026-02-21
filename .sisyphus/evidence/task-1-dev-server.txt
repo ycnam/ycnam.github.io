@@ -1,0 +1,40 @@
+=== BUILD VERIFICATION ===
+24:09:46 [build] mode: "static"
+24:09:46 [build] directory: /Users/limitist/projects/ycnam.github.io/dist/
+24:09:46 [build] Collecting build info...
+24:09:46 [build] ✓ Completed in 50ms.
+24:09:46 [build] Building static entrypoints...
+24:09:47 [vite] ✓ built in 580ms
+24:09:47 [build] ✓ Completed in 608ms.
+
+ generating static routes 
+24:09:47 ▶ src/pages/index.astro
+24:09:47   └─ /index.html (+6ms) 
+24:09:47 ✓ Completed in 33ms.
+
+24:09:47 [build] 1 page(s) built in 701ms
+24:09:47 [build] Complete!
+
+Build exit code: 0
+
+=== ASTRO CONFIG VERIFICATION ===
+astro.config.mjs exists:
+YES
+
+site setting in astro.config.mjs:
+  site: 'https://ycnam.github.io',
+
+=== DIRECTORY STRUCTURE ===
+src/pages/index.astro exists:
+YES
+src/layouts/Layout.astro exists:
+YES
+public/favicon.svg exists:
+YES
+
+=== PACKAGE.JSON SCRIPTS ===
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "echo \"Error: no test specified\" && exit 1"

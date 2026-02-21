@@ -1,0 +1,13 @@
+---
+date: 2011-12-02T03:15:00+00:00
+draft: false
+tags: ["UX", "methodology", "heuristic", "cognitiveWalkthrough"]
+title: Heuristic Evaluation vs. Cognitive Walkthrough
+---
+**[Heuristic evaluation](http://en.wikipedia.org/wiki/Heuristic_evaluation "Heuristic evaluation") (holistic)**  
+A **heuristic evaluation** is a discount [usability inspection](http://en.wikipedia.org/wiki/Usability_inspection "Usability inspection") method for computer software that helps to identify [usability](http://en.wikipedia.org/wiki/Usability "Usability") problems in the [user interface (UI) design](http://en.wikipedia.org/wiki/User_Interface_Design "User Interface Design"). It specifically involves evaluators examining the interface and judging its compliance with recognized usability principles (the "heuristics"). These evaluation methods are now widely taught and practiced in the [New Media](http://en.wikipedia.org/wiki/New_Media "New Media") sector, where UIs are often designed in a short space of time on a budget that may restrict the amount of money available to provide for other types of interface testing.
+
+**[Cognitive walkthrough](http://en.wikipedia.org/wiki/Cognitive_walkthrough "Cognitive walkthrough") (task-specific)**  
+The **cognitive walkthrough** method is a [usability inspection method](http://en.wikipedia.org/wiki/Usability_inspection_method "Usability inspection method") used to identify [usability](http://en.wikipedia.org/wiki/Usability "Usability") issues in a piece of software or web site, focusing on how easy it is for new users to accomplish tasks with the system. Whereas **cognitive walkthrough** is task-specific, [heuristic evaluation](http://en.wikipedia.org/wiki/Heuristic_evaluation "Heuristic evaluation") takes a holistic view to catch problems not caught by this and other [usability inspection methods](http://en.wikipedia.org/wiki/Usability_inspection_method "Usability inspection method"). The method is rooted in the notion that users typically prefer to learn a system by using it to accomplish tasks, rather than, for example, studying a manual. The method is prized for its ability to generate results quickly with low cost, especially when compared to [usability testing](http://en.wikipedia.org/wiki/Usability_testing "Usability testing"), as well as the ability to apply the method early in the design phases, before coding has even begun.
+
+_from Wikipedia_

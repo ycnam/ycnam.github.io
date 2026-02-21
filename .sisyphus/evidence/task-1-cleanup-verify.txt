@@ -1,0 +1,14 @@
+=== CLEANUP VERIFICATION ===
+Gatsby artifacts remaining (should be 0):
+       0
+
+Gatsby directories remaining (should be 0):
+       0
+
+=== PRESERVED DIRECTORIES ===
+migration_from_tumblr exists:
+YES
+.sisyphus exists:
+YES
+.git exists:
+YES
