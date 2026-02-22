@@ -12,4 +12,18 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+const works = defineCollection({
+  loader: glob({ pattern: '*/index.md', base: './src/data/works' }),
+  schema: z.object({
+    title: z.string(),
+    category: z.enum(['Motion picture', 'Information design', 'Graphic design', 'D+programing']),
+    order: z.number(),
+    year: z.string().optional(),
+    credits: z.string().optional(),
+    vimeoIds: z.array(z.string()).default([]),
+    hasP5Sketch: z.boolean().default(false),
+    galleryImages: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { blog, works };

@@ -13,6 +13,11 @@ import ArchiveNav from './ArchiveNav.astro';
     <h2 class="sidebar-heading">ARCHIVE</h2>
     <ArchiveNav />
   </section>
+
+  <section class="sidebar-section">
+    <h2 class="sidebar-heading">WORKS</h2>
+    <a href="/works/" class="works-link">YCN Works →</a>
+  </section>
 </aside>
 
 <style>
@@ -44,5 +49,18 @@ import ArchiveNav from './ArchiveNav.astro';
     color: var(--color-muted);
     line-height: 1.5;
     margin: 0;
+  }
+
+  .works-link {
+    font-size: 0.85rem;
+    color: var(--color-text);
+    text-decoration: none;
+    display: block;
+    padding: 0.25rem 0;
+    line-height: 1.5;
+  }
+
+  .works-link:hover {
+    color: var(--color-accent);
   }
 </style>

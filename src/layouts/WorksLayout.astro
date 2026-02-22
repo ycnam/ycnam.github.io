@@ -1,0 +1,87 @@
+---
+import '../styles/global.css';
+import WorksSidebar from '../components/WorksSidebar.astro';
+
+interface Props {
+  title?: string;
+  currentSlug?: string;
+}
+
+const { title = 'YCN', currentSlug } = Astro.props;
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="works-wrapper">
+      <header class="works-header">
+        <a href="/works/" class="works-title">YCN Works</a>
+      </header>
+      <div class="works-layout">
+        <WorksSidebar currentSlug={currentSlug} />
+        <main class="works-main">
+          <slot />
+        </main>
+      </div>
+    </div>
+  </body>
+</html>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+  }
+
+  .works-wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+  }
+
+  .works-header {
+    margin-bottom: 1.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .works-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--color-text);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .works-title:hover {
+    color: var(--color-accent);
+  }
+
+  .works-layout {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+
+  .works-main {
+    min-width: 0;
+  }
+
+  @media (max-width: 640px) {
+    .works-layout {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+  }
+</style>

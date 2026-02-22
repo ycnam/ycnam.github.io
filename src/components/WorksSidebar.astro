@@ -1,0 +1,144 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug?: string;
+}
+
+const { currentSlug } = Astro.props;
+
+const CATEGORY_ORDER = [
+  'Motion picture',
+  'Information design',
+  'Graphic design',
+  'D+programing',
+] as const;
+
+type Category = (typeof CATEGORY_ORDER)[number];
+
+const allWorks = await getCollection('works');
+
+const grouped = Object.fromEntries(
+  CATEGORY_ORDER.map((cat) => [
+    cat,
+    allWorks
+      .filter((w) => w.data.category === cat)
+      .sort((a, b) => a.data.order - b.data.order),
+  ])
+) as Record<Category, typeof allWorks>;
+---
+
+<nav class="works-sidebar">
+  <div class="sidebar-header">
+    <a href="/works/" class="site-title">YCN Works</a>
+  </div>
+
+  {
+    CATEGORY_ORDER.map((cat) => (
+      <section class="works-category">
+        <h2 class="category-label">{cat}</h2>
+        <ul class="project-list">
+          {grouped[cat].map((work) => (
+            <li>
+              <a
+                href={`/works/${work.id}/`}
+                class:list={['project-link', { active: currentSlug === work.id }]}
+              >
+                {work.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+
+  <div class="sidebar-footer">
+    <a href="/" class="blog-link">← Blog</a>
+  </div>
+</nav>
+
+<style>
+  .works-sidebar {
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+
+  .sidebar-header {
+    margin-bottom: 1.4rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .site-title {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--color-text);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    display: block;
+  }
+
+  .site-title:hover {
+    color: var(--color-accent);
+  }
+
+  .works-category {
+    margin-bottom: 1.4rem;
+  }
+
+  .category-label {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: var(--color-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 0 0 0.45rem 0;
+  }
+
+  .project-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .project-list li {
+    margin-bottom: 0.1rem;
+  }
+
+  .project-link {
+    color: var(--color-text);
+    text-decoration: none;
+    display: block;
+    padding: 0.1rem 0;
+    line-height: 1.4;
+  }
+
+  .project-link:hover {
+    color: var(--color-accent);
+  }
+
+  .project-link.active {
+    color: var(--color-accent);
+    font-weight: 600;
+  }
+
+  .sidebar-footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .blog-link {
+    font-size: 0.7rem;
+    color: var(--color-muted);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .blog-link:hover {
+    color: var(--color-accent);
+  }
+</style>
