@@ -10,7 +10,7 @@ export async function GET(context: APIContext) {
     .slice(0, 20);
 
   return rss({
-    title: 'Limitist:Log',
+    title: 'YCN',
     description: 'UX, Design, IT, 조직에 대한 잡설들',
     site: context.site,
     items: sorted.map(post => ({

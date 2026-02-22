@@ -15,7 +15,7 @@ export async function getStaticPaths({ paginate }) {
 const { page } = Astro.props;
 ---
 
-<BaseLayout title="Limitist:Log">
+<BaseLayout title="YCN">
   {page.data.map(post => <PostCard post={post} />)}
   <Pagination page={page} />
 </BaseLayout>
