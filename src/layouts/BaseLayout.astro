@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Sidebar from '../components/Sidebar.astro';
+import ArchiveNav from '../components/ArchiveNav.astro';
 import Footer from '../components/Footer.astro';
 
 interface Props {
@@ -23,15 +24,32 @@ const { title = 'YCN' } = Astro.props;
     <div class="site-wrapper">
       <header class="site-header">
         <h1 class="site-title"><a href="/">YCN</a></h1>
+        <details class="mobile-archive">
+          <summary aria-label="아카이브 열기">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+              <rect x="3" y="4" width="18" height="17" rx="2" ry="2"></rect>
+              <line x1="8" y1="2" x2="8" y2="6"></line>
+              <line x1="16" y1="2" x2="16" y2="6"></line>
+              <line x1="3" y1="10" x2="21" y2="10"></line>
+            </svg>
+            <span class="mobile-archive-label">아카이브</span>
+          </summary>
+          <div class="mobile-archive-panel">
+            <div class="mobile-archive-head">
+              <h2>ARCHIVE</h2>
+            </div>
+            <ArchiveNav />
+          </div>
+        </details>
       </header>
 
       <div class="site-grid">
-        <Sidebar />
-
         <main class="site-content">
           <slot />
           <Footer />
         </main>
+
+        <Sidebar />
       </div>
     </div>
   </body>
@@ -53,6 +71,9 @@ const { title = 'YCN' } = Astro.props;
 
   .site-header {
     margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
 
   .site-title {
@@ -71,13 +92,82 @@ const { title = 'YCN' } = Astro.props;
 
   .site-grid {
     display: grid;
-    grid-template-columns: 160px 1fr;
+    grid-template-columns: 1fr 160px;
     gap: 1.5rem;
     align-items: start;
   }
 
   .site-content {
     max-width: 425px;
+  }
+
+  .mobile-archive {
+    display: none;
+  }
+
+  .mobile-archive > summary {
+    list-style: none;
+    cursor: pointer;
+    color: var(--color-muted);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .mobile-archive > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .mobile-archive > summary svg {
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .mobile-archive[open]::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: color-mix(in oklab, var(--color-bg) 55%, #000 45%);
+    z-index: 29;
+  }
+
+  .mobile-archive-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100dvh;
+    width: min(84vw, 320px);
+    padding: 1.2rem 1rem;
+    box-sizing: border-box;
+    background-color: var(--color-sidebar-bg);
+    border-right: 1px solid var(--color-border);
+    transform: translateX(-105%);
+    transition: transform 180ms ease-out;
+    overflow-y: auto;
+    z-index: 30;
+  }
+
+  .mobile-archive[open] .mobile-archive-panel {
+    transform: translateX(0);
+  }
+
+  .mobile-archive-head {
+    margin-bottom: 1rem;
+  }
+
+  .mobile-archive-head h2 {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--color-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0;
   }
 
   @media (max-width: 768px) {
@@ -87,6 +177,20 @@ const { title = 'YCN' } = Astro.props;
 
     .site-content {
       max-width: 100%;
+    }
+
+    .site-grid :global(.sidebar) {
+      display: none;
+    }
+
+    .mobile-archive {
+      display: block;
+      position: relative;
+      z-index: 31;
+    }
+
+    .mobile-archive-label {
+      display: none;
     }
   }
 </style>
