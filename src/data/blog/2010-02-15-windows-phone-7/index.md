@@ -1,0 +1,71 @@
+---
+date: 2010-02-15T16:37:44+00:00
+draft: false
+tags: ["Thoughts", "UX/Service"]
+title: "'Windows Phone 7' has been announced. (and BADA dlip..)"
+---
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="600" height="480" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/w0-pxBZBvlM&hl=ko_KR&fs=1&" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="600" height="480" src="http://www.youtube.com/v/w0-pxBZBvlM&hl=ko_KR&fs=1&" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+MWC에서 Windows Phone 7 시리즈 대략 공개.
+
+애플과 아이폰을 계속 깎아 내리면서도
+
+6.5에서 벌집모양 레이아웃 드립을 쳐서 마소의 모바일에는 미래가 없다는 욕을
+
+잔뜩 먹어온 발머 및 마소의 절치부심 작품이랄까...
+
+나도 Windows Mobile에는 전혀 기대를 걸지 않았었다.
+
+이름을 Windows Phone으로 바꿔도 마찬가지.
+
+니들이 해봤자지.. 싶었는데. 일단 발표 첫 반응을 보면 오 꽤 강력한 카운터 펀치급.
+
+이런건 결국 써봐야 아는거니까 소개영상보고 애플은 끝났다느니
+
+마소가 결국 스마트폰도 지배하느니 하는 주장은 다 섣부른 말들이겠지만..
+
+개인적으로 두가지는 확실하다고 본다.
+
+하나는 iPhone공개 이후 모바일계의 GUI중에 가장 차별화 된 모습 (일단 겉모습)이라는 것.
+
+말도 안되게 데스크탑의 윈도우 모양을 꾸겨서 손바닥만한 핸드폰에 넣은 모습이던
+
+윈도우 모바일 시절을 벗어나서 (옴니아1의 시작버튼을 누르다가 던져버릴 뻔했다)
+
+차라리 시크한 ZUNE HD의 형식을 가져온건 정말이지 박수받을만한 선택이었던듯.
+
+아이폰 OS의 대항마로 손꼽히던 Web OS조차 벗어나지 못했던
+
+반짝볼록 아이콘 (이른바 Aqua라고 불리던. Mac OS X 부터 쓰이던 애플 전설의 GUIㅋ)
+
+을 벗어나 그라데이션도, 그림자 효과도 없는 룩을 만들어냈다는 것 자체가 차별적이다.
+
+물론 애플의 Aqua 디자인은 짱이라고 생각하지만
+
+다른 회사에서도 그걸 따라간다는 건 좀 문제가 있다고 본다...
+
+어차피 애플보다 잘 할 수 없다. 아류일 뿐.
+
+마소는 결국. 다른 모습을 보여주는군.
+
+물론 결과적으로 이게 성공하느냐는 앱스토어를 이기느냐에 달려있는거지만.
+
+출발은 산뜻하네.
+
+그리고 두번째로
+
+삼성의 야심찬 OS - BADA는 그냥 '바다드립'이 되어버렸다는것...
+
+흠. 퍼포먼스는 좋네만은..일단 '인상'면에서 보면 드립이다.
+
+엔가젯에서도 쏟아지는 비난 리플들.. 아이폰과 심비안과 안드로이드를 적당히 섞은것 같다나
+
+(근데 하드웨어는 다들 좋아함;)
+
+물론 앞으로 뭐가 어떻게 될 지는 아무도 모르는거다.
+
+일단. 나는 모른다.
+
+근데 퍼포먼스랑 멀티태스킹은 의외로 괜찮다! (하지만 서드파티는 어떨런지)
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/b5N1qYdkW3A&hl=ko_KR&fs=1&" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/b5N1qYdkW3A&hl=ko_KR&fs=1&" allowscriptaccess="always" allowfullscreen="true"></embed></object>
