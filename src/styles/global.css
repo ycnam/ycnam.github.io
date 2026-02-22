@@ -1,6 +1,15 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* Pretendard 가변 웹폰트 - jsDelivr CDN (한국어 dynamic subset) */
+@font-face {
+  font-family: 'Pretendard';
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.woff2') format('woff2-variations');
+}
+
 /* Color scheme — matching original Tumblr blog (limitist.tumblr.com) */
 /* Daring Fireball-inspired minimal design */
 @layer base {
@@ -26,6 +35,7 @@
   }
 
   body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
     background-color: var(--color-bg);
     color: var(--color-text);
     overflow-x: hidden;
