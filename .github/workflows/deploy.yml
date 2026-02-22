@@ -24,10 +24,6 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with Astro
         uses: withastro/action@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
 
   deploy:
     needs: build
