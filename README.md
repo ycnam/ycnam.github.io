@@ -48,8 +48,6 @@ Youngchul Nam의 개인 블로그. UX, Design, IT, 조직에 대한 글을 기�
 ├── public/
 │   ├── avatar.png
 │   └── favicon.svg
-├── scripts/
-│   └── migrate.mjs        # Tumblr 마이그레이션 스크립트 (일회성, 사용 완료)
 ├── astro.config.mjs
 ├── tsconfig.json
 └── package.json

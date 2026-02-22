@@ -123,7 +123,6 @@ npm run preview   # 빌드 결과 미리보기
 ## Known Issues / Pre-existing Conditions
 
 - `src/pages/rss.xml.ts` (line 15): `context.site`가 `URL | undefined` 타입이라 LSP에서 타입 에러가 나지만, `astro.config.mjs`에 `site`가 설정되어 있으므로 런타임에는 문제 없음 (Astro의 알려진 타입 한계)
-- `scripts/migrate.mjs`: Tumblr 마이그레이션용 일회성 스크립트. 이미 사용 완료되었으므로 수정 불필요. 참고용으로만 보관.
 - 블로그 포스트 약 288개는 Tumblr에서 마이그레이션된 것. 일부 포스트의 이미지가 깨져 있을 수 있음.
 
 ## Tailwind CSS v4 Notes
