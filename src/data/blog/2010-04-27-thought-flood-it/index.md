@@ -24,9 +24,15 @@ iGoogle Gadget에서 무료로 추가해서 할 수 있고,
 
 돈은 주로 iPhone, Android 어플로 번다고 하기에 일단 구글에서 해보았다.
 
-<a href="./Flood-it-googleGadget.png"><img class="aligncenter size-full wp-image-253" title="Flood-it-googleGadget" src="./Flood-it-googleGadget.png" alt="" width="367" height="275" /></a>몇 판 재미나게 하다가, 아차, 페이스북에도 있다그랬지.. 하는 생각에 바로 페북으로 넘어갔다.
 
-<a href="./Flood-it.png"><img class="aligncenter size-full wp-image-254" title="Flood-it!" src="./Flood-it.png" alt="" width="600" height="342" /></a>iGoogle에서 할 때는 재미는 있었지만, 남들한테 추천하기도 뭐하고 쓸쓸한 느낌을 받았는데
+![Flood-it-googleGadget](./Flood-it-googleGadget.png)
+
+몇 판 재미나게 하다가, 아차, 페이스북에도 있다그랬지.. 하는 생각에 바로 페북으로 넘어갔다.
+
+
+![Flood-it!](./Flood-it.png)
+
+iGoogle에서 할 때는 재미는 있었지만, 남들한테 추천하기도 뭐하고 쓸쓸한 느낌을 받았는데
 
 페이스북에서 할 때는 포스팅을 통해서 홍보도 하고 내 기록을 공유할 수 있다는 사실만으로도
 

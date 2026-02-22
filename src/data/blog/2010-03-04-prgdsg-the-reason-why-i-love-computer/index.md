@@ -4,7 +4,9 @@ draft: false
 tags: ["Programming Design"]
 title: "[PrgDsg] The reason why I love computer"
 ---
-<a href="./iLoveCom.jpg"><img class="aligncenter size-full wp-image-187" title="iLoveCom" src="./iLoveCom.jpg" alt="" width="600" height="200" /></a>
+![iLoveCom](./iLoveCom.jpg)
+
+
 
 컴퓨터 프로그래밍에 뜬금없이 관심을 가진 것이 약 2년 전쯤이다.
 

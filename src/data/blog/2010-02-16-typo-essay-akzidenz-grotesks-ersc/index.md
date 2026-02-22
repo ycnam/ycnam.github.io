@@ -8,7 +8,11 @@ Univers, Helvetica를 가지고 놀다가
 
 그 원형이 Akzidenz Grotesk라는 서체에서 왔다는 것을 어디선가 보고 그 서체를 구해보았다.
 
-첫 인상은 상당히 실망이었다.<a href="./GroteskRoman.png"><img class="aligncenter size-full wp-image-126" title="GroteskRoman" src="./GroteskRoman.png" alt="" width="600" height="600" /></a>헬베티카나 유니버스에 비해 예전꺼라 그런지 왠지 다듬어지지 않은듯한 느낌이 싫었다.
+첫 인상은 상당히 실망이었다.
+
+![GroteskRoman](./GroteskRoman.png)
+
+헬베티카나 유니버스에 비해 예전꺼라 그런지 왠지 다듬어지지 않은듯한 느낌이 싫었다.
 
 C나 소문자e의 애매하게 열린 선이 싫었고,
 
@@ -22,7 +26,10 @@ C나 소문자e의 애매하게 열린 선이 싫었고,
 
 그리고 어느 날 과 게시판에서 한장의 포스터를 보았다.
 
-<a href="./F.jpg"><img class="aligncenter size-full wp-image-120" title="F" src="./F.jpg" alt="" width="352" height="440" /></a>파브리카 10 포스터였는데 (이 글을 쓰게 된것도 갑자기 이 포스터가 생각나서였다)
+
+![F](./F.jpg)
+
+파브리카 10 포스터였는데 (이 글을 쓰게 된것도 갑자기 이 포스터가 생각나서였다)
 
 큼지막한 영문 글자들을 한참동안 쳐다보고 있었다.
 
@@ -46,7 +53,10 @@ C나 소문자e의 애매하게 열린 선이 싫었고,
 
 (사실 과제에서 쓸 일은 별로 없었으니 주로 낙서에 많이 이용되었다)
 
-<a href="./GroteskBold.png"><img class="aligncenter size-full wp-image-125" title="GroteskBold" src="./GroteskBold.png" alt="" width="600" height="600" /></a>너무나 엇비슷해보이는 세 가지 산세리프 서체.
+
+![GroteskBold](./GroteskBold.png)
+
+너무나 엇비슷해보이는 세 가지 산세리프 서체.
 
 하지만 막상 써놓으면 그 미묘한 느낌 차이가 상당하다는것을 깨달으며..
 

@@ -34,7 +34,7 @@ title: "그 놈의 세대론 - 한국의 베이비붐 세대"
 
 이렇게 생각하면
 
-<a href="./giveup.jpg" class=""><img src="./giveup.jpg" alt="" title="giveup" width="386" height="360" class="aligncenter size-full wp-image-332"></a>
+![giveup](./giveup.jpg)
 
 편한건 사실.
 

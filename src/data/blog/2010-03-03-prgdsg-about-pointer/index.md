@@ -4,7 +4,9 @@ draft: false
 tags: ["Programming Design"]
 title: "[PrgDsg] About Pointer"
 ---
-<a href="./pointer.jpg"><img class="aligncenter size-full wp-image-183" title="pointer" src="./pointer.jpg" alt="" width="600" height="400" /></a>앞으로 차차 알게 되겠지만..
+![pointer](./pointer.jpg)
+
+앞으로 차차 알게 되겠지만..
 
 C책을 산 김에 궁금하던 pointer장부터 조금 읽어보았다.
 

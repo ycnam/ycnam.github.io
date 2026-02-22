@@ -16,7 +16,10 @@ Lars Muller 출판사에서 나온 Helvetica : Homage to a Typeface를 보면
 디자이너의 입지는 상당히 좁아질 것이라는 생각은 든다)
 그 중 Abbott Miller라는 사람이 남긴 글이 약간 불경스러우면서도 재미있다.
 헬베티카의 대문자 R에 관한 내용.
-<a href="./RofHelvetica.png"><img class="aligncenter size-full wp-image-60" title="RofHelvetica" src="./RofHelvetica.png" alt="" width="600" height="480" /></a>
+
+![RofHelvetica](./RofHelvetica.png)
+
+
 
 <em>The capital R is the only part of Helvetica that disturbs me.</em>
 
@@ -29,7 +32,11 @@ Lars Muller 출판사에서 나온 Helvetica : Homage to a Typeface를 보면
 대문자 R의 밑부분이 심히 신경쓰인다는 말..
 
 여기서 이 사람이 말한 사진은 이것.. (난 잘 모르지만 Robert Mapplethorpe는 상당히 유명한 사진작가인듯)
-<p style="text-align: center;"><a href="./mapplethorpe08.jpg"><img class="aligncenter size-full wp-image-62" title="mapplethorpe08" src="./mapplethorpe08.jpg" alt="" width="258" height="320" /></a><strong>Robert Mapplethorpe</strong>, "Man in Polyester <strong>Suit</strong>," 1980.</p>
+<p style="text-align: center;">
+
+![mapplethorpe08](./mapplethorpe08.jpg)
+
+<strong>Robert Mapplethorpe</strong>, "Man in Polyester <strong>Suit</strong>," 1980.</p>
 헬베티카를 보고 이 사진을 떠올리다니. 관찰력이 놀랍다고 해야하나 ㅎ. 일면 수긍..이 가기도 하지만.
 
 이게  싫다면 그 대안으로 조금은 덜 꺾인 유니버스를 쓸 수 있겠으나
@@ -58,7 +65,10 @@ Lars Muller 출판사에서 나온 Helvetica : Homage to a Typeface를 보면
 
 헬베티카의 소문자 a였다.
 
-<a href="./aOfHelvAndUniv1.png"><img class="aligncenter size-full wp-image-63" title="aOfHelvAndUniv" src="./aOfHelvAndUniv1.png" alt="" width="600" height="250" /></a>헬베티카와 유니버스를 만난지 얼마 안되었을때
+
+![aOfHelvAndUniv](./aOfHelvAndUniv1.png)
+
+헬베티카와 유니버스를 만난지 얼마 안되었을때
 
 (한마디로 둘의 차이점을 찾기 위해 글자들을 확대해서 보던 때)
 

@@ -4,7 +4,9 @@ draft: false
 tags: ["Interface/Information", "Thoughts"]
 title: "dosmartphone - smartphone with CLI"
 ---
-<a href="./dosmartphone.jpg"><img class="aligncenter size-full wp-image-324" title="dosmartphone" src="./dosmartphone.jpg" alt="" width="600" height="640" /></a>
+![dosmartphone](./dosmartphone.jpg)
+
+
 
 갑자기, 이런 이미지가 떠오른다.
 

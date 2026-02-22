@@ -4,7 +4,9 @@ draft: false
 tags: ["C language"]
 title: "[C] Hello World!"
 ---
-<a href="./C_helloWorld1.png"><img class="aligncenter size-full wp-image-176" title="C_helloWorld" src="./C_helloWorld1.png" alt="" width="600" height="379" /></a>C에서 외치는 "Hello World!"
+![C_helloWorld](./C_helloWorld1.png)
+
+C에서 외치는 "Hello World!"
 <pre><code>#include <stdio.h>
 
 int main(void) {

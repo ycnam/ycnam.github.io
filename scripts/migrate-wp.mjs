@@ -212,7 +212,45 @@ function transformBodyAndCopyImages(body, targetDir, report) {
     return `./${localName}`;
   });
 
+  nextBody = convertLocalHtmlImagesToMarkdown(nextBody);
+
   return nextBody.trim();
+}
+
+function parseHtmlAttr(tagSource, attrName) {
+  const match = tagSource.match(new RegExp(`${attrName}\\s*=\\s*["']([^"']*)["']`, 'i'));
+  return match ? decodeHtmlEntities(match[1]) : '';
+}
+
+function toMarkdownImage(src, alt) {
+  const safeAlt = (alt || '').replace(/\]/g, '\\]');
+  return `![${safeAlt}](${src})`;
+}
+
+function convertLocalHtmlImagesToMarkdown(input) {
+  let next = input;
+
+  next = next.replace(/<a\b[^>]*>\s*(<img\b[^>]*>)\s*<\/a>/gi, (full, imgTag) => {
+    const src = parseHtmlAttr(imgTag, 'src');
+    if (!src || !src.startsWith('./')) {
+      return full;
+    }
+    const alt = parseHtmlAttr(imgTag, 'alt') || parseHtmlAttr(imgTag, 'title') || 'image';
+    return `\n\n${toMarkdownImage(src, alt)}\n\n`;
+  });
+
+  next = next.replace(/<img\b[^>]*>/gi, (imgTag) => {
+    const src = parseHtmlAttr(imgTag, 'src');
+    if (!src || !src.startsWith('./')) {
+      return imgTag;
+    }
+    const alt = parseHtmlAttr(imgTag, 'alt') || parseHtmlAttr(imgTag, 'title') || 'image';
+    return `\n\n${toMarkdownImage(src, alt)}\n\n`;
+  });
+
+  next = next.replace(/\n{3,}/g, '\n\n');
+
+  return next;
 }
 
 function migrate() {
