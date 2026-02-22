@@ -1,12 +1,11 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { formatKoreanDate } from '../lib/format';
 interface Props {
   post: CollectionEntry<'blog'>;
 }
 const { post } = Astro.props;
-const dateStr = post.data.date.toLocaleDateString('ko-KR', {
-  year: 'numeric', month: 'long', day: 'numeric'
-});
+const dateStr = formatKoreanDate(post.data.date);
 ---
 <article class="post-card">
   <time class="post-date">{dateStr}</time>

@@ -14,10 +14,8 @@ export interface YearData {
 export async function getArchiveData(): Promise<YearData[]> {
   const posts = await getCollection('blog');
   
-  // Filter out draft posts
   const publishedPosts = posts.filter(p => !p.data.draft);
   
-  // Group by year and month
   const grouped = new Map<number, Map<number, number>>();
   
   for (const post of publishedPosts) {
@@ -32,16 +30,13 @@ export async function getArchiveData(): Promise<YearData[]> {
     monthMap.set(month, (monthMap.get(month) || 0) + 1);
   }
   
-  // Convert to array and sort
   const result: YearData[] = [];
   
-  // Sort years descending
   const sortedYears = Array.from(grouped.keys()).sort((a, b) => b - a);
   
   for (const year of sortedYears) {
     const monthMap = grouped.get(year)!;
     
-    // Sort months descending within each year
     const sortedMonths = Array.from(monthMap.keys()).sort((a, b) => b - a);
     
     const months: MonthData[] = sortedMonths.map(month => ({

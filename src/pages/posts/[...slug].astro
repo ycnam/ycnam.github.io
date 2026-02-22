@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatKoreanDate } from '../../lib/format';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -12,9 +13,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const dateStr = post.data.date.toLocaleDateString('ko-KR', {
-  year: 'numeric', month: 'long', day: 'numeric'
-});
+const dateStr = formatKoreanDate(post.data.date);
 ---
 
 <BaseLayout title={post.data.title}>
