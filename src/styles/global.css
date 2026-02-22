@@ -36,6 +36,8 @@
 
   body {
     font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+    word-break: keep-all;
+    overflow-wrap: break-word;
     background-color: var(--color-bg);
     color: var(--color-text);
     overflow-x: hidden;
