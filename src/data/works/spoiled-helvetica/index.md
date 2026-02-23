@@ -5,7 +5,17 @@ order: 3
 year: "2008"
 vimeoIds: []
 hasP5Sketch: false
-galleryImages: []
+galleryImages:
+  - "25_alphabetptpage03.jpg"
+  - "25_alphabetptpage05.jpg"
+  - "25_alphabetptpage06.jpg"
+  - "25_alphabetptpage04.jpg"
+  - "25_alphabetptpage10.jpg"
+  - "25_alphabetptpage09.jpg"
+  - "25_alphabetptpage08.jpg"
+  - "25_alphabetptpage11.jpg"
+  - "25_alphabetptpage07.jpg"
+  - "25_alphabetptpage12.jpg"
 ---
 
 특정 공간을 재해석하여 그와 연관된 새로운 글자체를 만드는 프로젝트.

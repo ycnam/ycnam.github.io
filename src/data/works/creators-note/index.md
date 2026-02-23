@@ -5,7 +5,9 @@ order: 8
 year: "2005"
 vimeoIds: []
 hasP5Sketch: false
-galleryImages: []
+galleryImages:
+  - "20_creatorsnote.jpg"
+  - "20_theworldisfullofsecret.jpg"
 ---
 
 단순 재미를 위한 그래픽 낙서들.

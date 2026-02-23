@@ -4,7 +4,12 @@ category: "Motion picture"
 order: 2
 vimeoIds: []
 hasP5Sketch: false
-galleryImages: []
+galleryImages:
+  - "34_imfxkoreaprogress.jpg"
+  - "34_imfxkoreaprogress4.jpg"
+  - "34_imfxkoreaprogress3.jpg"
+  - "34_imfxkoreaprogress2.jpg"
+  - "34_imfxkoreaprogress5.jpg"
 ---
 
 [Go to process archive blog](http://limitist-grad.tumblr.com/)
@@ -18,3 +23,13 @@ galleryImages: []
 마지막으로 준비한 장비는 안경이었다. 종이안경을 그대로 쓰려 했으나, 쓰기가 불편한 문제가 있어, 적청3D안경을 들고 안경점에 찾아가 테를 고른 후 이 안경과 똑같은 색의 렌즈를 맞추어 달라고 주문했다. 주인은 상당히 의아해 했으나 '전시용품'이라는 말을 듣고 수락하였으며, 나중에는 재수정까지 해주는 적극적인 협조를 해주었다.
 
 이런 과정을 통해 영상과 장비들이 준비되었고, 전시장에서 나의 영상은 벽에 걸린 스크린에서 나오고, 그 앞에 놓여진 테이블 위에 두 개의 특수 안경과 두 개의 헤드폰, 하나의 사운드 셀렉터(외관이 매우 조잡하여 케이스를 뜯은 채로 사용하였다), 하나의 트랙패드(영상의 타임라인 선택용)를 설치하였다.
+
+![](./34_imfxkoreaprogress.jpg)
+
+![](./34_imfxkoreaprogress4.jpg)
+
+![](./34_imfxkoreaprogress3.jpg)
+
+![](./34_imfxkoreaprogress2.jpg)
+
+![](./34_imfxkoreaprogress5.jpg)

@@ -263,11 +263,26 @@ function parseGalleryImages(contentHtml: string): string[] {
     galleryBlock.matchAll(/<a\b[^>]*\bclass=(['"])[^'"]*\bthickbox\b[^'"]*\1[^>]*>/gi)
   ).map(match => match[0]);
 
-  return links
-    .map(link => getAttr(link, 'href'))
-    .filter(Boolean)
-    .map(href => normalizeUrl(href))
-    .map(url => basename(new URL(url).pathname));
+  if (links.length > 0) {
+    return links
+      .map(link => getAttr(link, 'href'))
+      .filter(Boolean)
+      .map(href => normalizeUrl(href))
+      .map(url => basename(new URL(url).pathname));
+  }
+
+  const images = Array.from(galleryBlock.matchAll(/<img\b[^>]*>/gi)).map(match => match[0]);
+  const seen = new Set<string>();
+
+  for (const image of images) {
+    const src = getAttr(image, 'src');
+    if (!src) continue;
+    const fileName = basename(new URL(normalizeUrl(src)).pathname);
+    if (fileName.length === 0) continue;
+    seen.add(fileName);
+  }
+
+  return Array.from(seen);
 }
 
 function parseVimeoIds(contentHtml: string): string[] {

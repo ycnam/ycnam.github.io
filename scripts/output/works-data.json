@@ -73,7 +73,13 @@
     "category": "Motion picture",
     "descriptionHtml": "<p><a href=\"http://limitist-grad.tumblr.com/\" target=\"_blank\"><br />\nGo to process archive blog</a></p><p>처음 경제에 관한 주제를 선택하게 된 것은 신문의 경제면을 채우는 공감할 수 없는 경제 지표들 때문이었다. 주가도 오르고, 성장률도 회복하고, 수출도 최고기록을 계속 경신하는데 왜 사람들의 삶은 나아지지 않는 것인지 의문이 들었다. 한국에도 분명 호경기가 있었는데, 어느 지점부터 현재까지 오랜 불경기를 겪고 있다는 생각이 들었고, 경기의 흐름을 되짚던 중, 이른바 'IMF시대'라는 큰 분기점을 발견했다. 그 때 많은 사람들의 경제적인 삶이 무너졌고, IMF의 관리를 벗어난 후에도 그들의 삶은 여전히 회복되지 않고 있는 것 같았다. 이 시간동안 무슨 일이 있었는지, 당시 경제 위기는 왜 찾아온 것인지, 그리고 IMF라는 단체와 그들의 정책은 무엇인지 리서치를 시작했고, 그 과정에서 IMF와 한국을 바라보는 양분화된 시선이 있음을 발견했다. 누군가는 IMF를 세계 경제의 수호자로 보고, 97년 한국 경제 위기의 원인은 한국 경제의 취약한 구조에 있다고 말한다. 또 다른 이들은 IMF가 미국과 선진국들을 위해 움직이는 경제적 악의 축이라 주장하며 한국은 이들에게 경제적 침공을 당한 피해자라고 말한다.<br />\n<br />\n한국과 IMF에 대해 이야기 하는 영상을 만들되, 이러한 극단적인 두 개의 시선을 효과적으로 시각화 할 수 있는 방법에 대해 생각해보았다. 두 가지 시선을 담은 두 개의 영상을 만들고 두 개의 스크린을 통해서, 혹은 교차 편집을 통해서 보여주는 것이 가장 일반적인 방식이었지만, '체험'을 동반한 영상을 만들어 '두 개의 시선'이라는 컨셉을 강화하고 싶었다. 그 때, 방안을 굴러다니던 종이로 된 3D안경을 발견했다. 한 쪽은 빨간색, 다른 한 쪽은 청색 셀로판지가 붙어있는 안경이었다. 빨간쪽으로 보면 빨간색(#FF0000)이 안보이고, 파란쪽으로 보면 파란색(#00FFFF)이 안보이는 것을 확인하고, 이 두 가지 색으로만 영상을 만들고 안경을 통해 필터링 할 수 있겠다는 생각을 했다. 왼쪽, 혹은 오른쪽 - 어느 쪽 눈을 뜨는가에 따라 전혀 다른 시각의 영상을 보게 된다는 것. 이 두개의 영상을 하나로 합치기 위해 영상의 픽셀 단위를 생각해 보았고, 인터레이스 방식에서 아이디어를 얻게 되었다. 인터레이스 방식은 처음 TV가 등장했을 때, 발신량의 한계로 인해 한 화면을 홀수 번째 선과 짝수 번째 선으로 나누어 두 번씩 전송하던 것을 말한다. 이 방식을 사용하여 한 영상은 홀수 번째 선에만, 다른 영상은 짝수 번째 선에만 보이게 하면 서로의 영역에 침범하지 않고 고유의 화면을 주사할 수 있었다. 빨간 렌즈로 보면 파란 영상만 보이고, 파란 렌즈로 보면 빨간 영상만 보이는 특수 영상은 이렇게 탄생했다. 이 두 영상은 같은 타임라인을 공유하며 두 개의 시선을 시각화 했고, 관람자는 한 쪽 눈을 감거나 가림으로써, 물리적으로 시선을 선택하는 경험을 하게 된다.<br />\n<br />\n두 개의 다른 영상에 따라 사운드 역시 두 개로 나뉘어져야 했다. 각각의 영상에 맞는 BGM과 효과음, 나래이션을 통해 두 가지 사운드를 디자인했다. 그리고 이에 대한 선택권을 주기로 하고, 이를 위해 처음에는 이어폰을 이용하여 왼쪽, 오른쪽 이어폰에서 각각 다른 소리가 나도록 계획하였다. 하지만 전시장이 매우 혼잡하고 시끄러울 것을 고려하니, 한 쪽 이어폰으로만 소리를 듣는 것이 다소 무리가 될 것이라고 판단하고, 사운드를 선택할 수 있는 버튼을 설치하여 그것을 눌러가며 소리를 선택하도록 하였다. 그러려면 영상을 인코딩 할 때 사운드를 두 개의 채널로 나누고 이를 선택할 수 있는 셀렉터를 설치해야 했는데, 그 과정이 매우 복잡하고 셀렉터의 가격도 매우 비쌌다. 고민하다가 용산을 직접 찾아가 이러한 장비에 대해 물어보고 다녔는데, 대부분의 가게들에서 차가운 무시를 당했지만, 한 가게에서 매우 촌스러운 외관의 차량용 AV셀렉터를 추천 받았고, 그 것을 중심으로 다양한 케이블들을 사모으며 문제를 해결해 나갔다. 결론적으로 이를 구현한 방식은 이러하다. 1)영상 인코딩 시, 두개의 사운드를 MONO로 변환하고, 이를 L/R에 각각 배치한 후, STEREO로 인코딩한다. 2)컴퓨터의 영상 출력단자(3.5mm 스테레오 잭)에 '스테레오(수)-2RCA(암) 젠더'를 꽂아 L/R을 물리적으로 분리한다. 3)분리된 두 개의 RCA 구멍에 '1RCA(수)-2RCA(암) 젠더'를 꽂아 L/R 각각의 사운드를 다시 두 선으로 불린다. 이렇게 되면 L쪽 두 개, R쪽 두 개 - 총 4개의 RCA 구멍이 생긴다. 4)이 중 L쪽 두 개의 선은 셀렉터의 1번 Input에 연결하고, R쪽 두 개의 선은 2번 Input에 연결한다. (내가 산 셀렉터는 총 3개의 Input을 받을 수 있었다) 그리고 Output 단자를 헤드폰에 연결한다. 5)이렇게 설치하면 1번 버튼을 누르면 L쪽 사운드를, 2번 버튼을 누르면 R쪽 사운드가 헤드폰을 통해서 나온다.<br />\n<br />\n마지막으로 준비한 장비는 안경이었다. 종이안경을 그대로 쓰려 했으나, 쓰기가 불편한 문제가 있어, 적청3D안경을 들고 안경점에 찾아가 테를 고른 후 이 안경과 똑같은 색의 렌즈를 맞추어 달라고 주문했다. 주인은 상당히 의아해 했으나 '전시용품'이라는 말을 듣고 수락하였으며, 나중에는 재수정까지 해주는 적극적인 협조를 해주었다.<br />\n<br />\n이런 과정을 통해 영상과 장비들이 준비되었고, 전시장에서 나의 영상은 벽에 걸린 스크린에서 나오고, 그 앞에 놓여진 테이블 위에 두 개의 특수 안경과 두 개의 헤드폰, 하나의 사운드 셀렉터(외관이 매우 조잡하여 케이스를 뜯은 채로 사용하였다), 하나의 트랙패드(영상의 타임라인 선택용)를 설치하였다.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/34_imfxkoreaprogress.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/34_imfxkoreaprogress4.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/34_imfxkoreaprogress3.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/34_imfxkoreaprogress2.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/34_imfxkoreaprogress5.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "34_imfxkoreaprogress.jpg",
+      "34_imfxkoreaprogress4.jpg",
+      "34_imfxkoreaprogress3.jpg",
+      "34_imfxkoreaprogress2.jpg",
+      "34_imfxkoreaprogress5.jpg"
+    ],
     "vimeoIds": [],
     "order": 2
   },
@@ -262,7 +268,13 @@
     "category": "Information design",
     "descriptionHtml": "<p>서울시의 동대문 패션상가에는 수많은 상가들이 모여있고, 이들은 각각 다른 특성 (도소매 / 주야간 / 주요품목)을 가지고 있어 방문자들은 혼란에 빠지기 쉽다. 안내도 리디자인을 통해 이들의 영업시간, 위치, 주요품목, 도/소매 구분을 쉽게 알 수 있도록 하였다. 위쪽 지도는 크게 도/소매로 나누어진 세개의 상가군의 위치를 알 수 있도록 돕고, 각각은 해당 숫자를 가지고 있어 아래 세부정보 표에서 쉽게 찾을 수 있다. 아래 표에는 각 상가의 영업시간을 시각화하여 자신이 방문할 시간에 어느 상점이 영업을 하고 있는지 쉽게 파악할 수 있게 하였고, 각 상가의 주요 품목을 표시하여, 자신이 사고자 하는 물품에 따라 해당하는 상가를 선택할 수 있게 하였다.</p><p>'Dongdaemoon Fashion Town' is huge area for fashion in seoul. There are a lot of store, so visitors can have various choice. This area can be heaven to people love shopping but on the other hand, it's too complicate to enjoy enough. There are so many stores and some of them are wholesale stores, and others are retail stores, and each store has different open/close hour.<br />\nTo solve this problem, we made the map for this area. We divide this area in three(wholesale store area, retail store area * 2), and made a chart that represent store's names, open/close hour, items the store sell, and give a specific number to each store that'll help finding the store in maps above the charts.<br />\n<br />\nconcept: Nam youngchul + Ha jungjae | chart design: Nam | map design: Ha<br />\n<br />\n2009.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/16_dongdaemoon.png' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/16_dongdaemoon01.png' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/16_dongdaemoon04.png' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/16_dongdaemoon03.png' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/16_dongdaemoon02.png' alt='' /><br />\n<span>&nbsp;</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "16_dongdaemoon.png",
+      "16_dongdaemoon01.png",
+      "16_dongdaemoon04.png",
+      "16_dongdaemoon03.png",
+      "16_dongdaemoon02.png"
+    ],
     "vimeoIds": [],
     "order": 3
   },
@@ -272,7 +284,13 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>홍익대학교 시각디자인과 영상소모임 '드로마픽'의 07/08년 작품을 모은 DVD 전반을 디자인한 프로젝트. 드로마픽 로고 내 타입과 영상의 시작을 알리는 컬러바의 색상을 결합하여 DVD케이스의 주요 테마로 삼고, 디스크 디자인과 DVD내 GUI디자인, 영상 수합 및 인코딩까지 통합적으로 진행.</p><p>'Dromapic' is a group that studies about and makes film and animation at Hong-ik University. This DVD contains the works made by Dromapic for two years.<br />\n<br />\n2008.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/27_dromapiccover.jpg' alt=':Cover' /><br />\n<span>: :Cover</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/27_dromapicdisks.png' alt=':Disk Design' /><br />\n<span>: :Disk Design</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/27_disk1page1.jpg' alt=':Navigation GUI' /><br />\n<span>: :Navigation GUI</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/27_disk3page1.jpg' alt=':Navigation GUI' /><br />\n<span>: :Navigation GUI</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/27_disk2page2.jpg' alt=':Navigation GUI' /><br />\n<span>: :Navigation GUI</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "27_dromapiccover.jpg",
+      "27_dromapicdisks.png",
+      "27_disk1page1.jpg",
+      "27_disk3page1.jpg",
+      "27_disk2page2.jpg"
+    ],
     "vimeoIds": [],
     "order": 1
   },
@@ -282,7 +300,13 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>홍익대학교 시각디자인과 2008년도 영상파트 졸업작품을 모은 DVD의 케이스, 디스크, 내부 GUI디자인. 해당 연도의 <a href=\"http://choihyemi.com/indexhibit/index.php?/projects/graduation-exhibition-poster-2008/\" target=\"_blank\">포스터 이미지</a>를 재해석하여 컨셉을 수립하였다.<br />\n<br />\n2008.</p><p>Designing cover, disk, brochure, navigation GUI for DVD which contains graduation works of students of Hong-ik University. (Visual Communication Design Department) based on the <a href=\"http://choihyemi.com/indexhibit/index.php?/projects/graduation-exhibition-poster-2008/\" target=\"_blank\">poster</a> of the exhibition.<br />\n<br />\n2008.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/26_casedesignfinal_v2.jpg' alt=':DVD cover' /><br />\n<span>: :DVD cover</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/26_hisdgraddiskdesign.png' alt=':disk design' /><br />\n<span>: :disk design</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/26_hisdgradinnerpage.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/26_hisdgradgui2.png' alt=':Navigation GUI' /><br />\n<span>: :Navigation GUI</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/26_hisdgradgui3.png' alt=':Navigation GUI' /><br />\n<span>: :Navigation GUI</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "26_casedesignfinal_v2.jpg",
+      "26_hisdgraddiskdesign.png",
+      "26_hisdgradinnerpage.jpg",
+      "26_hisdgradgui2.png",
+      "26_hisdgradgui3.png"
+    ],
     "vimeoIds": [],
     "order": 2
   },
@@ -292,7 +316,18 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>특정 공간을 재해석하여 그와 연관된 새로운 글자체를 만드는 프로젝트.<br />\n교실 옆 특정한 '목적 없이 비어있는' 공간이 임시적인 창고나 흡연 및 휴식장소로 이용되는 것을 보고, 잘 짜여진 공간 속에 숨어있는 뒤틀린 공간의 필요성을 시각화하고자 하였다. 글자체들 중 가장 단단하고 빈틈없이 짜여진 서체들 중 하나인 헬베티카를 분해하고 재결합하여 다시 알파벳으로 환원하고, 관찰한 공간들의 이미지와 결합하여 포스터를 제작하였다.<br />\n<br />\n2008.</p><p>Making new typeface project. I disassembled most well-structured typeface, Helvetica, and reconstructed it as some useless one. Images below are the result. Type and Poster made with it.<br />\n<br />\n2008.</p><p class='nav'><a id='prev' href='#'>Prev</a> | <a id='next' href='#'>Next</a> \n\t       <span id='num'></span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "25_alphabetptpage03.jpg",
+      "25_alphabetptpage05.jpg",
+      "25_alphabetptpage06.jpg",
+      "25_alphabetptpage04.jpg",
+      "25_alphabetptpage10.jpg",
+      "25_alphabetptpage09.jpg",
+      "25_alphabetptpage08.jpg",
+      "25_alphabetptpage11.jpg",
+      "25_alphabetptpage07.jpg",
+      "25_alphabetptpage12.jpg"
+    ],
     "vimeoIds": [],
     "order": 3
   },
@@ -302,7 +337,9 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>상병 초기, 휴가를 나와 진행한 포스터 작업. 휴가 나오기 얼마 전, 나는 M60 기관총 사수가 되었다. 군생활에서 느꼈던 외로움과 그리움, 그리고 기관총만큼이나 무거웠던 감정들을 모아 포스터로 만들었다.</p><p>I made this work when I'm in the military. I had been a M60 machine gunner.. and that time was so- tough. I felt sad and lonely and missed family and friends every minute. This work is a reflection of those emotion.<br />\n<br />\n2007.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/18_m60.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "18_m60.jpg"
+    ],
     "vimeoIds": [],
     "order": 4
   },
@@ -312,7 +349,10 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>군입대를 며칠 앞둔 어느 날,<br />\n급격히 바뀌어버릴 생활에 대한 불안과 그래픽에 대한 애정을<br />\n벡터 그래픽과 악치덴트 그로테스크 볼드의 'c', 유니버스 컨덴스트의 숫자들을<br />\n뒤섞어 표현한 낙서-포스터.</p><p>just expression of my mind with anxiety and love about graphic elements... vector graphics, akzidenz grotesk 'c', univers condensed numbers...<br />\n<br />\n2006.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/17_mymindofthesedays1.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/17_mymindofthesedays.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "17_mymindofthesedays1.jpg",
+      "17_mymindofthesedays.jpg"
+    ],
     "vimeoIds": [],
     "order": 5
   },
@@ -322,7 +362,29 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>4명이 만드는 하나의 이미지 북. '칵테일'이라는 주제를 각자 해석하여 페이지들을 구성하였다. 나는 '칵테일'의 피상적인 특성에 주목하여 '칵테일적 사랑과 결혼'이라는 소주제로 이미지를 만들었다.<br />\n+<br />\n책의 표지-목차 디자인</p><p>4 people made a team and worked together. We made a book called 'Cocktail'. Each of us made own graphical pages freely express the subject. My direction was 'Cocktailic Love &#38; Marriage' which means a 'superficial love'. I made mine with Futura, numbers, grids.<br />\n+<br />\ncover of the book.<br />\n<br />\n2005.</p><p class='nav'><a id='prev' href='#'>Prev</a> | <a id='next' href='#'>Next</a> \n\t       <span id='num'></span></p><p>:cover</p><p>:index page</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "23_cocktailpage02.jpg",
+      "23_cocktailpage03.jpg",
+      "23_cocktailpage04.jpg",
+      "23_cocktailpage05.jpg",
+      "23_cocktailpage06.jpg",
+      "23_cocktailpage07.jpg",
+      "23_cocktailpage08.jpg",
+      "23_cocktailpage09.jpg",
+      "23_cocktailpage10.jpg",
+      "23_cocktailpage11.jpg",
+      "23_cocktailpage12.jpg",
+      "23_cocktailpage13_v2.jpg",
+      "23_cocktailpage14.jpg",
+      "23_cocktailpage15.jpg",
+      "23_cocktailpage16.jpg",
+      "23_cocktailpage17.jpg",
+      "23_cocktailpage18.jpg",
+      "23_cocktailpage19.jpg",
+      "23_cocktailpage20.jpg",
+      "23_cocktailpage21.jpg",
+      "23_cocktailpage22.jpg"
+    ],
     "vimeoIds": [],
     "order": 6
   },
@@ -348,7 +410,10 @@
     "category": "Graphic design",
     "descriptionHtml": "<p>단순 재미를 위한 그래픽 낙서들.<br />\n<br />\n2005</p><p>no much meaning. just a scribble with graphics and typefaces for fun.<br />\n<br />\n2005.</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/20_creatorsnote.jpg' alt=':creator's note' /><br />\n<span>: :creator's note</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/20_theworldisfullofsecret.jpg' alt=':the world is full of secret' /><br />\n<span>: :the world is full of secret</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "20_creatorsnote.jpg",
+      "20_theworldisfullofsecret.jpg"
+    ],
     "vimeoIds": [],
     "order": 8
   },
@@ -358,7 +423,19 @@
     "category": "D+programing",
     "descriptionHtml": "<p><a href=\"http://processing.org\" target=\"_blank\">프로세싱</a>을 이용하여 '시각시'를 만드는 프로젝트. 프로젝트에 참여한 각자는 시나 문장, 대사, 노랫말등을 선택하여 그것을 표현하는 움직임과 인터랙션을 포함한 시각시를 제작하였다. 나는 델리스파이스의 '차우차우' 중 '너의 목소리가 들려'라는 가사만을 선택하여 피할 수 없는 / 강요된 소리를 표현하고자 하였다. 각각의 글자는 사인/코사인/탄젠트값이 만들어내는 좌표에 따라 '파장'을 형성하고, 소음과 같은 사운드가 따른다. 클릭이라는 인터랙션은 더 강한 자극을 불러온다.<br />\n<br />\n2009.</p><p>This project expresses a concrete poetry with motion and interaction and built by <a href=\"http://processing.org\" target=\"_blank\">Processing</a>. Each of all people involved in the project selected a poem, phrase, dialog or lyric and made it as a concrete poetry. I chose the lyric from chowchow(written by Deli-spice) and express this with sine, cosine, tangent values and some 'concrete' image. All letters move continually and randomly and make the line likes sound waves. and users can interact with this by mouse-click.<br />\n<br />\n2009.<br />\n<br />\n<a href=\"http://limitist.cafe24.com/portfolio/src/iHearYou/\" target=\"_blank\">View the Project on web</a> (Java plug-in is required)<br />\n*if viewing on web is too slow, <br />\ndownload files below and run it on offline environment.<br />\n<a href=\"http://limitist.cafe24.com/portfolio/src/iHearYou/iHearYou_macosx.zip\">Download - Mac OS X</a><br />\n<a href=\"http://limitist.cafe24.com/portfolio/src/iHearYou/iHearYou_windows.zip\">Download - Windows</a></p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0650.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0250.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0058.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0206.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0399.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0225.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0800.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0821.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0774.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0789.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/24_screen-0811.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "24_screen-0650.jpg",
+      "24_screen-0250.jpg",
+      "24_screen-0058.jpg",
+      "24_screen-0206.jpg",
+      "24_screen-0399.jpg",
+      "24_screen-0225.jpg",
+      "24_screen-0800.jpg",
+      "24_screen-0821.jpg",
+      "24_screen-0774.jpg",
+      "24_screen-0789.jpg",
+      "24_screen-0811.jpg"
+    ],
     "vimeoIds": [],
     "order": 1
   },
@@ -368,7 +445,39 @@
     "category": "D+programing",
     "descriptionHtml": "<p>보르헤스의 단편선 '칼잡이들의 이야기'에 수록된 '새의 숫자와 관련한 논증'을 코드를 통해 영상으로 재현. <a href=\"http://www.processing.org\" target=\"_blank\">프로세싱</a>으로 제작.</p><p>Original text by Jorge Luis Borges.<br />\nBuilt with <a href=\"http://www.processing.org\" target=\"_blank\">Processing</a>.<br />\n<br />\n2009.<br />\n<br />\n<a href=\"http://limitist.cafe24.com/portfolio/src/numberOfBirds/numberOfBirds_macosx.zip\">Download - Mac OS X</a><br />\n<a href=\"http://limitist.cafe24.com/portfolio/src/numberOfBirds/numberOfBirds_windows.zip\">Download - Windows</a></p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds01.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds27.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds28.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds26.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds29.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds30.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds22.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds23.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds25.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds21.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds24.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds16.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds17.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds20.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds19.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds18.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds14.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds13.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds11.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds12.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds15.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds07.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds08.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds09.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds06.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds10.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds03.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds04.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds05.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds31.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p><p><img src='http://limitist.cafe24.com/portfolio/files/gimgs/30_numberofbirds32.jpg' alt='' /><br />\n<span>&nbsp;</span>\n</p>",
     "inlineImages": [],
-    "galleryImages": [],
+    "galleryImages": [
+      "30_numberofbirds01.jpg",
+      "30_numberofbirds27.jpg",
+      "30_numberofbirds28.jpg",
+      "30_numberofbirds26.jpg",
+      "30_numberofbirds29.jpg",
+      "30_numberofbirds30.jpg",
+      "30_numberofbirds22.jpg",
+      "30_numberofbirds23.jpg",
+      "30_numberofbirds25.jpg",
+      "30_numberofbirds21.jpg",
+      "30_numberofbirds24.jpg",
+      "30_numberofbirds16.jpg",
+      "30_numberofbirds17.jpg",
+      "30_numberofbirds20.jpg",
+      "30_numberofbirds19.jpg",
+      "30_numberofbirds18.jpg",
+      "30_numberofbirds14.jpg",
+      "30_numberofbirds13.jpg",
+      "30_numberofbirds11.jpg",
+      "30_numberofbirds12.jpg",
+      "30_numberofbirds15.jpg",
+      "30_numberofbirds07.jpg",
+      "30_numberofbirds08.jpg",
+      "30_numberofbirds09.jpg",
+      "30_numberofbirds06.jpg",
+      "30_numberofbirds10.jpg",
+      "30_numberofbirds03.jpg",
+      "30_numberofbirds04.jpg",
+      "30_numberofbirds05.jpg",
+      "30_numberofbirds31.jpg",
+      "30_numberofbirds32.jpg"
+    ],
     "vimeoIds": [],
     "order": 2
   },

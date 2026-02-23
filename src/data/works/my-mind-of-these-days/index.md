@@ -5,7 +5,9 @@ order: 5
 year: "2006"
 vimeoIds: []
 hasP5Sketch: false
-galleryImages: []
+galleryImages:
+  - "17_mymindofthesedays1.jpg"
+  - "17_mymindofthesedays.jpg"
 ---
 
 군입대를 며칠 앞둔 어느 날,
@@ -19,3 +21,7 @@ galleryImages: []
 just expression of my mind with anxiety and love about graphic elements... vector graphics, akzidenz grotesk 'c', univers condensed numbers...
 
 2006.
+
+![](./17_mymindofthesedays1.jpg)
+
+![](./17_mymindofthesedays.jpg)

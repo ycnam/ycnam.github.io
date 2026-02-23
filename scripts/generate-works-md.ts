@@ -141,7 +141,9 @@ function htmlToMarkdown(
       .replace(/<[^>]+>/g, '')
       .replace(/&nbsp;/g, '')
       .trim();
-    if (!plainText) continue;
+    // Skip only if no plain text AND no images
+    const hasImages = /<img\b/i.test(inner);
+    if (!plainText && !hasImages) continue;
 
     // Skip Vimeo credit lines — video IDs are already in vimeoIds frontmatter
     if (isVimeoLinkParagraph(inner)) continue;
