@@ -3,3 +3,6 @@ dist/
 .astro/
 .DS_Store
 *.log
+
+# Obsidian vault settings (콘텐츠 디렉토리에서 열 경우)
+.obsidian/
