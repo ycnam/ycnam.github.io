@@ -6,9 +6,11 @@ import Footer from '../components/Footer.astro';
 
 interface Props {
   title?: string;
+  description?: string;
 }
 
-const { title = 'YCN' } = Astro.props;
+const { title = 'YCN', description = 'Youngchul Nam의 개인 블로그' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <!doctype html>
@@ -18,7 +20,17 @@ const { title = 'YCN' } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="google-site-verification" content="UMiV_SFqVZM2anASlCv-iAUJexDZ5F_A9xfRaip-AC4" />
+    <meta name="naver-site-verification" content="8c4f365265d38489020b815a40e6afb73b532cdc" />
     <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content="YCN" />
+    <meta name="twitter:card" content="summary" />
   </head>
   <body>
     <div class="site-wrapper">
