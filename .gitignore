@@ -6,3 +6,8 @@ dist/
 
 # Obsidian vault settings (콘텐츠 디렉토리에서 열 경우)
 .obsidian/
+
+# 환경 변수 (Threads API 토큰 등 비밀값) — .env.example만 추적
+.env
+.env.*
+!.env.example
